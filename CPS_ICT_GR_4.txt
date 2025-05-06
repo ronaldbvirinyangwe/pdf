@@ -1,0 +1,3963 @@
+--- Page 1 ---
+‘Information and tcrnuumiintion
+_ Technology
+
+Grade 4 Learner's Book
+
+Baty
+
+Mlangeni A Musendekwa Nhidza J
+
+
+
+--- Page 2 ---
+(’ Primary '~~ |
+PO - \
+
+Information and G __sahication
+Technology (ICT)
+
+a
+ee
+
+Grade 4
+LEARNER’S BOOK
+
+Miangeni A Musendekwa M Nhidza J
+
+CPS
+
+CONSULTUS
+PUBLISHING
+SERVICES
+
+
+
+--- Page 3 ---
+Chapter 1
+
+| Chapter 2
+
++
+
+_ Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+
+Chapter 7
+
+Chapter 8
+
+Chapter 9
+
+Chapter 10
+
+Chapter 11
+
+Information and communication technology ols
+
+Creating and publishing: presentation and slide snow
+
+Creating and publishing: databases
+
+Computer software: desktop publishing
+
+Computer software: file management
+
+Computer software: multimedia
+
+Safety and security: computer viruses
+
+The world wide web and online collaboration
+
+The world wide web and online collaboration:
+
+e-messages
+
+ICT enterprise
+
+Programming: sequence of instruction
+
+3
+
+37
+
+45
+
+53
+
+67
+
+73
+
+81
+
+87
+
+93
+
+
+
+--- Page 4 ---
+A arent ete
+
+Foreword
+
+The CPS Grade 4 Learner’s Book aims to equip learners with a comprehensive and broad
+
+perspective on the basic knowledge of ICTs. The book was written in line with the new curriculum
+
+that was developed by the Ministry of Primary and Secondary Education.
+
+In the book, learners should expect to find:
+
+objectives of the chapter that will enlighten learners with an idea of the knowledge that they
+should be equipped with at the end of the chapter
+
+assumed knowledge of what learners would have acquired in the previous grade, in other
+subjects or in their local or global environment
+
+a detailed introduction that will give learners a brief look at what is in the chapter as well
+as a recap of information learned in previous chapters
+
+clear photographs of ICT tools
+
+activities that encourage individual work, group work and class work which will promote the
+learner’s social skills
+
+practical work with legible photographs of the instructions
+
+a summary of key points that will sum up the concepts learned in the chapter
+
+end of chapter questions that encompass all the concepts that were learned
+
+Learners will find the book informative and educative.
+
+
+--- Page 5 ---
+Information and communication
+
+tm ao al:
+
+Assumed knowledge
+
+a) A computer is an electronic device used io process. store and
+retrieve information.
+
+b) Laptops, desktops, palmtops, notepads and smart phones are
+some examples of computers.
+
+c) ICT tools are all the equipment you use in information
+communication and technology like radios, television, laptops,
+DVD players, digital cameras and drums.
+
+d) A computer has four main parts, a mouse, a keyboard, a system
+unit and a monitor.
+
+e) The parts of a computer which you can fouch are called
+hardware.
+
+Introduction
+
+Computers can work on their own. However, for them to work
+better, they need to have computer peripherals connected
+to them. These peripherals can be input, storage or output
+devices. The peripherals enhance the functioning of a
+computer so that the computer can be used in a better way.
+This chapter discusses the various types of input, output and
+storage devices.
+
+
+
+--- Page 6 ---
+Identifying input devices
+
+Input devices are devices that are used to input information into the
+computer. They allow us to control and give commands to the computer.
+Input devices are part of computer hardware because you can touch
+them. The key board and mouse are the most common types of input
+devices. Some input devices include a scanner, a digital camera, a
+touch pad, and a microphone.
+
+Types of input devices
+
+A keyboard
+
+It is used to enter data and instructions into the computer. The
+keyboard is divided into different types of keys, that is, the
+alphabetic keys, the numeric keys and the editing keys like
+delete, backspace, caps lock, space bar and enter. All these
+keys, when pressed, they enter data into the computer.
+
+A mouse
+
+A mouse is a pointing device. You can click,
+double click or drag the mouse. A mouse is
+used by following the movement of a cursor on
+the screen. )
+
+OINSEA SSS Sa a dS bas BIEN BA Aa OLN ODES
+
+
+
+--- Page 7 ---
+A microphone
+
+It is used to input sounds into the computer.
+Where have you seen a microphone being
+used?
+
+A scanner
+
+It is used to save images and written text into
+the computer memory. Instead of retyping a text, the same text can be
+scanned into the computer then it is saved and edited later.
+
+A digital camera
+
+A digital camera is used to
+take pictures and videos. These
+pictures and videos are saved
+onto the digital camera's
+memory. They are then input into
+a computer by connecting a
+cable from the digital camera
+to the computer. They can be
+downloaded and saved in a
+computer.
+
+
+
+--- Page 8 ---
+A touch pad
+
+This input device can be used in place of a mouse. The touch pad
+is found on a laptop and it works like a mouse. It is used to move the
+cursor so that text can be typed into the computer.
+
+A touch screen
+
+This input device is most common on smart phones, Automated
+Teller Machines  (A.T.M.) at the banks and tablets. The
+device inputs data into the computer when the user touches the
+screen to input data on the required menu.
+
+Tuesday 26 September
+OS mewn «=»
+
+Sat wea Mate yur ord
+
+a
+gece memes ear plant Date Cowra, bas the Lord emtentanon thei
+enas. » Prownce 169 VY
+
+
+
+--- Page 9 ---
+A barcode reader
+
+It is commonly found in shops at till points. If is used to read the
+barcode and to output the prices of goods.
+
+. Identify and name the various types of input devices
+in your computer lab.
+2. Visit your nearest shopping center or fown center and
+observe how input devices work.
+
+Output devices
+
+These are devices that enable you to see the data which has been
+processed by the computer. Output devices are important because
+they enable you to correct any errors that would have been made
+when inputting data into the computer. There are many types of output
+devices.
+
+
+--- Page 10 ---
+Types of output devices
+
+A monitor
+
+This is the most common type of output device. It can also be called
+a screen or Visual Display Unit (V.D.U). The screen displays all the
+information you would have input into the computer in a readable form.
+The information being displayed is a soft copy.
+
+A printer
+
+A printer enables the user to produce
+information on paper. Information is
+called a hard copy. A printer
+can be connected to the
+computer using cables or it can
+be wireless. Once the command
+to print is sent, information will
+be produced on paper from the
+printer. There are many types of
+printers. Some print black and white
+
+and some are colour printers.
+
+
+
+--- Page 11 ---
+Speakers
+
+Speakers enable you to
+hear sounds like music or even
+recorded voices. These can be
+connected either outside or inside
+a device.
+
+A projector
+
+This is used to output information
+on a big screen. Projectors can
+be used in meetings for presentations. Nowadays. some churches use
+projectors to output Bible verses. At school, the projector can be used
+in class for lessons.
+
+
+
+--- Page 12 ---
+Activity 1.2
+
+2. Work with your teacher to find out how fhey are
+
+NA
+J 1. Identify output devices in your computer lab.
+connected.
+
+Storage devices
+
+Storage devices are parts of computer hardware used to store and
+extract data from one device to another. Information on storage
+devices can be kept temporarily or permanently. Storage devices
+can be external or internal to the computer.
+
+Types of storage devices
+
+Storage devices can be put into two main groups and these are:
+1. Primary storage devices
+2. Secondary storage devices
+
+Primary storage devices are smaller in size. They are internal to
+the computer and they hold data temporarily. Secondary storage
+devices can be called back up storage devices.They can be internal
+or external. Secondary storage devices store large amounts of data
+because they are bigger in size.
+
+Identifying storage devices
+Magnetic disks
+
+These are storage devices that use magnetic process to write,
+rewrite or access data. Hard disks and floppy disks are examples of
+magnetic disks.
+
+EIS EER 0 my
+
+airy
+
+
+--- Page 13 ---
+A hard disk drive
+
+This is the most common type of
+storage device which all the computers
+have. The hard disk drive is inbuilt in
+the computer and it stores the
+operating system, applications and
+files for The Compuier users.
+
+A floppy disk
+
+This is a small plastic plate coated with
+magnetic material. If is used to store
+and transfer data from one computer to
+another. We can read and write data on
+a floppy disk. However, these have been
+replaced by Universal Serial Buses (USBs).
+
+Optical disks
+
+Optical disks are storage devices that are flat
+and circular in shape. These include Compact
+Disks (CD) and Digital Versatile Disks (DVD). These
+optical disks differ in the way they can be used
+as storage device.
+
+Table 1.1 | CD storage devices |
+Type | Meaning Functions
+
+CD-ROM | Compact Disk Read only MEMORY | You cannot edit the data on
+DVD-R Digital Versatile Disk Read only these disks.
+
+CD-RW Compact Disk-Read Writable The contents on these disks
+DVD-RW Digital Versatile Disk Read Writable | can be edited. You can delete
+and save new information.
+
+
+
+--- Page 14 ---
+External hard drive
+
+It has a very big memory and is portable, therefore, it can be carried
+ground. It has a memory much bigger than that of flash drives. It can
+store information in large amounis.
+
+A memory stick
+
+This is a small piece of hardware
+used to transfer information using
+USB. It is also known as a flash
+memory or flash drive.
+
+A memory card
+
+This can be inserted directly onto the /
+device like a smart phone. It can also
+be inserted into a card reader then
+connected through a USB port. Memory
+
+cards vary in sizes depending on the
+amount of information you want to store.
+
+: Roe nie coumrese spanner se ay SS Da SESE SRG QC
+ARGO Ree OR Ek OSS cabana rest
+
+
+--- Page 15 ---
+Activity 1.3
+
+ae
+
+1. Identify the various ICT devices in your Computer
+lab. Connect some of the devices and see what
+happens. For example, you can give a command
+to your computer fo print a document.
+
+Work in groups to connect the various ICT devices. —
+Input data like numbers and alphabetical letters.
+Connect a printer and print some documents.
+
+Insert disks and read information or data on them.
+Also use RW disks.
+
+Key points
+
+a) Computer peripherals like input, output and storage
+devices make the compuier work better.
+
+b) Input devices include a mouse, keyboard and
+microphone. These help to give a command to the
+computer.
+
+c) Storage devices differ in sizes. Some of the storage
+devices are hard disks, flash drives, memory cards and
+external hard drives. These store information so that
+you are able to retrieve and or edit it later.
+
+d) Output devices enable you to see the information that
+has been processed by the computer in a readable
+form.Some of the output devices are, printers, projectors
+
+and speakers.
+
+
+
+--- Page 16 ---
+REA is an input device which can take videos and
+pictures.
+A. keyboard B.scanner €.camera D. barcode reader
+2. The name is given to devices that allow you to view
+and edit information.
+A. storage devices B. input devices
+GC. output devices D. ICT toys
+3. ___ is the smallest storage device in terms of size?
+A. An extemal hard disk B. Flash drive
+GC. Hard disk D. Memory card
+4. optical disk is writable?
+A. CD-R _B. CD ROM
+C. DVD-R D. DVD-RW
+5. You get a ____ affer printing out information.
+A. photocopy B. hard copy
+C. data D. soft copy
+6. A is a storage device thai can be used in a smart
+phone.
+A. memory card B. external hard drive
+C. DVD D. flash drive
+
+7. list any two types of the following:
+
+d [Input devices _ | Output devices | Storage devices
+
+“b)| | |
+8. State any device that can be used esa Or Cee
+by the computer.
+
+
+--- Page 17 ---
+9) Creating and publishing:
+preseniation and slide show
+
+Assumed knowledge
+
+a) Images can be added to a presentation.
+b) Basic presentation can be created using presentation software.
+
+Introduction
+
+There are many presentation softwares. The common
+presentation programs that are available are Microsoft
+PowerPoint, Open Source Presentation Software and Lotus
+Freelance graphics. For the purposes of our exercises, this
+book will only use Microsoft PowerPoint and deliberate on
+how it functions.
+
+Creating a presentation
+You are going to create a presentation consisting seven slides on the
+cities in Zimbabwe.
+
+1. Open a presentation program
+
+a) Click the Start button.
+b) Go to All Programs and choose Microsoft Office.
+c) Click once and choose Microsoft PowerPoint.
+
+
+
+--- Page 18 ---
+2. Open a blank presentation
+
+PowerPo | nt Search for online templates and themes se) Sign in to get the most out of Office
+
+Suggested searches: Presentations Business fducation Industry Labels
+
+earn more
+Personal Nature
+
+Recent
+
+This Week
+
+'; K f)
+
+Presentation? pptx j | Ta ke a ( > a QuickStarter
+Documents » ICT to U r q veer!
+
+Older
+
+- i Welcome to PowerPoint Bertin
+Zimbabwe. pptx |
+Documents » ICT
+
+(ar Open Other Presentations
+
+lon Boardroom
+
+ns
+
+YZ :
+
+Y KS v
+Ldas
+NS OO
+
+YANG,
+
+5
+
+Presentation? - PowerPoint
+
+Design Transitions Animations Stide Show Review View Foxit POF @ Tall
+
+Sting
+New ~ : ws ee (OR ~ ALUD EG: 1a 3 ne SB. Replace -
+Slides (Section~ ~~ . . 1 y ty Select
+E stides Paragraph
+
+Dravang Editing
+
+Click to add title
+
+Click to add subtitle
+
+
+
+--- Page 19 ---
+b) Add title, for example, Zimbabwe and subtitle, for example, Capital
+City Harare.
+
+Sign in luaj
+
+Presentations - PowerPoint
+
+Boo =
+
+Transitions Animations Stide Show Review = - View. Foxit PDF Format Y Tell me what you want to da (&> Share
+
+Insert Design
+
+= ]} . Bae cares A. NA OR i ib
+(SS) Titeyout~ carbs ign each-1138 ~ A A Mp 22 -ie- ee te lll XL NOOO Oe, Cs 2aShape Fill DP Find
+Paste” New TReset a oe H- ALLOtG- ae oie {Zshape Outtine- 28. Replace +
+~ S side- GSection- BTU Sse Nema Ye A- BSE Be Bl ea gy ye = Ans Styies~ @ Shape Effects~ Iz Setect-
+Clipboard Ta Slides Font iy Paragraph Lr Drawing is Editing
+
+abwe
+stylawe
+
+* Zimbabwe -
+
+Capital City Harare
+
+Slider of
+
+3. To add a slide to a presentation
+
+a) Click New Slide.
+
+H o-o
+
+Insert Design Transitions = Animations
+
+- ~~ — Stide~ Section ~
+Clipboard fm ‘Slides
+
+Zimbabwe
+Capel Cae bata
+
+1 ;
+|
+
+Click to add title
+
+j
+
+2 || * Click to add text
+
+MGAM
+“> JB1922017;
+
+
+
+--- Page 20 ---
+4. Select title slide
+
+a) Add title, for example, Harare and subtitle Glenview, Budiriro,
+Mufakose and Mbare.
+
+BG o- 6 B® = Presentation? - PowerPoint
+
+Insert Design Transitions = Animations d eviews View Foxit PDF
+
+3] Glayout~  catinsi ody) “54 <A A 4 TS eal ee P Find
+
+7]
+nou Bs i ee) Be es (Zshape Outline- 38, Replace ~
+le lew AVY Ase U%~ AY je Qui
+et sige ‘Secion~ 7 Y S ote Me Ane > A Ee z a ~ GP Shape Effecis- ly Select~
+Cipbeard fa Slides Font fe Paragraph % Drawing te Editing a
+S
+1
+Zimbabwe
+Capui Crytiarae
+
+Harare
+
+2 ° re)
+| = | “Glenview |
+
+Budiriro
+° Mufakose| 9 |
+Mbare |
+
+am 4a
+
+° io) oO
+
+Saving a presentation
+
+It is recommended that you save your work at regular intervals
+whilst you are working on it, rather than waiting until you have finished
+the last slide. For example, you can save after completing each slide.
+
+Presentationi - PowerPoint
+
+into
+
+New
+This Week
+ICT
+Documents » ICT
+
+Open
+
+Save
+Save As
+Print
+Share
+wiz Add a Place
+Export
+
+Clase
+Browse
+
+Account
+Feedback
+
+Options
+
+Eat
+Sa
+—
+
+
+--- Page 21 ---
+Steps to save a presentation
+
+1. Click on the File tab and choose Save As, as shown on page 16.
+
+2. You shall be given an option to choose the folder in which you
+wish to save your presentation.
+
+3. Click on the folder you wish fo save your file in.
+
+4. PowerPoint uses the main title you entered on the first slide, that is,
+Zimbabwe.
+
+E RG sh
+
+4 |. « Users > user » Documents > ICT ¥ G — Search ICT
+
+Organize v New folder Sw
+
+EB) Microsoft PowerPo “ Name Date modified Type
+
+b. Grade 1 28/09/2017 9:13 A... File folder
+&y Favorites hk. Grade 2 10/11/2017 5:13 PM File folder
+L. Grade 3 11/09/2017 8:30 A... File folder
+WB Desktop jb. Grade 4 16/11/2017 11:10... File folder
+3 Homegroup b. Grade 5 11/08/2017 3:20PM File folder
+user i. Grade 6 10/07/2017 11:26... File folder
+AppData }. Grade 7 26/06/2017 9:04 A... File folder
+
+z Application Dat f°) Zimbabwe.pptx 15/09/2017 10:23... Microsoft Power?.
+
+File name: | Zimbabwe. ppix
+
+Save as type: ‘PowerPoint Presentation (*.pptx)_ lh
+
+Authors: user
+
+| ‘* Hide Folders Tools ¥ | Save | Cancel
+
+5. PowerPoint automatically adds a pptx extension.
+6. Click Save.
+7. Your file name will aqopear as Zimbabwe. ppix.
+
+
+
+--- Page 22 ---
+Adding slides
+To add more slides onto an existing presentation.
+Open PowerPoint and file Zimbabwe.
+1. Add a New Slide.
+2. Add aslide with aTitle and Content.
+3. Add title and text.
+4. Enter the following text.
+a) Click in the title placeholder (where it says Click to add title)
+and type Gweru.
+b) Click in the content placeholder (where it says Click to add
+text) to activate it, type Mkoba, Senga and Nashville.
+
+Zimbabwe ppo
+
+eview = View. «Foxit PDF Vy. Tell me wha
+
+Gweru
+Mkoba
+
+Senga
+Nashville
+
+Insert another slide
+
+a) Click in the title placeholder (where it says Click to add title) and
+type Mutare.
+
+b) Click in the content placeholder (where it says Click to add text) to
+activate it, type Sakubva, Dangamvura, Morningside and Chikanga.
+
+
+
+--- Page 23 ---
+See =a : = 2 = Zimbabwe pptx
+
+1 insert Design Transitions Animations Slide Show. Review View Foxit PBF a
+
+Dangamvura
+Morningside
+Chikanga
+
+Insert another slide. (Slide 5)
+a) The title should be Bulawayo.
+b) The title content should be Khumalo, Mzilikazi and
+Tshabalala.
+2. Insert another slide. (Slide 6)
+a) Add a New Slide add a slide with a Blank layout.
+b) Select the Insert ribbon, click Shapes.
+Cc) Select a Text box and type Shapes.
+d) Select and draw a rectangle, cycle and triangle.
+e) Fill in shape colours: rectangle yellow; circle blue
+and triangle green.
+3. Insert another slide. (Slide 7)
+a) Go to the Insert ribbon, click Online Pictures.
+NB: your computer should be connected to the
+Internet. If you are not connected, click Pictures and
+use the pictures that are on the computer.
+lb) Search for the Zimbabwean flag.
+c) Click on the flag you like and click Insert.
+
+1.
+
+uncer tee aN DAS ATE 19 as eterna Sey
+pS INE Acasa tone ; PRM: oC i
+op tse senna Sana SS
+
+0
+ae aa
+
+a
+
+
+--- Page 24 ---
+-_ ae = = : a Zinbatre poo.
+
+Home insert Design Transitions © Animatinns ‘Slide Show Review View Foxit PDF Format
+
+= tones. Sat {Z Picture Border > ~
+Corrections et ay oe ae rm icture Bring Forward fl
+et BS; cotor~ %- pra ati «zs < - Gi Picture Effects~ — Send Backward + we c
+remove | ee ¢ SS SS ee : fop <3
+. © artistic Effects - “Sl - + Is Picture Layout~ |, Selection Pane me -
+adjust Picture Styles % Arrange sre ify a
+4 .
+5
+6
+\ ee
+< y
+= x
+=
+
+1246 AM
+* 16/17/2017
+
+To run your presentation
+1. Select the Slide Show ribbon.
+
+2. Click From Beginning.
+3. Press any key to move slides or click the mouse button.
+4. At the end of the show, it comes back to PowerPoint.
+
+Create a presentation and give it the name Zimbabwe.
+
+2. The first slide should be a fitle slide with the Title.
+Zimbabwe.
+
+3. Insert four slides, the layout should beTitle and Content,
+Titles should be the four cities in Zimbabwe.
+
+4. The content of each slide should be the region of that
+city, rainfall patterns andthe: identity of the city.
+
+5. Save your presentation using the file name Zimbabwe 2.
+
+)
+
+cea ee —
+
+eapaznacsers se —_—
+
+ee Sere,
+pease OT re
+
+
+
+--- Page 25 ---
+a) When inserting a slide, it is very important to make
+the correct choice about the slide layout as this will
+determine the type of work which can be put on the
+slide.
+
+b) When you want to make changes to a slide make sure
+the slide is selected.
+
+c) When inserting a slide between two slides, Select the
+slide that is below and insert. The new slide will be
+placed above the selected slide.
+
+d) The font and paragraph works the same in Microsoft
+Word and PowerPoint.
+
+“W End of chapter questions
+
+New Slide, Layout, Font and Fomt Size are found! on =
+
+
+
+--- Page 26 ---
+i pan)
+
+deleted
+
+We hae 36 you u insert pictures ae © a presentati ation?
+
+8. Ne tat cae ue oe a are major cities in
+
+
+
+--- Page 27 ---
+Creating and publishing:
+) databases
+
+Assumed knowledge
+
+a) Data can be classified in various ways.
+b) Branching databases can be created using prepared tables.
+
+Minifeaucion, 0,
+
+| A database is a structured set of data held in a computer,
+
+especially one that is accessible in various ways. Database
+is very important for schools, different organisations and our
+country. Imagine you have lost your birth certificate and you
+want to get another one from the registrar's office. The officers
+there simply search your name and get all your details in a
+short period of time. Hospitals, use the database to record a
+patient’s details and the information will be used in different
+departments. For example, if they want to check your bills,
+the accounts department gets your details from the hospital
+database.
+
+You can create a database for your class. This topic will take
+you through the steps required to come up with a database
+
+
+--- Page 28 ---
+Database
+
+Database is a collection of information that is organized so that if can
+be easily accessed, managed and updated. A school may have a
+collection of names of all learners. However, these learners can be put
+into different clubs or groups. Here are examples of groups that can be
+found at a school.
+
+a) traditional dance group b) school choir
+c) science club d) soccer team
+e) debate club f) life skills club
+
+This information is needed by the school administrators so that when
+they are doing their budgets, they have all the details of the students in
+these groups. Database makes the administrators’ job easy. The table
+below shows how a database looks like.
+
+Table oc 3.] Database __
+s Boys Ere pho ees
+
+eee eens foot fecoee
+
+] usoni Farai 10/06/07 123 Chitepo
+PO. Box 163
+Msasa, Harare
+Sibanda bili 12/ “ae 11221/7 Nkulumane 11
+aa Nkulumane, Bulawayo
+
+3  |Chauke —s 24/01/07 49 Magambo Street
+PO. Box 2340
+Chiredzi
+
+At the top of this table is the fable name. Boys. Below the table name
+are column names: ID, Surname, First name, DOB and Address. These
+are known as field names in database. Many field names can be
+added depending on the information to be recorded. This means that
+a database can contain as much information as the data capture may
+want to record. A database can contain information like email address,
+cell phone number, as well as, age of a person. However. there is a slight
+difference with a word document. Information in database is made in
+
+
+
+--- Page 29 ---
+such a way that a field, for example, cell phone numbers, must contain
+information that is uniform. If numbers are written as +263 700 000 000
+then all the numbers in that field must start with +263. The field would
+then be like the one below:
+
+Table 3.2 Field numbers ©
+' Names | Cell phonanamper ie
+
++263 777 777 777
+
+1. In pairs, create a database table of the subjects
+(S you do.
+; 2. Write how many times you have each subject in
+
+a week and how long it takes.
+
+Creating a table
+
+Below are the steps you take when making a database.
+
+1. Click on Microsoft Office Access. On the box that comes oui ihere is a part
+written Blank Database.
+
+Access semch for valine templates JO)! Sign in to get the most out of Office
+
+Sugperted searches, Gaanase Business Logs utastry Uae
+
+Recent
+
+SS
+
+jaw Open Other Files
+
+
+--- Page 30 ---
+2. Click on the box Blank Database.
+
+Short Number Cosrency
+
+Text
+Views
+
+All Access ... ©
+
+Search.
+Tables
+Tablet
+
+fis More Fields ~
+
+Properties
+
+3. Goto File and click on Save As.
+
+tntes
+
+New
+
+Open
+
+Save
+
+Print
+
+Ciose
+
+Account
+
+Options
+
+Validation
+
+Field Validation
+
+Databaset - Database- CAUsersiuser\ Documents Datsbase Laccd (Agcess 2007 - 2016 file format) - Access Signin
+
+Save As
+File Types
+
+Save Database As
+
+Save Object As
+
+Save Database As
+Database Fite Types
+
+(F} Access 2000 Database amdby
+spy that will be compatible with
+
+Gs Package and Sign
+Package the database and apply a cigitat
+SiIQhature.
+
+GR Back Up Database
+Back up important databases regulary to
+prevent datas lazs.
+
+bet
+
+28 a MIR RRR ey
+TELE
+ane,
+
+(2p Access 2002-2003 Oatabare (enc)
+Save a copy that will be compatible with:
+Access 2002-2003.
+
+EF Template Csccdt)
+
+Save the current database as a database
+template (ACCOT).
+
+Make ACCOE
+File will be compiled into an enpoutable
+only file,
+
+J SharePoint
+Share the database by saving it to a
+document management server.
+
+a
+
+
+
+--- Page 31 ---
+4. Click on Access Database, then click Save As.
+5. Type the file name, for example, Boys and click Save.
+
+Save AS
+© ~ |. « Screenshots > Chapter 3 Search Chapter 3
+
+Organize v New folder
+
+wm PrintHood “ Name Date modified Type
+a Recent
+j. Roaming No items match your search.
+#® Saved Games
+x) Searches
+m SendTo
+gw Start Menu
+m@ Templates
+ig Videos
+we This PC
+‘ew Libraries
+& Network vi <
+
+File name:
+
+Save as type: 'Microsoft Access Database @accdb) aosreed
+
+\+ Hide Folders
+
+Sers\ User DGCUMENDAIC F\Grade 4\scrcensbors\Chapter F\Boys.accdb (Access 2007 « 2016 file farmat
+
+Datobase Tools @ te
+
+f=> aaa — om waeEI [Gl rorun Wizard
+fal eel BR db we fl Navigation -
+Application Table Table SharePoint Query Query Form form = Biank —— Report Report Btank Labeis
+Parts ~ Design tists- Wizard Design Design Form [lMore Forms ~ Design Report
+Tempitates: Tabies Queries forms Repons
+All Access ... 2 « |
+j
+Search... P|
+
+
+
+--- Page 32 ---
+7. Click on Home, then click View and get two headings Datasheet View and
+Design View. You use the Design View to create the field names.
+
+Boys : Database- C\t
+
+© Caliber (Detail)
+1 r a Pa
+v Spening 3GoToe BIYU > <
+Si More- te Select Axi Be
+Find Tet Formatting
+
+8 When the Save As box appears, type your table name.
+
+Database Tools
+
+Create —_- External Data
+
+= Totals
+Spelling
+
+Text Formatting
+
+__Sipboard Te ~ & Fiker
+Access... 2 «|= ™\_ ss
+so) 1D ~ ClicktoAdd |
+pes a * (New) ;
+
+
+
+--- Page 33 ---
+9. Go to the fields and give headings like Surname, First Names, DOB and
+Address.
+
+‘\Grade 4\Screenshots\ch. Sign im
+Home Cteate  fxtematData Database Tools
+
+So Insest Rows.
+
+1X Delete Rows = j
+
+1 tye te
+Property indexes Create Data Rename/
+Macros- Delete Macro
+
+Primary Posi
+
+Key eee Modify Lookups Cheer
+
+Show/Hide ——“Fietel Record th Table Events Relstionshaps
+
+All Access... @ « [2m \ ; a
+seorth.. Field Name Data Type
+
+p 3 surname Short Text
+Tables % | First Name ‘Short Text
+ES toys ‘DOB Date/Time
+|address Short Text
+
+~ Description (Optional)
+
+Field Properties
+
+General Lookup
+Field Sze
+
+A fietd name can be up to 64 characters long.
+
+No including spaces. Press F1 fer help on field names.
+
+ves
+Sn No
+Unicode Compression ves
+IME Mode No Contral
+JME Sentence Mode ‘None
+Text Align General
+
+Design view. 76 = Switch panes. FT = Help
+
+IMROTA
+
+10. Under Data Type where there is Surname, First Names and Address, choose
+Text and choose Date or Time for DOB.
+11. Choose Datasheet View and Save your table.
+
+Edernal Data Database Tools
+¢ insert Rows. =
+i
+OX Delete Rows
+fi Modify Lookups
+
+Property Indexes Create Data Rename,
+‘Sheet Macros~ Delete Macr
+Views i Show/Hide Field, Record
+
+All Access... ® « |= pct
+Field Name Data Type
+
+Seareh. Pie Sumame Short Text
+Tables & ‘First Name Short Text
+FX toys |DOB Date/Time
+
+Address ,
+
+, ‘You mast first save the table.
+| General Lookup
+| Held see
+
+Format
+‘nput Mask
+
+Do you wantto save the table now? [>
+
+A field name can be up to G4 characters long.
+including spaces. Press F1 for help on field names.
+
+
+
+--- Page 34 ---
+12. Having completed this part, your database would be ready for use. This
+means that under every field given, you can Now simply type the details
+relating to that field.
+
+y i ascending Y Setection~ ty a New = Totals S Replace Calin (Detail)
+ZL escending "Advanced Pew sae Yspeling “ 2GoTor BIU >
+4 t §
+econ ter pte MDelete + More hseet- A-* B- S25 de
+
+Sort & Fiker Records Find Text Formatting
+
+View fate |. — Filter
+
+eS Cipbosrd
+
+All Access... @ ¢ [Se
+Surname
+
+- FirstName ~ DOB * “Address Ss CCiick to Add ~
+
+Please note that after completing the table, you simply close it because it
+saves the data automatically.
+
+Database graphs
+
+Information from the database can be taken and exported to a graph.
+This process requires you to go through the creation of a table as given
+previously. After creating a table, you can now send it to Excel so that a
+graph can, be produced. Although it is a rare case that databases can
+be presented by graphs, it is quite interesting to note that the information
+on the database can be exported fo a graph. However, you must be
+careful, in that, if the database has many fields, then presenting if as a
+graph can be difficult. Having many fields means that the graph is also
+going to have many bars, therefore it can become difficult fo work with.
+
+
+
+--- Page 35 ---
+Creating a graph
+1. Create a database and highlight if.
+
+Boys: Datab. user Documents CT\Grade 4\ Screens, Signin
+
+Create Eternal Data Database Tools Freids
+NZ hy, %o SLascending YiSetection~ [7 New = Totals 5®) SiReplace Calibri (Detail)
+: ae ¢ Ridescending “Tl Advanced ~ 4 S Spelling 2GoTor BIY > <« is)
+Views . £ . Sort & Filer cords: fod Text Formathng Pi a
+x
+
+View
+
+DOB Address * Click to Add -
+2 | (Musoni — Farai 10/06/2007 123 Chitepo P.O Box 163 Msasa Harare
+Sibanda Mthandazo 12/12/2007 11221/7 Nkulumane 11 P.O Nkulumane Bulawayo
+eee Hiengani : 24/01/2007 49 Magamba Street P.O Box 2340 Chiredzi
+
+Recor: 4 4 4084
+
+Datasheet View
+
+: x Cauibri -20 9 AK i » f- (b> ay pP
+Clipboard & font m Alignment vorre: tie cal Edang
+Al - x «fe
+A _B c D E F 6 H \ 3 K Lo. oM N ‘
+4
+2 |Surna First [DOB Address
+
+3 ‘Muso Farai 10/06/2007 123 Chitepo P.O Box 163 Msasa Harare
+4 Siban Mtha 12/12/2007 11221/7 Nkulumane 11 P.O Nkulumane Bulawayo
+5 ChaulHleng 24/01/2007 49 Magamba Street P.O Box 2340 Chiredzi
+
+a
+
+
+
+--- Page 36 ---
+3. At first, the exported table appears as shown on the image on
+page 33 but that can be corrected so that names will fully appear
+as shown below.
+
+¥ Wrap Text General bd ied ms i? PP
+oe = oe oes s x Delete ~ oa 12
+
+= Fimemeacenter- $-% > VA Conditional Formatas Celik = _ Sore Find &
+” ® 72 commattings Table~ Syies< “)Fomaty © ~ piner~ Select
+
+Number fa Styles Celis Editing
+Musoni
+
+B
+
+Surname First Name DOB Address
+[Musoni |Farai 10/06/2007 123 Chitepo P.O Box 163 Msasa Harare
+
+‘Sibanda “Mtthandazo 12/12/2007 11221/7 Nkulumane 11 P.O Nkulumane Bulawayo
+Chauke Hlengani 24/01/2007 49 Magamba Street P.O Box 2340 Chiredzi
+
+4. This is done by sinply adjusting | the width of the columns and the
+height of the rows to suit your information.
+
+5. Highlight the information you want to be included in the graph and
+click on Insert. You can even aad more information such as height:
+
+fiewam Pagelayout formulas Data Review
+
+‘ Or w
+puwersble Recommend Tabs MUstraBOs GH ney Adé-ins = Recommended "y _ =, Mans Prothat 30 Une Column Wing
+Prottantes Cha “ - - Map~ Loss
+Tablas. Addons Tarts, = Tears Spartines Fiters
+
+i FirstName DOB Address
+Musoni _ Farai 10/06/2007 123 Chitepo P.O Box 163 Msasa Harare 1.5
+Sibanda Mthandazo 12/12/2007 11221/7 Nkulumane 11 P.O Nkulumane Bulawayo 1.2)
+Chauke Hlengani 24/01/2007 49 Magamba Street P.O Box 2340 Chiredzi 1
+
+Soon mn wR Ww
+
+
+--- Page 37 ---
+Choose the type of graph you want to use.The picture below shows
+what you get when you HW CompIcte this stage.
+
+| Chart &
+
+A
+
+3 Musoni_ Farai 10/06/2007 123 Chitepo P.O Box 163 Msasa Harare
+4 Sibanda Mthandazo 12/12/2007 11221/7 Nkulumane 11 P.O Nkulumane Bulawayo
+s Chauke _Hlengani 24/01/2007 49 Magamba Street P.O Box 2340 Chiredzi
+
+Height
+
+LS ChitepoP.OBax kG 11ZV/7 Neslumaneii P.O <9 Magunba Suet 20 tex
+NkwWurmane Sulawsya 2320
+
+12fI2f2007
+
+Nithendaza
+
+Key points
+
+a) Graphs on database are not compulsory. What is
+important is for you to be able to put information on a
+database.
+
+b) Always name your tables and files. Do not leave any
+table unnamed because it will become difficult to get it
+when you want to work on it.
+
+c) All rows in database must be filled in. A blank row in
+
+| database is treated as if it has some information and
+this affects the database when you want to access your
+information.
+
+d) Itis important that you always adjust the width of a field
+
+so that all the details appear clearly.
+
+
+
+--- Page 38 ---
+End of chapter questions
+
+A da Kelbone is a collection of information that is not
+organized in a way that will be easy fo access, manage
+and update.
+
+B. elu
+
+fe mation.
+D. little
+
+pe ‘uses lo cedie a datbe
+Microsoft vero
+Microsoft Acces
+
+Microsoft aa
+Explain why you can simply eee your daiabase on
+eae Serene saving it.
+
+n which Microsoft program is a d galaba e table exported
+es
+State the steps taken fo export database fo a graph.
+Name any ihiee = clei ise eS acre fields.
+
+
+
+--- Page 39 ---
+sa My dn
+
+Computer software: desktop
+publishing
+
+7 ee
+
+Objectives a
+
+_ By the end of this chapter, you should be able fo:
+a) use desktop publishing fools to design cards
+_b) insert images on cards
+
+C) format text on a card fo enhance its appearance
+
+Assumed knowledge
+
+a) Word art can be inserted into a word document.
+b) Processing tools can be used to edit documenis.
+c) Information can be retrieved from storage devices.
+d) Text and images can be combined.
+
+A computer software is a program which forms the
+operating information used by a computer. Computer
+software is important for the functioning of a computer.
+A computer without software is as good as a car without
+fuel. This chapter is going to take you through some of the
+very important computer software used to make invitation
+
+cards, compassionate cards and anniversary cards. It is
+very important for you to know that when creating these
+cards, we use templates, images as well as texts.
+
+
+
+--- Page 40 ---
+Types of cards
+
+You are going to be looking at all the steps involved in creating the
+cards. However, before you go through these steps, there is a need for
+you to know the different types of these invitation and compassionate
+
+cards.
+
+1.
+
+Invitation cards
+
+a) seal and send invitations
+
+b) the signature collection
+
+c) laser cut wedding invitations
+d) foil wedding invitations
+
+€) pocket wedding
+
+f) photo wedding
+
+These invitation cards are used on the following invitations:
+Q) party invitation
+
+b) wedding invitation
+
+C) anniversary invitation
+
+d) graduation invitation
+
+Compassionate cards
+a) postcards
+
+b) greeting cards
+
+Cc) note cards
+
+Anniversary cards
+a) wedding anniversaries
+
+b) organisational anniversaries
+
+Invitation cards are important because there are a way of reaching
+out to someone by requesting them to be a part of something.
+Invitation cards go straight to the point as they clearly state the
+date, venue, time and type of event. They also make an event more
+Official.
+
+
+
+--- Page 41 ---
+se?
+
+Name the three types of cards.
+
+Give four examples of invitation cards.
+
+Explain why invitation cards are important.
+
+Say why you would use an invitation card instead of a
+letter.
+
+5. State three main features that should not be left out
+on an invitation card.
+
+BO oN
+
+Designing a card
+
+Designing a card using Free Invitation Maker.
+
+Below are the steps you take when designing a card. These steps are
+the same whether you are designing an invitation card, compassionate
+card or anniversary card.
+
+user Avast Free desktop.ini VLC media Invitation
+Antivirus , player - Maker
+
+oe rt
+
+This PC Corel Free music
+CAPTURE X8 Invitati..
+
+% m
+
+—
+Network Google config
+Chrome
+
+
+
+--- Page 42 ---
+1. GotoAll Programs and choose Free Invitation Maker.
+
+@ Free Invitation Maker
+
+Invitation Type
+
+Birthday Invitations i
+
+Colors
+
+Honoree's Name
+
+Ce vent
+
+=
+
+Styles
+
+| Stvle One
+Stvle Two
+Stvle Three
+Stvle Four ‘
+S Fmve Location 2 ddr 5 Li ne?
+Sty le SIX Location Phone Number
+Stule Seven .
+
+Event Date
+Event Time
+
+Save
+
+Reset Text
+
+When you click on the program a new window will appear.
+
+Pick the type of invitation to be made.
+
+Select a colour of your choice from the section written colours.
+Choose a style of your choice.
+
+Edit the information on the card to suit the invitation you want to
+make.
+
+7. After resetting the text, save the template.
+
+OAR wn
+
+Having done this, you would have created the invitation card.
+However, you need to know that in our activities we were using
+free templates. This means that the software that can produce
+something better than what is shown can be bought. You can
+either buy the software online or from the software licensed dealers
+
+Creating a birthday invitation card
+
+Creating a birthday invitation card using Microsoft Office Publisher
+Follow the steps indicated on page 39 to create a card.
+
+1. Go to All Applications.
+
+cee
+eer
+aenaracen
+sea ice
+
+ra
+
+eote
+oe
+
+
+--- Page 43 ---
+2. Choose Microsoft Office Publisher.
+
+Publisher Sign in to get the most out of Office
+m more
+Search for online temps £P
+
+Recent
+Suggested searches: Personal Desigr Set lates Event Paper Business
+You haven't opened any publications Cards
+recently. To browse for a publication, start
+by clicking on Open Other Publications.
+
+f@ Open Other Publications Zz 22: a
+
+fe
+
+a
+we ~
+
+Birthday invitations = Bright botanical...
+Birthday invitations
+
+3. Choose Birthday Invitations and click on Create.
+
+Birthday invitations
+Provided by: Microsoft Corporation
+
+Create buzz for your birthday party with these
+brightly illustrated invitations. This template prints
+with cutlines for two 4.x 6 Inch postcards, Template
+can be easily adjusted to fit a variety of standard
+(letter, legal, executive, card, etc.) paper sizes.
+
+Download size: 298 KB
+
+Create
+
+
+
+--- Page 44 ---
+4. Edit the card using the topics as given in the image.
+
+Publication2 - Publisher
+
+Insert PageDesign Mailings Review View
+
+> Ag fa=| ke = ) Bring Forward ~ [qi
+q * — fl- | = li Send Backward ~ Fy
+Styles Draw _- Wrap a. : Editing
+~ TextBox °~ Text le Align ~ A bd
+Styles Objects Arrange
+
+_ jualbislidatebtelfielstlatl totaal vial inalatshtc 2 vashitanfataabtbnlSctashidas Salli tell tashadaalat
+
+Lircteilont td indaalcnttrtsad
+
+« fatalatel Selatedanadansderiatadalbamtitabatetatalati
+
+Page: tof2 We 1.53, 7.13 in.
+
+The editing process remains the same with what you did on
+invitation cards. However, in this exercise, add images onto
+your cards so that it looks beautiful. For you to add the images,
+use the pictures from your gallery or free downloads.
+
+
+
+--- Page 45 ---
+Activity 4.2
+
+Using a program of your choice create any two of the
+following cards:
+
+a) Ten-year anniversary wedding invitation card.
+
+b) Graduation party invitation.
+
+c) Father's Day card.
+
+d) Mother's Day card.
+
+e) Culture day invitation card.
+
+f) Science exhibition day invitation.
+
+g) Invitation on AIDS awareness campaign.
+
+Key points 3
+
+In creating cards, it is important to note the following:
+
+a) Free software can be used like Microsoft Office
+Publisher and Free Invitation Maker.
+
+b) Software for creating cards can be bought online
+or from a from licensed dealer.
+
+c) Unlicensed dealers can sell products that can
+affect your computer in the future.
+
+d) Invitation cards, greeting cards and anniversary
+cards must contain summarised information.
+
+e) Always make sure that key points for the events are
+not left out on the card.
+
+
+--- Page 46 ---
+ey ©
+
+: A | would be most suited fo invite people to ‘a
+
+graduation ceremony?
+
+A. greeting card
+
+B. graduation invifation card
+
+C. noie card
+
+D. posi card
+
+An invitation card is beiier than a letter because it
+
+and :
+
+A. goes siraight to the point and makes the invitation
+more official.
+
+B. invites and is short.
+
+C. states the name of the inviied guest and is straight to
+the point.
+
+D. is Only a page long and is Official.
+
+Name any two programs used to make invitation cards.
+
+State the steps you take to create an invitation card.
+
+Which program is easy to use Microsoft office publisher or
+
+Free Invitation Maker? Why?
+
+What are the advantages of using a software bought from
+
+a licensed dealer?
+
+How do you add images to your cards when using Microsoft
+
+Publisher?
+
+Looking at the cards you created in activity 4.2, give two
+
+main things that must not be left out on the details of an
+
+invitation card?
+
+Peas a andar be aed nO SIR ena
+
+
+--- Page 47 ---
+\ Computer software: file
+management
+
+Assumed knowledge
+
+a) Storage devices are used to store information.
+b) Storage devices can be internal or external.
+
+¢) Information can be retrieved from storage devices.
+
+__ Introduction
+
+File management is one of the most important task covered
+in computer software. Whenever you work with any program
+in a computer, it is very important that you save and siore
+it for future use. The process of keeping these programs or
+records is what is known in computers as File Management.
+This chapter will help you to save documenis as well as store
+different types of programs.
+
+Storage devices
+
+You will look at different types of storage devices where you can save
+your work. Please note that the size of the program or document to
+be saved determines the size of a storage device to be used. Storage
+devices can be internal or external.
+
+Here are the common storing devices and their descriptions:
+
+
+
+--- Page 48 ---
+. Hard disk storage drives
+
+These are found in computers. They
+have the largest data storage space
+(capacity) when compared to other
+devices. They contain:
+
+a) software applications
+
+b) an operating sysiem
+
+Cc) files and folders
+
+. USB fiash drives
+
+These are pocket size storage devices. They are used to backup or
+store important data. They are connected to computers through
+USB sockets.
+
+. CD drive and DVD drive.
+
+. External drives
+
+They are normally used in DVD and CD players.
+
+CD and DVD drives perform the
+same function as the flash disk.
+
+They are used to transfer large files or large im
+
+
+
+--- Page 49 ---
+BONS
+
+Name two external storage devices.
+
+Which storage device can be carried in a pocket?
+What type of data can be stored in hard disk drive?
+Where can you store data like operating system of a
+computer?
+
+5. Which storage devices are plugged into a computer
+
+through a USB socket?
+
+Saving data on a deskiop
+
+This section will start by saving on the desktop because if is the easiest
+storage among other storage devices. Here are the steps in saving on
+
+the desktop:
+
+1. Click on the File tab and select Save As.
+
+Save AS
+
+; Open ) Recent
+
+Save
+
+| save As OneDrive
+
+fae, Paine (Co) This Pc
+
+; Share
+
+i epor = Adda Place
+
+| Close
+Browse
+
+Account
+Feedback
+
+Options
+
+eooes iSO
+
+pec
+ee
+
+aa
+
+Documentt - Word Signin
+
+Yesterday
+
+Grade 4
+Documents » ICT » Grade 4
+
+Final PB
+Documents » PE and Mass Display » Grade 2 PE » Final PB
+
+Final TG
+Documents » PE and Mass Display » Grade 2 PE » Final TG
+
+Downloads
+C: » Users » user » Desktop » Downloads
+
+This Week
+
+ECD A
+Documents » IsiNdebete ECD Core Books » ECD A
+
+Form 1
+
+Documents » Secondary IsiNdebele » Form 1
+tsiNdebele Grade 1
+
+Documents » IsiNdebele Grade 1
+
+WORKSHOPS
+Documents » MARY » WORKSHOPS
+
+Last Week
+
+
+
+--- Page 50 ---
+2. Select desktop.
+
+>» + 4 jy > user > Desktop
+
+Organize New folder
+
+f a
+»fB Microsoft Word j= Name Date modified
+
+|b Bala? 07/09/2016 240 PM
+| > *y Favorites 1b config T/IV2017 4S PM F
+‘ hk. CorelDRAWGraphiceSuitexsinstalleren3... 13/01/2017 215 PM
+4 BE Desktop 4 disk 09/02/2017 1058.
+|)» 8 Homegroup iy Downloads 16NROFT 1237.
+42 wer k ECD
+> | AppData b. information Systems for Business and Se_
+>a Application Dat +. Kwaito
+by Contacts 5. Martin Garrix - Seven ©)
+>p Cookies fy mise
+> we Desktop hk Mo DROGIDOIT LSE PM File folder
+» BR Documents 4 music 1B/TV2N17 BOZAL file folder
+
+File name: [ Informationdocx
+
+Authors: user Tage Addatag Title: Adda tite Subject: Specify the subject
+CD See Teor:
+
+Toos ~ | sme || Cancel
+
+When you select desktop, make sure that you create a new folder
+so that your work will be easily identified. Always name your new
+folder.
+
+3. Click open and save the data in the new folder carrying the new
+name you gave it.
+
+~ t m> wer > Desicop
+Organize =
+
+TMcrosohwod 4 emt Date modified Type Size
+). CoreiDRAWGaphicsSuteXEinmae es. TNULQ017 415 PM file folder
+ov Favorites dist 99/02/2017 1059 File folder
+lz Downloads Wy11/2017 1227. File folder
+HB Desktop b ECD 35/01/2017 330M File folder
+83 Homegroup L. Information Systems for Business and Be. 14/02/2017 1139. File folder
+B user b. Kwaito 1311/2017 BOZA_ File folder
+AppData Fb. Martin Garrix - Seven (EP) WV11/2017 B13 AL File folder
+a Application Dat $b. mise 09/02/2017 1059... File folder
+4 Contacts hk. Mo 29/06/2017 1:56 PM File folder
+w Cookies music 13/11/2017 202A. File folder
+fe Desktop  NETDLL 09/02/2017 1059. File folder -
+H Documents y |b Newfolder 16/11/2017 1249. He folder fac
+
+Save as type: Word Document (docx) 4 : Pe
+Authors: user Tags: Adda tag Title: Add atitie Subject: Specify the subject
+
+(Save Thumbnail
+
+Kin Hide Folders
+
+
+--- Page 51 ---
+4. Click Save.
+
+© > + bb > user» Desitop > ICT ~ G  Searchict e
+Organize~ = New folder E+ @
+(B Microsoft Word “ Name Date modified Type Size
+
+. No items match your search.
+= Favorites
+
+BB Desktop
+23 Homegroup
+B user
+AppData
+3 Application Dat
+b Contacts
+m Cookies
+by Desktop
+BP Documents
+Filename: Informationdocx
+Save as ype: Word Document (069
+
+Authors: user Tags. Adda tag Tme Addatitie
+
+a |
+v
+v
+Subject Specify the subject
+{Save Thumbnail
+
+i
+* Hide Folders Tools v | Save Gace
+
+When these steps are completed you can access your new folder on
+the desktop.
+
+1. Type a word document of not more than one page
+and save it on desktop following the following
+instructions:
+
+a) Save your document on the deskiop.
+
+lb) Name your folder - Grade Four Class.
+
+c) Give your document your own name.
+
+Saving data on external storage and renaming the devices
+
+Saving data on a flash disk and external hard drive.
+
+Step 1
+
+Connect your storage device on a USB port and make sure it has been
+recognised by your computer.
+
+
+
+--- Page 52 ---
+Step 2
+Click on the Office button and select Save As option.
+
+Step 3
+After identifying your storage device click on it and create a new folder
+in it. Always name your new folder for future identification.
+
+Step 4
+Open your folder, click Save and save your document in the new folder.
+
+Saving data on a CD and DVDs
+
+You can save on these two storage devices as you have done on the
+flash disk. However, when you insert your CD, you need to select an
+option which requires you to save as a USB flash. Once that option has
+been chosen, you can now repeat the steps you have done on the
+fiash disk or external hard drive.
+
+Copying files to and from storage devices
+
+It is important that you know the names of your storage devices as
+they appear on the computer, or it will be wise for you to rename your
+storage device so that it will be easy to transfer the files.
+
+Here are the steps to transfer the files:
+
+Step 1
+
+Insert your storage devices onto the computer and make sure you have
+identified the device.
+
+Step 2
+
+Open the devices with the file you want to transfer.
+
+Step 3
+
+Put your cursor on the name of the file or document you want to transfer
+and right click on it.
+
+Step 4
+
+Choose option Send to and select the other device where the data is
+intended to go.
+
+
+
+--- Page 53 ---
+Alternatively, you can save the documents using the Save As method.
+The steps involved here are simple as you save the same way you
+save a document on a desktop. In this case, instead of choosing the
+desktop, you now select the device where you want the data.
+
+Activity 5.3
+
+Open a folder you saved on the desktop and save it on CD as
+follows:
+a) Name your folder Grade Four (CD).
+b) Change your file name to Revised edition.
+¢) Create another folder on that CD and name it Folder Two.
+d) Save the document in folder Grade Four (CD) into Folder Two.
+e) Now transfer the folder from the CD to a flash disk and
+name the flash folder — Folder Three.
+f) Repeat the same process fo move a document from a
+desktop to flash disk.
+Name your document - Moved Document.
+
+Key points
+
+When saving a document in a storage device, always
+
+use the Save As format.
+
+Make sure that your documents are saved using
+
+different names.
+
+Two documents with one name cannot be saved in
+
+one storage device.
+
+d) Avoid creating a shortcut for a folder saved on any
+storage device as it cannot open on another computer.
+
+e) Only documents can be transferred using the Save As
+method. You cannot use the same method to transfer
+an application.
+
+f) For applications, use the copy and paste method or
+
+the sendto option. —__
+
+snamearenmtram arora
+
+ester (
+
+ane ty er
+
+eT
+oS
+
+
+
+--- Page 54 ---
+1. Storage devices can be__———SOFr
+A. internal or external
+B. external or small
+C. big or internal
+D. internal or portable
+2. Give one advantage of saving data on an external device.
+A. Itis portable
+B. lt stores data forever
+C. Ifthe computer is affected or stolen, you can still access your
+files
+D. It has a large memory
+3. What is the danger of not saving a word document while
+working on it?
+A. You may lose the document if the computer switches off
+without warning
+B. You could forget to save altogether
+C. The document could be deleted
+D. You mighi accidentally switch off the computer
+4. tt is important fo rename your fiash disk before you save your
+work. Explain why.
+A. So that it can have a name
+B. So that you can easily locate it during the saving process
+C. So that it can have a different name
+D. So that you can see it on the computer
+5 Give the steps you take fo save a document on a flash disk.
+6. What determines whether a certain type of data can be saved
+in flash disk or not?
+7. What is the danger of saving your work as a shortcut?
+8. How can files be copied to and from storage?
+
+ok
+OS
+a | Vint .
+Neate fee ig % BAe teak scaeidenbsenentensimeebidemienissmens tatoo once ee
+iment ARSE ROSSA A ESSE AES URE Ri OS Sata oem
+{hy eR Re
+
+
+--- Page 55 ---
+,| Computer software: multimedia
+
+Assumed knowledge
+
+a) Text, images and sound can be combined.
+
+lb) Music, voice and video can be recorded and stored.
+
+c) In ICT, keyboards and on-screen music software can be
+explored to produce sound and music.
+
+_ Introduction
+
+Multimedia i is this use of a variely of artistic or reorimunicciNe |
+media. It is done using more than one medium of communication,
+for example, audio and video. Every text can be supported
+by drawings, music or videos to clarify a given poinf. This is the
+reason why you find some notices on ielevision may have a
+sound in the background. On the other hand. in your iextbooks
+from other learning areas like Maths. ChiShona, English and
+IsiNdebele, pictures are given fo support a writien jext. This shows
+
+that pictures can make a written document understandable
+and interesting.
+
+|
+
+Creating drawings (Images)
+
+Drawings can be done using graphical packages. There are two main
+types of graphics packages and these are:
+
+1. Painting Package
+
+2. Drawing Package
+
+
+
+--- Page 56 ---
+1.
+
+Painting Package
+This produces images by changing the colours on the screen as
+
+shown on the picture below.
+
+Ye mas : —
+
+ah Of et Bo Aad > 4h \ YOOUOLA ~ & Outliney
+O SOS 6 Sa es S & Me WO OOD OG > gri-
+= Set penne | FBI PO + OOO
+
+Shapes
+
+
+
+--- Page 57 ---
+2. Drawing Package
+It is a drawing package that produces images that are
+made up from coloured lines and shapes. These shapes
+include circles, squares and rectangles. These are found on
+Microsoft Word.
+
+ia hell * Calibri Body) ~ Fe = ~i -: 2
+
+- Home | inset | Page Layout — __ References “Malings ceren
+
+2040 jm @ 2
+
+Cover Blank Page Table Picture Clip 4 japee| SmartArt Chart | Hyperlink Bookmark Cross-referent A ooter
+Page~ Page Break = + Art Ga
+E.
+
+Pages | Tables | _11 Recently Used Shapes.
+See B\\NOOOCALLOSS
+LB NAL Fe
+«ips
+NNNLLG2 UAB 8
+| Basic Shapes
+BOGVOoO@A"
+CB8BOD006
+CNOCaAC ) ‘
+
+View Bi
+
+a ¢: :
+
+ai
+
+eas ee
+Rens
+
+a> New Drawing Canvas ae
+
+These are the
+Shapes u used
+
+This book is going to use Painting Package to show how these
+drawings can be done.
+
+
+
+--- Page 58 ---
+Creating an image using paint package
+
+Step 1
+Go to All Programs and open paint program.
+
+pee eee s) per esi AaBbCi AaBbCc ‘Aab saBbCc, AabbCO AaB
+‘BE BS) B~ | stoma sHoSpac.. Heating easing? Tle subtitle Subtie Em... Emp
+
+a
+
+Step 2
+: When you get on the new window, you will be provided with all the tool
+to work with. You then choose the tool fo use.
+
+| Home Views
+
+Es fcc7] Bf crop ; ®& i \VOOOBA - | ¥ ciattins '% 1 ;
+O : Copy cies : Giresee a “lei NO OOD A = me : a ' a
+i ch Rotate~ & es Geek Oops foe CE wie
+
+Cpbesred Waage teats ‘Streaees Colors
+
+
+
+--- Page 59 ---
+Step 3
+Pick your desired shape and drag it until you get the size of your choice.
+
+& Cut ee a ‘Bad at Sn OED EE A +! i Outs ae
+
+0 cay] 9 Gikeske be A a Ne COORD a= ari crete
+
+ea Set pote A PE 4 ODOR ay
+Stipes
+
+Tonks
+
+A shape drawn using paint
+
+
+--- Page 60 ---
+i! Step 4
+
+Add colour to your shape.
+You can produce any image of your choice using this software depending
+on your creativity. You can write a picture story using this program.
+
+
+
+--- Page 61 ---
+and___ :
+A. drawing package and photographic package.
+B. artistic package and painting package.
+C. drawing package and painting package
+D. photographic package and aniistic package.
+
+2. package uses lines and shapes io produce images.
+A. drawing
+B. artistic
+C. photographic
+D. painting
+
+3. Which program produces images by changing colours on
+the screen?
+
+4. Name any three shapes that can be used to produce
+images in painting programs.
+
+5. Which program would you prefer to use to draw a house?
+Explain why.
+
+.) 1. There are two types of graphics packages namely
+—_
+
+Inserting an image using Microsoft Word
+
+An image is a representation of the external form, of a person or
+thing, in art form. This exercise is different from the one of drawing
+as in this case the quality of the image would have changed. You
+will be dealing with real pictures taken by cameras. This means that
+the quality of the image would have changed from simple shapes
+and scribbling to real images.
+
+- EEE EOI
+; cee
+
+
+
+--- Page 62 ---
+Here are the steps to take when inserting an image on a document.
+
+Step 1
+Click on Insert and then choose the icon written Picture.
+
+| Ls) Shapes smenAt bux = S r (Header ,
+
+Table Pytures Oniine _. Biiy adcins - ikipedie Oniine Comment — T
+©) 3D Modets- a. Stteenshot Video = le] Page Humber 5
+
+Agchins Media Comment) Header & Renter
+2 3 ee ee ee eee Sa ce aes SS Re ee
+|
+
+|
+
+
+
+--- Page 63 ---
+Step 2
+Click on where the image will come from.
+
+tT & > ThisPC » Pictures Search Pictures
+
+Organize v New folder
+
+(Bl Microsoft Word
+
+#& Favorites E
+
+HB Desktop STUDIO
+a3 Homegroup PHOTOSHOOT
+BR user
+
+AppData
+m™ Application Dat
+ky Contacts
+mw Cookies
+Je Desktop
+}) Documents
+
+File name: / OO _ i All Pictures Cemfwmftjp ¥.
+
+STEELS
+Tools v Insert |v | Cancel
+
+On the picture, you can see that an image can be chosen from
+any ofthe sources at the left side of the window.This means that even
+if you connect any external storage device, you can also be able to
+take the image from it.
+
+Step 3
+
+When you have chosen the image of your choice, you then
+click on Insert at the bottom of the dialogue box. The image will
+automatically appear on your document.
+
+
+--- Page 64 ---
+yy.
+ea
+
+. Type a word document paragraph, which is not more
+
+than seven lines, writing about your club at your
+school.
+
+Insert an image about your group at the bottom of
+your paragraph.
+
+Adjust the size of the image so that if fits half the
+page.
+
+Save your document on the desktop and give it any
+name you wan.
+
+Recording an audio and a video
+
+The process of recording an audio and a video is just the same.
+This chapter will look on how to record an audio. Your activity will
+require you to record a video so that both audio and video recording
+
+are covered.
+
+Step 1
+
+Record an audio using any gadget that is available, such as a phone,
+tablet, laptop or tape recorder.
+
+Step 2
+
+Moving your audio from your gadget to the computer, connect your
+phone or tablet to the computer and click on it so that you open it as
+shown on the image.
+
+
+
+--- Page 65 ---
+Computer View
+
+© © ~ 1 iB» merc ¥ G Search This PC
+
+& Pictures a » Folders (6)
+wi PrintHood
+ge Recent 4 Devices and drives (4)
+i. Roaming
+> Saved Games
+& Searches
+gy SendTo
+q@ Start Menu
+Templates
+& Videos
+
+we This PC
+je Desktop i
+}a Downloads Windows
+a Giel_X5s Media Player
+i Merly (mrerty-pc Merly (merly-pc)
+3 Music
+& Pictures
+fp Videos
+3, Windows (C:)
+«@ Recovery Image
+ey HPTOOLS(E) ¥
+
+litems 1 item selected
+
+Step 3
+When you open the internal storage section, you can now view different
+folders in your gadget. Click on the folder coniaining your audio. In
+most cases it will be in music folder.
+
+Windows (C) Recovery image HP_TOOLS (E)
+(D)
+
+4 Network locations (1)
+
+Home Share = View
+
+? af > ThisPC > GtelXSs
+
+Search Gtel_X5s
+
+& Pictures *“ Phone Storage 7 SanDiskSDeard
+; PrintHood — toe
+> Recent Winy 2GBheeof909Gs Ct _= free of 48GB
+E. Roaming
+> Saved Games
+& Searches
+m SendTo
+m Start Menu
+a Templates
+Videos
+UM This PC
+de Desktop
+i Documents
+iy Downloads
+& Gtel Xs
+«sw Phone Storage
+we SanDisk SD ca
+iF Merly (merly-pe
+dp Music
+&. Pictures
+B& Videos
+& Windows (C) ¥
+
+
+
+--- Page 66 ---
+Step 4
+Point your cursor on the audio you want to move and right click
+Select Copy then Paste it onto your computer.
+
+- TP we > ThisPC * Gtel X5s > Phone Storage
+
+& Pictures bai
+
+oP Saved Games
+% Searches.
+
+ge Sencte
+
+@ ~Stert Menu
+
+.) 1. Record a video of your club at a session using a video
+camera.
+
+Transfer the video from your camera into the computer.
+Name your video - My Club.
+
+4, Rename the video in your camera and give it a similar
+name with the one in the computer.
+
+es
+
+
+
+--- Page 67 ---
+q)
+b)
+
+C)
+
+Multimedia is the use of a variety of artistic or
+communicative media.
+
+The drawings done by a drawing and a paint package
+cannot be like hand drawn images.
+
+When you are moving an image, audio or video from
+an external device, avoid cutting and pasting as this
+causes you to lose the material from that storage device.
+Avoid creating a shortcut when transferring a file from
+the storage device to the compuier as it results in failure
+to open the file.
+
+An image is a representation of the external form of a
+person or thing in art form.
+
+The process of recording an audio and recording a
+video is similar. The difference is on the gadgets to be used
+for the process.
+
+ried by music, images or videos fo
+
+
+--- Page 68 ---
+a shape
+a drawing
+______ of an imag nges when | ccna
+an
+
+res taken using a Camera and pictures that a are a
+
+oe ee fomonotemncl ence :
+Explain why you should matic eo shortcut when
+Neale a file.
+
+8. What is the major difference in the of recording
+an ae and a video?
+
+
+
+--- Page 69 ---
+SS ee Sa *
+
+Safety and security: computer
+viruses
+
+Assumed knowledge
+
+a) Data is very important it must be protected.
+lb) Data and files can be protected using passwords.
+c) Information can be safeguarded using physical security.
+
+Introductio al
+
+What is a computer virus? A computer virus is a malicious
+program that can infect a computer. It is a piece of code
+which can copy itself and typically has a detrimental effect,
+such as corrupting the system or destroying data.
+
+A computer virus
+
+A computer virus can:
+
+a) change the files on a computer without the owner of the file’s
+consent
+
+b) delete the files from the computer
+
+¢) cause the computer to fail to boot by attacking the boot sector of
+the hard drive
+
+d) cause software programs to work in a way which is different from
+what the developers expected them to do
+
+
+
+--- Page 70 ---
+SS
+
+©) Cause a computer to become very slow and fail to process data
+because most of the processes will be left incomplete and they
+will be timed out
+
+f) multiply itself
+
+How are computer viruses spread?
+
+Computer viruses, are usually spread from one computer to the other
+in the following ways.
+
+1. Removable disks
+
+2. Downloads from the Internet
+
+3. Email attachments
+
+1. Removable disks
+Examples of removable disks which can spread viruses include,
+among oihers:
+Q) iiash disks
+D) _ stiff disks
+c) t-+flashes
+If a removable disk is used on a computer with a virus, the disc will be
+infected. If an infected disk is used on another computer without a
+virus, that computer will be infected and the chain goes on and on.
+It is advisable not to use foreign storage devices in the lab because
+you do not know whether they have viruses or not.
+
+2. Downloads from the Internet
+Downloads from the Internet are another way of spreading viruses.
+You must download only from sites which you know.
+
+3. Email attachments
+Viruses can be sent to you as an attachment. The moment you
+open the attachment, your computer will be infected. Do not open
+attachments from people you do not know, or from where you were
+not expecting to receive.
+
+Renee Ree a
+VENTE =
+Re,
+Pan
+
+
+--- Page 71 ---
+How to protect your computer from computer viruses
+
+You can protect your computer from viruses by following the steps
+indicated:
+
+1. Installing an antivirus software which is updated regularly. There are
+many free antivirus softwares available, but you need to install the
+ones which are updated regularly.
+
+Keeping your antivirus up to date.
+
+Running scans regularly on your compuiers with antivirus software.
+Scanning all external storage devices before use.
+
+Ensuring that the computer operating system is always Current.
+Securing the network.
+
+nar whd
+
+Steps to remove a virus from an infected computer
+1. Disconnect the computer from the network.
+
+2. Boot the computer in safe mode.
+
+3. Delete the temporary files using disk clean up tool.
+4. Download a virus scanner and run the virus scan.
+
+YY
+.) 1. Download a free version of an anti-virus program
+SJ) such as Avira.
+
+,
+
+Bownload the fillsuite |
+
+Everything you need
+
+
+
+--- Page 72 ---
+2. Install the antivirus on your computer.
+
+Free Antivirus
+
+% Accept and install
+
+3. An update will be shown fo indicate if the antivirus has
+been installed successiully.
+
+Your computer is protected. —
+
+i) No problems detected.
+
+View Logs The folowing Symantec securty components are nstalled on your computer:
+
+Live | we Virus and Spyware Protection
+pdate:.. : ) Protects against viruses, mahvare, and spyware
+; Defiitons: Tuesday, 03, 201;
+
+i | or Proactive Threat Protection
+. Provides advanced behavioral protection against unknown threats
+Oefiitons: Monday, October 02, 2017 5
+
+f be : Network and Host Expfoit Mi
+
+itigation
+Protects against Web, network threats, and zero-day exploits
+Definitions: Tuesday, 03, 2017 r24.
+
+4. Insert a flash disk onto your computer. The program will
+
+automatically detect that there is a foreign storage device.
+
+5. The program will scan the flash disk and give a report.
+
+6. Start a full scan on your computer system by selecting full
+scan, then click scan.
+
+7. At the end, the antivirus will give you a summary of viruses
+found and cleaned on your machine. The files infected can
+either be deleted or cleaned. (The type of antivirus which
+are free usually cannot offer 100% protection.)
+
+NB: An antivirus software has to be registered so that you can
+receive regular updates.
+
+
+
+--- Page 73 ---
+Key points
+
+a) A computer virus is a dangerous program that can
+harm a computer.
+
+b) A computer virus can be spread through removable
+disks, Internet downloads and email attachments.
+
+c) A computer can be protected from viruses by
+installing antivirus software, running scans, updating
+the computer operating system and securing the
+network.
+
+d) Viruses can be removed from an infected computer
+by disconnecting the computer from a _ network,
+booting the computer in safe mood and running a
+virus scan.
+
+End of chapter questions
+
+1. Avirus is a a :
+A. ae Program
+B. malicious p program
+€. part of a computer
+D. none of these
+. Avirus can multiply itself. A. True B. False.
+. Computer viruses usually spread from one computer fo _
+the other in the following ways except: e
+A. removable disks = =
+B. downloads from the Internet
+email attachments
+Paes keyboards
+
+
+
+--- Page 74 ---
+To protect a computer from
+A. an antivirus software
+B. an pd tgp ae software
+OD. of - sa aoe
+To avoid viruses, you must open e-mails from?
+A. People you do not know
+B. From your teacher
+D. Anyone
+\ oe happens to a computer if an infected disk is
+used on it?
+/ Can you protect your computer from viruses?
+Wee examples of antivirus systems.
+
+
+
+--- Page 75 ---
+The world wide web and online
+collaboration
+
+Assumed knowledge
+
+a) Messages can be sent in different ways.
+
+b) Writing letters, telephones, e-mail and instant messages are all
+ways of sending messages.
+
+c) We use search engines like Google, Yahoo and Ask.com to find
+information on the Internet.
+
+d) We can use instant messaging software such as Whatsapp, Twitter
+and Imo to send messages.
+
+e) Some instant messaging software can provide both video calling
+and text options.
+
+f) Examples of search engines include, Bing. Google, Yahoo,
+Ask.com and MSN.
+
+‘Introduction
+
+An ordinary bookmark can be made of fabric and is used
+to enable the readers to get back to the page they were
+reading before they put their book down. Have you ever seen
+
+that in a novel or a Bible?
+
+
+
+--- Page 76 ---
+Web page bookmarks
+
+On online connections, a bookmark is used to save a web page's
+address. Bookmarks are links fo web pages that make it easy for us
+fo get back to our favourite online places. Bookmarks can be called
+favourites or Internet shortcuts. When you create a bookmark for a
+web page, you are saving a link to that page in your browser to access
+it later.
+
+How to bookmark pages on the Internet
+
+The easiest way of creating a bookmark is by doing the following:
+
+1. After typing in your search question in your browser, an address will
+be shown in the window in your browser.
+
+2. Click the star * that appears next to the search icon on the top
+
+righi of your screen. : 2 -=E
+3. The siar will turn blue when you click s
+
+it and a bookmark for the page you iced Lis a + @# =
+
+are on will be created in the Other mozilla+
+
+Bookmarks folder.
+
+1. In your search engine, type in a search question.
+2. Click the search icon and when the page opens.
+3. Follow the steps to bookmark that page.
+
+Changing the name and location of a bookmark
+
+Bookmarks are important because they keep your favourite web
+pages. It is important to always name and save your bookmark in
+a way you would always remember.
+
+Le eee OS Se (GOULD enc ee
+SEN RON
+SSSR
+Na
+
+
+
+--- Page 77 ---
+To change the name and location of a bookmark, do the following:
+1. Click the star again for you to open the Edit This Bookmark window.
+
+mozilla,org’en-US,
+
+pe Edit This Bookmark
+
+Name Internet for people, not profit —Mazilia
+Folder: | Other Bookmarks
+
+Tags: Peparate fa tags with commas
+
+2. You can change the name and folder of your bookmark here.
+You can also add tags to your bookmarks as well.
+3. Once you are done, click Done.
+
+Edit the details of the bookmark that you created
+in Activity 8.1.
+
+Using bookmarks fo open web pages
+
+If you have not set a folder for your bookmark, then that bookmark will
+be saved in the Other Bookmarks folder. To use bookmarks to open web
+pages, follow Activity 8.3.
+
+Rr RONG SNC fas rian naccreannncemerenten nt rea
+gE * “e
+ae
+eet
+er
+
+
+
+--- Page 78 ---
+Activity 8.3
+
+“1. Go to the View Bookmarks Sidebar next to the
+bookmark icon.
+
+2. Select the folder where you put the bookmark, for
+example, if you click on Other Bookmarks, your
+bookmarks will show.
+
+3. Just click on the bookmark you want and the page
+will open.
+
+Show All Bookmarks  Ctrl+Shift+ 6
+View Pocket List
+
+iB Bookmarks Toolbar
+
+jie Other Bookmarks
+
+Recently Bookmarked
+
+7 Lab Mozilla Firefox ‘
+
+; Show All Bookmarks  Ctrl+Shift+B
+
+Customising bookmarks
+
+To customise means to make or change something according to the
+user's needs. Therefore, if you are customising books, you are organising
+
+
+--- Page 79 ---
+them in a manner which you will understand the most when using the
+books. These are steps you should take when customising bookmarks.
+Open your browser in chrome.
+
+At the top right click More.
+
+Click Bookmarks then Bookmarks Manager.
+
+At the top left next to the folder’s menu, click the down arrow.
+
+Click Add Folder then type the name for your folder.
+
+Drag the bookmarks into the folder.
+
+COakRWN DS
+
+Using search tools and search engines
+
+What are search tools?
+
+An online web has a lot of information to give. You need to know how
+to access this information in a manner that will be meaningful to you.
+Search tools are places on the Internet you can use to explore the
+web and find information from the Internet with ease. Search tools help
+you to stay safe on Internet sites and they make it easy for you to find
+information. Search tools have information put in categories, hence it
+is easy to find. Examples of search tools are search engines, subject
+directories, invisible web and social media. In this chapter, we will talk
+about how to use search engines to find information.
+
+What is a search engine?
+
+This is a software that is designed to search for information from the
+World Wide Web (www). Search engines can search for documents by
+using a word, words, questions or phrases as entered by the user in the
+search box.
+
+How to get the best results from an Internet search
+
+1. Make sure the key words are written clearly.
+
+2. Use more than one key word in your search.
+
+3. Spell your words correctly.
+
+4. Use more than one search engine so that you can compare the
+information.
+
+Oe ee ee Bea
+settee
+TE
+—
+ae
+
+
+
+--- Page 80 ---
+Activity 8.4
+
+7
+
+J
+
+weed
+
+Make sure you have an Internet connection.
+
+N
+
+Log onto your browser.
+
+3. Once you are there, the search engine will show up
+with a search box.
+
+4, Enter any text for anything you may want fo search
+for, for example, “Books.”
+
+5. By just typing “Books”, the search engine will give
+you a loi of answers on books.
+
+6. tomake your search better you can say Bible books.
+
+7. You can then choose from the responses what
+
+exactly you would want about Bible Books from the
+
+information that comes out.
+
+Using different forms of information to answer questions from the
+Internet
+
+Now that you can search for information from the Internet, it is important
+that you are able to use the information you get to answer specific
+questions. It is also very important to read all the information when your
+page opens so that you understand what the page is talking about,
+
+and you relate this to your question.
+
+
+
+--- Page 81 ---
+a) Bookmarks are links fo webpages that make it easy to
+access your favourite webpages.
+
+b) Customizing bookmarks is organising them in a
+manner which would be understandable to the user.
+
+c) Search tools are places on the Internet that help
+users to explore the web and find information on the
+web with ease.
+
+d) Asearch engine is a software that is designed to
+search for information on the World Wide Web.
+
+End of chapter questions
+
+1. Which of the following is a bookmark icon?
+
+Vv
+
+Dip hns fo revisit web pages
+B. Bookme
+
+
+
+--- Page 82 ---
+Ape ak mark willturn
+B. green
+
+C. yellow
+
+ee into groups so that we can
+
+a eee
+B. Media
+C. Tags
+D. Search tools
+What does www stands f
+7. Give one reason why search tools are important.
+Why is if good fo use more than one search engine
+when looking for information?
+
+
+
+--- Page 83 ---
+eae be ae
+
+The world wide web and online
+collaboration: e-messages
+
+Assumed knowledge
+
+a) Messages can be sent using letters, telephone. iexis or email.
+b) You can use messaging software like Whaisapp. Skype and
+Twitter to send electronic messages.
+
+; “Introduction
+Fin In grade 3 you learnt that electronic messages are messages
+that are sent using the computer. You were also taught that
+e-messages can be sent using software applications such
+as Whatsapp, Facebook, Twitter and Skype. This chapter will
+discuss how to send and receive images and video messages
+
+electronically using the same software applications.
+
+Sending and receiving image and video messages
+
+Images can be sent and received electronically using smart phones
+with many software applications. Such software includes Instagram,
+Snapchat, Zoom foot, Skype and Whatsapp.
+
+For you to be able to send and receive video messages, yOu must have
+the software application installed on a smart phone. The person who
+wants to receive the messages should also have an application that
+can receive images as well.
+
+
+
+--- Page 84 ---
+eo
+
+For some applications like Whatsapp, you need to have a mobile
+number so that you can send your videos and messages to the
+people who are in your contact list. Even without a mobile number,
+some applications like Bluetooth and Shareit can enable you to
+send and receive images and videos.
+
+If you have a mobile phone make sure that it is connected to data
+or Wi-Fi so that you are able to use applications like Whatsapp,
+Twitter, Skype and Instagram. The software applications can be
+seen on the screen of your phone.The icons can be displayed
+differently depending on the brand name of the gadget.
+Study the Table below and let it help you to do the activity.
+
+Table 9.1 Software application __
+Name
+
+Bluetooth
+
+
+
+--- Page 85 ---
+Common icons on smart phone and tablet home screen
+
+ZWECONET? OBO OG... Val 45% M7) 11:36
+
+fe}
+. . . }
+Communication Q 8 : ‘ ) 6 Ce | Harare
+@ } Cloudy 75°/28°C
+
+Ce) Facebook Favorites mest
+System Calendar
+
+Hangouts i * ts)
+
+“Syoice Search
+
+Duo
+Messaging Messenger Parallel Space i _
+
+Photos
+
+Notes %,, FM Radio Weather
+
+WhatsApp |
+
+ae
+
+Calculator System Manager
+i
+
+More apps
+
+Contacts. Messaging Browser
+
+On your smart phones, identify the logos for
+
+YY
+- } the software applications you can use to send
+ee images and video messages
+
+What are video messages?
+
+Video messaging is a way of communicating which enables you to
+connect face to face with the person you are communicating with.
+In a video message, you talk to the person as you see them on your
+computer. If you are unable to talk to the person, video messaging
+allows you to record your message then the receiver will retrieve the
+message and see you talk. Video messaging can be referred to as
+
+
+
+--- Page 86 ---
+video calling. If you want to be able to do video messaging, then make
+sure that the gadget you are using has any one of the following:
+1. A front camera. ——camera \
+2. Webcam on your laptop or desktop.
+The red arrow is pointing where the
+camera is on the laptop. Do the latops
+in your computer lab have web-cam?
+Software applications like Skype,
+Whatsapp, Imo and Viber can do video
+messaging. With some applications like Skype and Twitter you need to
+have created an account that you will log into in order to be able to
+send and receive images and video messages.
+
+Uploading and downloading images
+
+Uploading an image means sending an image from your computer
+70 anoiher source using the Internet so that others can retrieve it.
+Downloading is when you receive files on your computer from another
+system then you save them.
+
+sending and receiving images on a smart phone.
+
+Work with your teacher fo do the following practical activity.
+
+1. Start by taking photos with your smart phone or tablet. The
+photos will be saved in your phone's gallery. Make sure you
+can identify ihe Gallery icon on your gadget.
+
+2. Open your phone's gallery and click on the photo. On your
+screen click the share icon e<$ and choose how you would
+want fo share ihe photo or video. Affer that, your image or
+video will be uploaded to the recipient you have chosen using
+the sharing option you chose. (Can you fell your teacher the
+sharing options that pop out when you click the share button.)
+
+3. Makesure you choose the correct contact name or you enter
+the correct account name so that you send your image to
+the correct recipient.
+
+mmm fh ee a
+
+
+
+--- Page 87 ---
+Activity 9.3.
+
+YZ Receiving an image or video.
+SJ Depending on the software application that was used,
+4 the recipient will get a tone on their phone indicating
+that a message has come through.
+
+1. Click on the icon of that software and download
+the image.
+
+2. With applications like Shareit and Bluetooth, you
+need to be close to the person with whom you want
+to share files with.
+
+3. Download the images and videos you have
+received from your friends.
+
+4. Where are these files saved?
+
+Key points
+
+a) Instagram, Snapchat and WhatsApp are examples of
+software applications you can use to send and receive
+video messages and images.
+
+b) You can communicate face to face wiih your friends by
+doing video messages.
+
+c) WhatsApp video calling, Imo and Skype are examples of
+some software applications you can use for video calling.
+
+d) To upload a file means sending it, while to download
+means to receive a file and save it.
+
+e) To send and receive video messages you must make
+sure that you have the necessary software application
+installed on your smart phone.
+
+Depending on the software application being used fo
+send and receive, you must make sure that your gadgets
+
+have a data or WiFi connection.
+
+
+
+--- Page 88 ---
+on
+
+. Images can be sent. using sofiware applications.
+
+A. in bundles B. immediaiely
+C. electronically DBD. manually
+Applications such as and enable you
+
+to send images, Gudio and videos even without a
+mobile number.
+
+A. blueiooih and shareit
+
+B. blueiooih and whaisapp
+
+C. blueiooih and iacebook
+
+BD. facebook and shareit
+
+The sofiware applications can be seen on the
+
+of your phone.
+
+A. front
+
+B. gallery
+
+C. screen
+
+D. back
+
+What is video messaging?
+
+What is the other name for video messaging?
+
+What name do you give to the process of sending images
+and videos from your computer to another source whilst
+using the Internet?
+
+What name do you give to the process of getting images
+and videos from a web saver and saving them?
+
+Where would you find a collection of images and videos
+in a smart phone?
+
+
+--- Page 89 ---
+Assumed knowledge
+
+a) Data capture, clerk and a sound technician work with ICT tools.
+
+b) A data capture is someone who enters data like numbers or text
+into computer files.
+
+c) PA system stands for Public Address system.
+
+Minfoduction Olena a
+
+| The introduction of computers has created jobs for
+people. While some can make and repair computer hardware,
+others can make and repair computer software. You also have
+some who cannot repair any part of a computer but are able
+to use the computer fo perform many tasks very well. This
+chapter, looks at the roles of computer operators and copyists.
+
+What is a computer operator?
+A computer operator is a person who works with computers daily and
+is also able to fix problems related to the computer. This means that,
+depending on the job they are doing, computer operators can be
+found in different work places. School clerks, managers, engineers,
+receptionists, computer programmers and technicians are some
+examples of computer operators. This is because they work with
+computers in their work places though in different ways.
+
+rE
+
+
+
+--- Page 90 ---
+What are the roles of computer operators?
+
+Depending on the job they are doing or where they are working,
+
+computer operators may have several duties. These are some of the
+
+duties they perform:
+
+1. Entering data or typing
+A computer operator is responsible for entering data as numerals,
+texts or graphics. The data may also include that which will enable
+the computer to work properly.
+
+2. Installing computer systems
+Some computer operators are responsible for installing computer
+systems or applications that will enable computers to perform
+certain tasks.
+
+3. Repairing computers
+Compuier operators have a wide knowledge in computers. Their
+knowledge enables ihem io be able to repair computer hardware
+and sofware. They can find oui where the problem is and make the
+necessary repairs. Some compuier operaiors are experts in repairing
+computer hardware, others deal with software only while others can
+do both.
+
+4. Maintaining databases
+Some computer operators maintain databases for customers
+daily. In a school set up, for example, the computer operator may
+have a database about school enrolments per grade or per class
+and so on.
+
+vi
+J
+
+; 1. Work with your friend fo find out other databases
+> which a school based computer operator can
+: have.
+
+ea es ea 88 TRAITS Ste epee recy,
+ee Re, ineemeneineneineeeeieetaeet eee een,
+eaten ne
+ee
+one
+
+
+
+--- Page 91 ---
+5. Storing computer related items
+Operators are responsible for keeping computer related items such
+as disks. The disks may contain information about their organisations
+or they can be disks containing application installation set ups. They
+also back up data to external storage devices. They keep these items
+safely so that they can retrieve them the next time they are wanted.
+
+6. Setting up controls
+In big organisations where computers are used by many people or
+in many departments, computer operators have a big role to play.
+Compuier operators will set up control systems that prevent the
+computer from damage. The control systems may include setting
+up passwords and continuously checking and altering computer
+networks so that they continue to work properly.
+
+7. Monitoring the use of computers
+The use of computers needs to be monitored so that they are used
+for the purposes which they were bought for. Computer operators
+have a responsibility of monitoring the use of computers so that
+they are not misused. In a school set up, the computer operator
+can monitor the use of computer by continuously checking the sites
+being visited by learners on the Internet. Some of the sites can be
+blocked so that the learners only have access to the one suitable
+for them.
+
+The role of a copyist
+
+What is a copyist?
+
+Acopyist is an individual who makes copies of
+documents. Copyists have knowledge about
+computer programs, hardware and software
+and can use this knowledge to perform their
+job. A copyist uses devices like a photocopier,
+scanner and printer.
+
+
+--- Page 92 ---
+A printer A scanner
+
+Roles of a copyist
+
+1. Making copies of documenis
+A copyisi is responsible for making copies of documents using the
+devices shown above. The documents can be in hard or soft copy.
+Sometimes the copyist can make the copies in colour or black and
+white depending on what is required.
+
+2. Typing documents
+Copyists are responsible for typing, formatting and editing
+documents just like computer operators. Because of this role, they
+
+are also called copy-typists.
+
+% 1. Imagine you are a copyist, get documents that
+you can photocopy, scan and print.
+2. Discuss the differences among these processes
+Qa) photocopying
+b) printing
+Cc) scanning.
+
+
+--- Page 93 ---
+“ 1. As aclass, work together and organise a trip to a
+SS photocopying or printing company in the nearby
+area. Take note of what computer operators and
+
+copyists in these work places do.
+
+Key points
+
+a) A computer operator is a person who eniers data into
+a computer, who can help in fixing computer related
+problems and monitors other people working with
+computers.
+
+b) Besides entering data, some of the roles of a computer
+operator include installing computer systems, storing
+computer related items, and setting up controls for
+computer usage.
+
+c) A copyist is a person who can make copies of
+documents using devices like, scanners, printers and
+photocopiers.
+
+d) A copy-typist does both the typing and printing of
+documents.
+
+e) A compuier operator and a copyist are important
+people in any ICT department.
+
+f) Computer operator or copy-typist is a good career
+
+opportunity
+
+
+
+--- Page 94 ---
+daily.
+
+B. gadgeis
+Is part of the many duties that a computer
+
+operator does.
+
+A. maintaining databases
+
+B. making copies of documents
+
+C. taking orders
+
+D. creating applications
+
+. Acopyist is :
+
+A. an individual who marks documents
+
+B. an individual who creates documents
+
+C. an individual who processes documents
+
+D. an individual who makes copies of documents
+. Acopyist can do all the following except
+
+A. programming computer software applications
+B. entering data into a computer
+
+C. formatting a document
+
+D. editing texts
+
+. Between a copyist and a computer operator, who has a
+deeper knowledge on computers?
+
+6. Which device changes documenis to soft copies?
+
+. Why is it important for a computer operator to set up
+controls on the computer?
+
+. Do you think there is a need for a computer operator in
+a school? Give a reason for your answer.
+
+
+--- Page 95 ---
+Programming: sequence of
+insiructions
+
+Assumed knowledge
+
+a) Programming uses many languages.
+b) Programming languages can be downloaded for free from the
+Internet or they can be bought.
+
+~ Introduction
+Programming is the process of writing computer programs, for
+example, a planned series of future events or performances.
+There are many programming languages which are used,
+for example, Scratch and Logo. In this book, most of the
+
+examples will be coded using Scratch programming. Scratch
+can be downloaded for free from the Internet.
+
+A program
+
+A computer program is a sequence of instructions to be followed by
+the computer. A sequence or a block of instructions in programming
+is also called a script or a simple program.
+
+
+
+--- Page 96 ---
+Example: Program 1
+
+Write a script to:
+
+1. Say “Good Morning”.
+
+2. Then change colour by 25.
+
+3. Then think “Hmmm...” for 2 seconds.
+4. Then change colour by 80.
+
+5. Change size by 200.
+
+Solution
+
+1. Drag all the instructions from the menu to the centre script area.
+2. Connect them into a single block.
+
+3. Edit the parameters to get the required numbers.
+
+Your program should look like this:
+
+i auitch to. cestume epstrel
+
+} next costume
+
+ie costume #
+
+P isay Helio! for @ secs
+sy
+think TSM for Bzecs
+
+| set sole effect teQ
+
+; deat graphic effects
+|
+
+1 change size by £20]
+| set size to 100} %
+Pe size
+
+E show
+
+p hide
+
+B go to front
+
+eee On
+
+
+
+--- Page 97 ---
+A sequence of instruction
+
+1. The first instruction is done first.
+
+2. The second instruction is done second.
+
+3. The last instruction is done last.
+
+NB: Instructions should be taken as per their order.
+
+Modifying sequence of instructions
+
+1. For program 1 to run, a control must be included in the program.
+
+2. From the control menu drag this instruction.
+
+3. After adding the instruction fo run the program click the green
+flag.
+
+cm uyenncentaeanonniann rmsaneanennen sce
+sonst EIA
+
+coopien
+
+aes
+
+go oO
+
+
+
+--- Page 98 ---
+Program 2
+
+Modify the program above to say:
+
+a) “Good Morning Zimbabwe".
+
+lb) Then change colour by 40.
+
+c) Then think “Hmmm...” for 2 seconds.
+d) Wait for 5 seconds.
+
+e) Then change colour by 100.
+
+f) Change size by 100.
+
+After running the program, you will get the following:
+
+
+
+--- Page 99 ---
+Program 2
+
+Modify the program above to say:
+
+a) “Good Morning Zimbabwe".
+
+b) Then change colour by 40.
+
+c) Then think “Hmmm...” for 2 seconds.
+d) Wait for 5 seconds.
+
+e) Then change colour by 100.
+
+f) Change size by 100.
+
+After running the program, you will get the following:
+
+..
+
+be
+
+y
+
+Bs x: -1010 : 205.
+
+
+
+--- Page 100 ---
+Developing a simple game
+
+1. You must change a Sprite type by importing the Sprite.
+2. Use the Paint New Sprite to draw a hammer.
+
+3. Import a buffalo.
+
+| New sprite: a ey oo 4
+
+we =
+
+Spritel © Sprite? |
+
+1. You can make the hammer to move by using the motion
+menu.
+2. Create two costumes.
+
+
+
+--- Page 101 ---
+For the hammer to work use the following commands.
+
+Ty set size to &) x
+
+The wait will assist you fo see the movements of the Sprite.
+After using these commands, the hammer will move once. For it to
+move many times you add the Forever command.
+
+1. Use the commands to program a working
+
+2. Edit the scripts to wait for 3 seconds.
+- 3. Change a sprite fo a car.
+
+4. Use the following commands 4;
+so that the car drives and | Ais esas se
+disappears. CGS 2008
+
+5. Change the variablesand | F- [
+record the changes on a
+piece of paper.
+
+
+
+--- Page 102 ---
+Key points
+
+a) Instructions are executed by the computer one after
+the other unless another instruction tells the computer
+fo move to a certain part of the program.
+
+b) The position of the sprite must always be noted before
+running the script, otherwise the program will give
+incorrect results, for example, you can instruct the
+sprite fo turn 90° anticlockwise, but it might end up
+facing the wrong direction.
+
+Cc) Scripts must have the start and stop command.
+
+ray econ er
+
+
+
+--- Page 103 ---
+4. instead of writing the same Commands four times, whieh
+command would you use when programming using
+
+Scratch?
+5. What does this command do i] Hane 2
+Question 6 to 8 :
+
+Match the commands and what they do.
+
+Face towards set size to so} %%
+the right.
+
+Move to the
+position on the point in direction ERs
+
+side walk.
+
+Reduce size to go to x: GEL) y:
+50% of original.
+
+
+
+--- Page 104 ---
+IC Primary ICT
+
+Grade 4 ICT Learner's Book
+
+* is written in line with the new curriculum that was developed by the
+Ministry of Primary and Secondary Education (2015 — 2022)
+
+* provides a broad perspective on the basic knowledge of ICTs
+
+* provides comprehensive practical skills on how to use and apply a variety
+of technologies in everyday life
+
+* equips learners with the general understanding of how information systems
+are designed to suit applications and how such systems work
+
+* has high resolution photographs to enhance the learners’ understanding
+
+* has activities that encourage individual work, group work and class work
+which will promote the learner’s social skills
+
+* lessons are presented in a chronological way starting with the simple and
+moving to the complex
+
+* has step by step instructions on practical activities that are accompanied by
+legible screenshots
+
+¢ is complemented by a Teacher’s Guide
+
+f “A
+Republic of Zimbabwe
+MINISTRY OF
+PRIMARY AND SECONDARY EDUCATION
+: Property cf the Ministry of Primary and Secon
+Printed in collaboration with the Globa! Partnership for Education a:
+Nat For Sate ~ Seller/buyer will be prosecuted.
+
+Approved by the Ministry of Primary and Secondary Education, November 2017
+
+CONSULTUS
+
+13
+
+ISBN 978-1-77934-0
+PUBLISHING
+SERVICES
+9 '781779'3401
+
+| [r
+2
+
+2'>]
+
+

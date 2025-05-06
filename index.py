@@ -1,9 +1,31 @@
 import sys
 import os
 import time
+try:
+    import pytesseract
+    print("✓ Pytesseract successfully imported")
+except ImportError:
+    print("✗ Error importing pytesseract")
+    print("\nFIX: Try running: pip install pytesseract")
+    sys.exit(1)
+
+# Manually specify the Tesseract path if not found
+if os.name == 'nt':  # Windows
+    possible_paths = [
+        r'C:\Program Files\Tesseract-OCR\tesseract.exe',
+        r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+    ]
+    for path in possible_paths:
+        if os.path.exists(path):
+            pytesseract.pytesseract.tesseract_cmd = path
+            print(f"✓ Tesseract manually set to: {path}")
+            break
+    else:
+        print("⚠️  Tesseract not found in default locations. Please install or set manually.")
 
 # Print setup information
 print("Setting up dependencies...")
+
 
 # Try importing the required libraries with better error handling
 try:

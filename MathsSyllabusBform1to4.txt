@@ -1,0 +1,4262 @@
+--- Page 1 ---
+, ae
+3 ZIMBABWE
+
+Ministry of Prim: Ky and Secondary Education
+j \ J Faby \
+i
+
+2024-2030
+
+Curriculum Development and Technical Services
+Box MP 133
+
+Mt Pleasant
+
+Harare
+
+Mathematics Syllabus B Form 1 — 4 2024 i
+
+
+--- Page 2 ---
+Acknowledgements
+
+The Ministry of Primary and Secondary Education wishes to acknowledge the
+following for their valued contributions in the development of this syllabus:
+
+Learning area panellists for Form 1 to 4 Mathematics
+
+Ministry of Higher and Teriary Education, Innovation, Science and Technology
+Development (MoHTEISTD)
+
+Zimbabwe School Examinations Council (ZIMSEC)
+
+United Nations Children’s Fund (UNICEF)
+
+United Nations Educational Scientific and Cultural Organisation (UNESCO)
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+--- Page 3 ---
+TABLE OF CONTENTS
+
+Contents
+Page
+Table of Contents
+ACKNOWIECQGEMENL....0.. ee eee eceeeceteeeeeecseeeececeeeceaeeaeeaeeaeeaecacesessaeeecaeeaeeaeeaeeeesaaeseseaeeaaeaeeaeeaeeaeeaeeaaees ii
+TABLE OF CONTENTS. ........ccccccssscccsseesceseescesecseesecsessecseeeeceaececeaesseeeecsesaecaaseeceaeeeceaeeaeeaeeaeeaeeas iii
+7.0 Pre€@IMbIe oes cece ccc eeeeecseeeeceeeeecaeeeceaeeaeeaecaeesecsaeeeceaeeaeeaecaeesesaaesessaeeeaeaeeaeeaeedeviesseees 1
+7.1 INEPOCUCTION one cece ene eeecseteeceeeeecaeeeceaeeaeeaecaeeseseaeeecsaeeaceaeeaeesesaeeeseaeeeeeageaeesesuagefeaeees 1
+JQ Rationale... cc ceceecneeseeseeseeeesaesecscesecaceeecaeeateecsaeecaeeeecaeeaeeeaeaeeecaeeecaeeedgactaeedgeteteceteeeaees 1
+1.3 Summary Of Content... cceceececesseeeseeecseeeeseeecaesaeseeecaeeaesececaeeacseseceeeaesececseeasieceasdeaeuseaeeateeeeeaeeaes 1
+1.4 ASSUMPTIONS 20.0... eeeececeecseeeeceeeeesecsecaeeseeseecaeeseasecsaesaeseecsaesaeeseeaecasegsdaaccseseaeseeeetecaeeeeeeaeeaeeneeaes 1
+1.5 Cross Cutting themes 0... cccecsececesseceeeeeseeeeseeecaeeaeseseceeeaeeeceaeedecedageetaceecaeeeeaeeeeaseateeeeaeeaes 1
+2.0 Presentation Of SyllADUS oo... cece eseeseseeeeeeeeseeeeeeeseedaneeeecseeseeecsenseeecsaeseceeeaeeeaeeas 2
+3.0 AIMS ooo. cece ccceseeeeeseeaeeseeseesecaceeecsaeecaeaeeaeeaeeaeesecaaeecsaeeagsdeccestacteesecaeeecsaeeeceaseaaeaeeaeeaeeaaeesaaeeesy 2
+4.0 QUJOCHIVES eee ctetseeecseeseeecseeseeecseeseeeesaddecesaesdeaceaesecaeeaeecsenseeessaeseeessaeseeaeeateeaeeas 2
+5.0 TOPICS eee eececccccccscessceseceeeceseceaeeseeeaeeeeceeecaesseceseesesduasesecaaecsaeeaeeeaeseceaeceaecaaeeaeeeeeseceaeeaeeaes 3
+6.0 Methodology and Time Allocation 0... ccc cceeceeeeeseeeeceeeeceeeeeceaeeeeeaeeaeeeeaeeeeseeee 3
+6.1 Time AllOCALION oo. ecceceeeceeeedeneeseshaeaeshesaeececesecaeeeecaeeaeeeasaeeeeeaesecaceeecaeeaeeaaeaeeeeeaeeeeeeeeeeaees 4
+7.0 SCOPE AND SEQUENCE CHART ........ccccccsccccssesseesecseesecseececeeeeeceaeeaeeaecaeeecseseeceaeeees 4
+8.0 CONTENT MATRIX: FORM 1 SYLLABUS... cccccccecseeeceeeecceeeeceecseeeeceseecaseees 1
+8.0 CONTENT MATRIX: FORM 2 SYLLABUS... cccccccseccseeeceeeeceeeseceecseseecseseeceaees 17
+8.0 CONTENT MATRIX: FORM 3 SYLLABUS... ccccccccccseeeceeeeceeeseceecseeeeceseeceees 36
+8.0 CONTENT MATRIX: FORM 4 SYLLABUS... cccccccseccseeeceeeeeceeesececseeeecseseecsaees 54
+9.0 ASSESSMENK niece cccceeeceeeeeeeseeeeeaeeaeesecaeeecsaeeeceaeeaeeaeeaeesecaaeseseaeeecaeeaeeaeeaeeaeeaeeaesaaeeesy 1
+9.1 Assessment ODjeCtiVes oo. eee ccceeeteeeceeeeeseeeceeeetseeeeaeeateeeeeaeeas Error! Bookmark not defined.
+92 ASSESSMENL MOE ........-ceeeeccsesessecceeseeceesceesesesseceeeseecscsesseesaeseasseseeceeceesesesesesseseeeacacaesesceecaeseeeaeseeceeceeseecaeseeees 81
+9.3 Scheme of ASSESSMENK 0... ec eccseeccseeseeeeeseeeeeeeescaeeeeseeeaeeeeeaeeees Error! Bookmark not defined.
+
+Mathematics Syllabus B Form 1 — 4 2024 iii
+
+
+--- Page 4 ---
+1.0 Preamble
+
+1.1 Introduction
+
+In developing the Heritage-based Mathematics syllabus B, attention was paid to the
+need to provide continuity of mathematical concepts from primary school level through
+to form 4. The syllabus is intended to empower learners with mathematical skills such
+as critical thinking and problem solving for use in solving everyday life problems. This
+four year learning course will provide learners with opportunities to integrate and apply
+mathematical concepts to other learning areas. It is also designed to inculcate into
+learners the ability to communicate effectively. Learners should understand and master
+various attitudes, skills, knowledge, concepts and processes in order to investigate and
+interpret numerical and spatial relationships and patterns that exist in the world.
+
+1.2 Rationale
+
+Mathematics is a fundamental component of economic education. It is very critical for
+driving innovation, entrepreneurship and industrialisation which are key to development.
+Therefore it is imperative that learners acquire necessary mathematical knowledge,
+skills, values and develop positive attitudes towards application of mathematical
+concepts to produce goods and services. This syllabus plays a pivotal role in careers
+such as engineering, construction, entrepreneurship, education, medicine, agriculture,
+meteorology and other trades.
+
+1.3 Summary of Content
+
+The Form 1 to 4 Heritage-based Mathematics syllabus B covers the theoretical and
+practical aspects of Mathematics. The content include simple mathematical operations
+and processes that can be applied in other learning areas especially the technical and
+vocational education and training categories.
+
+1.4 Assumptions
+The syllabus assumes that the learner has:
+
+e grasped the primary mathematics concepts such as:
+- . number
+- . operations
+- measures
+- relationships
+e acquired the ability to operate some IT gadgets
+
+1.5 Cross Cutting themes
+The following are some of the cross cutting themes in mathematics:-
+
+Mathematics Syllabus B Form 1 — 4 2024 1
+
+
+--- Page 5 ---
+e Business Enterprise Skills
+
+e Disaster Risk Management
+
+e Environmental Management
+
+e Gender Equity
+
+e Climate Change
+
+e Health and wellbeing
+
+e Child rights and responsibilities
+
+2.0 Presentation of Syllabus
+
+The Heritage-based Mathematics syllabus is a single document covering forms 1 to 4.
+It contains the preamble, aims, assessment objectives, syllabus topics, scope and
+sequence and content matrix. The syllabus also suggests a list of resources to be used
+during learning and teaching processes.
+
+3.0 Aims
+The syllabus is intended to provide a guideline for form 1 to 4 course that will enable
+learners to:
+
+3.1develop an understanding of mathematical concepts and processes in a way
+that encourages confidence, enjoyment and interest
+
+3.2further acquire appropriate mathematical skills and knowledge
+
+3.3develop the ability to think clearly, work carefully and communicate
+mathematical ideas successfully
+
+3.4apply mathematics in other learning areas and in life
+
+3.5develop an appreciation of the role of mathematics in personal, community
+and national development
+
+3.6 engage, persevere, collaborate and show intellectual honesty in performing
+tasks in mathematics, in the spirit of Unhu/ Ubuntu/Vumunhu
+
+4.0 Objectives
+
+The learners should be able to:
+
+4.1 use mathematical symbols, terms and definitions in problem solving
+
+4.2construct appropriate mathematical models that can be applied in solving
+problems in life
+
+4.3 draw inferences through manipulation of mathematical data
+
+4.4communicate mathematical ideas and information clearly and effectively in
+various contexts
+
+4.5solve a wide range of problems involving algebraic and geometric concepts
+
+4.6apply mathematical concepts in other learning areas
+
+4.7use |.C.T tools in solving Mathematical problem
+
+4.8 conduct Mathematical research projects including those related to enterprise
+
+Mathematics Syllabus B Form 1 — 4 2024 2
+
+
+--- Page 6 ---
+5.0 Topics
+The following topics will be covered from Form 1 to 4:
+
+e Real Numbers
+
+e Sets
+
+e Money and Finance
+e Measures and Mensuration
+e Graphs
+
+e Variation
+
+e Algebra
+
+e Geometry
+
+e Statistics
+
+e Trigonometry
+
+e Vectors
+
+e Matrices
+
+e Probability
+
+e Transformations
+
+6.0 METHODOLOGY AND TIME ALLOCATION
+
+6.1 Methodology
+
+It is recommended that teachers use teaching techniques in which mathematics is seen
+as a process which arouse an.interest and confidence in tackling problems both in
+familiar and unfamiliar contexts. The teaching and learning of mathematics must be
+learner centred. Ortho-didactic principles should also be applied during teaching and
+learning of mathematics. The following are suggested methods of the teaching and
+learning of mathematics
+
+e Guided discovery
+
+e. Group work
+
+e Interactive e-learning
+
+e Exposition
+
+e Demonstration and illustration
+e Problem solving
+
+e = Individualisation
+
+e Stimulation
+
+e Self-activity
+
+e Totality and wholeness
+e Visual tactile
+
+e Educational tours
+
+Mathematics Syllabus B Form 1 — 4 2024 3
+
+
+--- Page 7 ---
+6.2 Time Allocation
+
+Six periods of 40 minutes each per week should be allocated for the adequate
+coverage of the syllabus
+
+7.0 SCOPE AND SEQUENCE CHART
+7.1. TOPIC 1: REAL NUMBERS
+TOPIC FORM 1 FORM 2 FORM 3 FORM 4
+Number e Number e Factors e Order of
+Concepts and types and operations
+Operations e Factors and multiples e Irrational
+multiples e Squares numbers
+e Directed and square |e Number
+numbers roots patterns
+e Fractions and |« Cubes and
+percentages cube roots
+e Order of
+operations
+Approximations | e Round off e Significant |e Estimations |e Limits of
+and numbers figures e Significant accuracy
+estimations e Decimal e Estimations figures
+places e Basic limits
+of accuracy
+Ratios, rates e Ratios e Ratios e Ratios
+and proportions e Proportions |e Rates
+e Proportions
+Ordinary and e Large and e Numbers in |e Operations
+standard form small standard in standard
+numbers form form
+Number bases |-e Number e Converting |e Operations
+bases in numbers in number
+everyday life from one bases
+e Place values base to
+another
+Scales and e Scale e Scale e Scales
+simple map measurement drawing e Length
+problems factor
+e Area factor
+TOPIC 2: SETS
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 8 ---
+TOPIC FORM 1 FORM 2 FORM 3 FORM 4
+e Sets e Sets and e Types of e Set Builder
+Set notation sets Notation
+e Types of e Venn e Venn
+sets diagram with diagrams
+two subsets with three
+subsets
+TOPIC 3: FINANCIAL MATHEMATICS
+TOPIC FORM 1 FORM 2 FORM 3 FORM 4
+Consumer e Household |e Corporate |e Bank e Foreign
+arithmetic bills bills statements exchange
+e Profit and e Profit and e Compound e Sales and
+loss loss interest income tax
+e Discount e Simple e Commission rates (Pay
+e Household interest e Hire as you
+budgets e Hire purchase earn
+purchase (PAYE))
+
+e Small scale e Value
+enterprise added tax
+budgets (VAT)
+
+e Customs
+and excise
+duty
+
+TOPIC 4: MEASURES AND MENSURATION
+TOPIC FORM 1 FORM 2 FORM 3 FORM 4
+Measures Units of : Units of:
+e Time e Area
+e Mass e Volume
+e Length e Capacity
+e Temperature |e Density
+e Capacity
+Mensuration e Perimeterof j|e« Perimeter |e Perimeter |e Area and
+plane shapes of plane of volumes
+e Area of plane shapes combined of similar
+shapes shapes shapes
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 9 ---
+e Volume of e Area of e Area of e Surface
+cuboids plane combined area
+shapes shapes e Volume of
+e Volume of |e Volume of prisms
+cylinders cones and
+pyramids
+e Density
+TOPIC 5: GRAPHS
+TOPIC FORM 1 FORM 2 FORM 3 FORM 4
+Functional e Cartesian {|e Cartesian |e Functional |e Cubic graph
+Graphs plane plane Notation e Inverse graph
+e Scale e Table of e Linear
+e Co- values graphs
+ordinates e Linear e Quadratic
+graphs graphs
+e Scale
+Travel e Distance e Distance e Distance e Displacement
+Graphs time time time graphs time graphs
+graphs graphs e Speed-time |e Velocity-time
+graphs graphs
+TOPIC 6: VARIATION
+TOPIC FORM 1 FORM 2 FORM 3 FORM 4
+Variation e Direct e Direct e Joint
+variation variation variation
+e Inverse e Partial
+variation variation
+TOPIC 7: ALGEBRA
+TOPIC FORM 1 FORM 2 FORM 3 FORM 4
+Algebraic e Basic e Substitution |e Algebraic e Algebraic
+Manipulatio arithmetic of values fractions fractions
+n processes |e Algebraic e Highest e Quadratic
+in letter expressions Common expressions
+symbols e Algebraic Factor e Factorisatio
+e Substitutio fractions (HCF) and n
+n of values Lowest
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 10 ---
+e Algebraic |e Quadratic Common e Completing
+expression expressions Multiple the square
+s e Factorisation (LCM) of
+algebraic
+expressions
+Quadratic
+expressions
+Factorisation
+Equations e Linear e Equations Simultaneou | e Completing
+equations with s equations the square
+brackets Quadratic e Quadratic
+e Equations equations formulae
+with Change of
+fractions subject in
+e Change of formulae
+subject of Substitution
+formulae of values
+Simultaneou
+s linear
+equations
+e Quadratic
+equations
+Inequalities |e Linear e Linear Simultaneou | e Linear
+inequalities inequalities s inequalities programmin
+e Number line Graphs of g
+e Cartesian inequalities
+plane
+Indices and |e Index form |e Laws of Indices
+Logarithms indices Logarithms
+e Highest Theory of
+Common logarithms
+Factor Equations
+(HCM) and involving
+Lowest indices and
+Common logarithms
+Multiple
+(LCM) in
+index form
+e Squares and
+square roots
+Mathematics Syllabus B Form 1 — 4 2024 7
+
+
+
+--- Page 11 ---
+e Cubes and
+
+cube roots
+TOPIC 8: GEOMETRY
+TOPIC FORM 1 FORM 2 FORM 3 FORM 4
+Points, lines |e Points e Angles, e Angles of
+andangles |e Lines e Transversal elevation
+e Angles and parallel and
+lines depression
+e
+Bearing e Cardinal e Three figure
+points bearing
+e Three figure |* Compass
+bearing bearing
+e Compass
+bearing
+Polygons e Polygons e Properties of |e Properties e Circle
+polygons of polygons theorems
+(triangles (pentagon
+and to circle)
+quadrilateral |e Angles
+S) properties of
+polygons
+e Circle
+theorems
+e Numbers of
+sides of
+polygons
+Similarity e Similarand |e Areas of
+and congruent similar
+Congruency figures figures
+e Similar e Volume and
+triangles mass of
+e Congruent similar
+triangles solids
+Construction | e Constructio |e Construction |e Constructio |e Constructio
+s and Loci n of lines of angles n of n of
+and angles |e Bisecting triangles diagram to
+lines and and a scale
+angles quadrilateral | e Define loci
+
+Ss
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 12 ---
+Constructio
+
+n of loci
+Symmetry e Line Line Rotational
+symmetry symmetry in symmetry in
+in two two two
+dimensions dimensions dimensions
+TOPIC 9: STATISTICS
+TOPIC FORM 1 FORM 2 FORM 3 FORM 4
+Data e Data e Data e Collection
+Collection and collection collection and
+Classification |e Data e Classificatio classificatio
+classificatio n of n of
+n ungrouped grouped
+data data
+Data e Pictograms e Frequency Frequency
+Representatio |e Bar chart table table
+e Bar chart .
+n e Frequency e Bar chart Histogram
+tgs e Frequency .
+distribution MPS: e Pie chart Frequency
+distribution ;
+table table e Histogram polygon
+Pie chart e Frequency Cumulativ
+polygon e
+frequency
+table
+Cumulativ
+e
+frequency
+curve
+Measures of e Mean e Mean, Median
+Central e Mode median and from
+Tendency e Median mode of cumulativ
+grouped e
+data frequency
+e Assumed curve
+mean
+Measures of Quartiles
+Dispersion Inter
+quartile
+range
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+Type equation here.
+
+
+
+--- Page 13 ---
+TOPIC 10: TRIGONOMETRY
+
+TOPIC
+
+FORM 1
+
+FORM 2
+
+FORM 3
+
+FORM 4
+
+Pythagoras
+Theorem
+
+e Introduction to
+Pythagoras
+theorem
+
+Trigonometrical
+Ratios
+
+e Trigonometrical
+ratios of acute
+angles:
+
+- Sine
+- Cosine
+- Tangent
+
+e Trigonometrical
+
+ratios of obtuse
+
+angles
+
+Cosine
+rule
+Sine rule
+
+TOPIC 11: MATRICES
+
+TOPIC
+
+FORM 1
+
+FORM 2
+
+FORM 3
+
+FORM 4
+
+Dimension/
+Order
+
+Order/Dimension
+of matrices
+Types of matrices
+
+Operations
+
+Addition and
+subtraction of
+matrices
+
+e Addition and
+Subtraction of
+matrices
+
+e Scalar
+multiplication
+of matrices
+
+e Multiplication
+of matrices
+
+Determinants
+
+e Determinants
+of Matrices
+
+e Singular and
+non-singular
+matrices
+
+Inverse Matrix
+
+e Inverse of
+matrix
+
+e Simultaneous
+linear
+equations in 2
+variables
+
+TOPIC 12: VECTORS
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+10
+
+
+
+--- Page 14 ---
+TOPIC FORM 1 FORM 2 FORM 3 FORM 4
+Definition e Definition of
+and Notation vector
+e Vector
+notation
+Types of e Translation e Translation
+Vectors vectors e Negative
+e Negative e Equal
+vectors e Parallel
+e Equal vectors |e Position
+e Parallel
+vectors
+Operation e Addition of e Addition of e Vector
+vectors vectors properties of
+e Subtraction e Subtraction of plane
+of vectors vectors shapes
+e scalar
+multiplication
+e Magnitude
+e Combined
+vector
+operations
+TOPIC 13: TRANSFORMATIONS
+TOPIC FORM 1 FORM 2 FORM 3 FORM 4
+Translation |e Translation |e Translation |e translation e use of
+of plane vector to vector to translation
+figures move a move a vectors
+point plane figure
+on Cartesian
+plane
+Reflection e Reflection |e Reflection of |e Reflection of
+of plane plane figures plane figures
+figures ona in any line
+Cartesian and use of
+plane in the matrices
+X-axis, y-
+axis, lines of
+the form y=a
+and x=b
+Rotation e Rotation of |e Rotation of
+plane figures plane figures
+ina by drawing
+Mathematics Syllabus B Form 1 — 4 2024 11
+
+
+
+--- Page 15 ---
+Cartesian and use of
+plane by matrices
+drawing
+Enlargement Enlargement | e Enlargement
+about the using
+origin using matrices and
+a rational about any
+scale by point using a
+drawing rational
+scale
+Stretch e One-way
+and two-way
+stretch using
+matrices and
+geometrical
+methods
+Shear e Shear using
+matrices and
+geometrical
+methods
+TOPIC 14: PROBABILITY
+TOPIC FORM 1 = | FORM 2 FORM 3 FORM 4
+Probability e Definition of e Experimental | e« Combined
+probability probability events
+terms e Theoretical e Application
+e Experimental probability of probability
+probability e Single events
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+12
+
+
+
+--- Page 16 ---
+8.0 CONTENT MATRIX: FORM 1
+
+FORM ONE (1)
+
+8.1 REAL NUMBERS
+
+Number Concepts and | e identify types of e Number types e Identifying and e Counters such as
+operations numbers . listing types of Bottle tops
+e find factors and e Factors and numbers e Number line
+multiples of multiples e Listing factors and |e Approved and
+numbers multiples of Recommended
+numbers Textbooks
+e find H.C.F. and e Highest Common e Finding H.C.F and |e Charts with relevant
+L.C.M. Factor (H.C.F.) and L.C.M. concepts
+Lowest Common e Using a number line
+Multiple (L.C.M.) on the operation of
+
+directed numbers
+e Directed numbers |e Using counters
+
+h |
+e operate with such as bottle tops
+
+directed numbers
+
+Mathematics Syllabus B Form 1 — 4 2024 1
+
+
+--- Page 17 ---
+apply directed
+numbers to
+practical situations
+in everyday life
+operate with
+fractions
+
+convert fractions to
+decimals
+
+convert fractions to
+percentages and
+vice versa
+
+carry out
+calculations
+involving
+percentages
+
+Fractions
+Decimals
+
+Percentages
+
+on the operation of
+directed numbers
+
+e Operations with
+fractions
+
+e Converting fractions
+to decimals
+
+e Converting fractions
+to percentages
+
+e Calculations
+involving decimals
+and percentages
+
+Approximation and
+Estimation
+
+round off numbers
+to the given place
+value
+
+round off numbers
+to the given decimal
+places
+
+Whole numbers
+
+Decimal numbers
+
+e Rounding off
+numbers
+
+N.B. Digits 0;1;2;3;4;
+are rounded down
+and digits 5;6;7;8;9
+are rounded up
+
+Approved and
+Recommended
+Textbooks
+calculators and
+computers
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 18 ---
+Ratios
+
+simplify ratios
+solve problems
+involving ratios
+
+Ratio
+
+Simplifying ratios
+Solving problems
+using ratios
+
+Approved and
+Recommended
+Textbooks
+
+Large and small
+numbers
+
+express small and
+large numbers in
+digits and words or
+vice versa
+
+Large and small
+numbers
+
+expressing small
+and large numbers
+in digits and words
+or vice versa
+
+Approved and
+recommended
+textbooks
+Calculator
+
+Number bases
+
+identify number
+bases in everyday
+life situations
+
+identify numbers in
+their respective
+bases
+
+identify place value
+of numbers
+
+Time related bases
+such as seconds,
+minutes, hours and
+weeks
+
+Quantity related
+bases such as
+dozen and score
+Language related
+bases
+
+Place value
+
+Identifying different
+number bases
+Identifying numbers
+in their respective
+bases
+
+Identifying place
+value
+
+Approved and
+Recommended
+Textbooks
+Charts
+Computer
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 19 ---
+Scales e Identifying types of |e Representative Identifying types of |e Plans
+scales Fraction scales e Maps
+e Ratio scale e Geometrical
+e find scales from Measuring lengths instruments
+given information using given scales |e Approved and
+e measure lengths Making scale Recommended
+using a given scale drawings using Textbooks
+e use given scales to appropriate/given
+draw lines or scale
+diagrams Calculating
+e calculate distances distances
+using a given scale
+8.2 SETS
+Sets and Set notation |e define a set by e Sets Listing elements of |e Mathematical set
+listing the elements |e Elements various sets e Sets of objects
+e define a set by e Number of Describing the e Charts
+
+describing common elements in a set common
+
+characteristics of characteristics of
+
+elements elements
+Mathematics Syllabus B Form 1 — 4 2024 4
+
+
+
+--- Page 20 ---
+state the number of
+elements in a set
+name and match
+
+e Naming and
+matching symbols
+and notation of sets
+
+matching sets
+
+set symbols for example:
+A= {...} fora set
+e: for element of a set
+€¢: for not an element
+of
+n(A): for number of
+element in set A
+Types of Sets e state the types of Universal set e Listing of types of e Charts with various
+sets - Finite set sets sets
+e form subsets Infinite set e Identify types of e Cutlery set
+Null or empty set sets e Mathematical set
+Equal sets e Dividing elements |e Empty box
+Subset of universal setinto |e Approved and
+Union of a set subsets Recommended
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 21 ---
+8.3 FINANCIAL MATHEMATICS
+
+Consumer arithmetic
+
+Interpret bills
+Extract data from
+household bills for
+calculations
+calculate profit
+and loss
+calculate discount
+prepare
+household
+budgets
+
+Household bills
+Buying and selling
+Profit and loss
+Discount
+Household budgets
+
+‘Interpreting
+
+household bills and
+corporate bills
+Solving problems
+involving household
+bills
+
+Calculating profit
+and loss
+Calculating
+discount
+
+Preparing and
+discussing
+household budget
+
+Relevant
+Textbooks
+Corporate and
+household bills
+Resource persons
+Newspaper cuttings
+
+8.4 MEASURES AND MENSURATION
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 22 ---
+of plane shapes
+calculate area of
+plane shapes
+
+calculate volumes
+of solid shapes
+
+as: Rectangles,
+circles, triangle,
+parallelogram,
+trapezium
+
+Solid shapes such
+as cuboids and
+prisms
+
+perimeter and area
+of plane shapes
+Calculating volume
+of solid shapes
+
+Measures read time on both Time Reading time Watches
+the 12 and 24 hour Mass Expressing Clocks
+clock length quantities in terms Scales
+identify SI units of Temperature of smaller or larger Thermometer
+quantities Capacity units Mathematical
+express one Naming SI units of instruments
+quantity in terms of quantities Approved and
+smaller or larger Measuring of Recommended
+units quantities Textbooks
+measure different Measuring
+quantities instruments
+Mensuration calculate perimeter Plane shapes such Calculating Approved and
+
+Recommended
+Textbooks
+Plane shapes
+Cuboids such as
+chalk boxes
+Prisms
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 23 ---
+8.5 GRAPHS
+
+Functional graphs
+
+draw the Cartesian
+plane using a given
+scale
+
+name points on the
+Cartesian plane
+plot points on the
+Cartesian plane
+
+Cartesian plane
+Scale
+
+Naming co-
+ordinates of points
+on the Cartesian
+
+‘plane
+
+Plotting points on
+the Cartesian plane
+
+Graph books
+Approved and
+Recommended
+Textbooks
+Geo-board
+Mathematical
+instruments
+
+Travel graphs
+
+interpret distance
+time graphs
+
+Distance time
+graphs
+
+Solving problems
+on distance time
+graphs
+
+Distance time
+graphs
+Approved and
+Recommended
+Textbooks
+
+8.6. ALGEBRA
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 24 ---
+Symbolic Expression
+
+represent unknown
+quantities with
+letters/symbols
+
+Algebraic
+expressions
+
+Expressing given
+information in
+letters
+
+Approved and
+Recommended
+Textbooks
+
+Algebraic Manipulation
+
+group like terms
+simplify using the
+rules for the four
+basic operations
+substitute values for
+letters
+
+find H.C.F of linear
+algebraic
+expressions
+factorise linear
+algebraic
+expressions
+
+Monomials
+Algebraic
+expressions with
+two or more
+variables
+Substitution
+Factorisation of
+linear algebraic
+expressions
+
+Grouping terms
+Simplifying
+algebraic
+expressions using
+the rules of the four
+operations
+Substituting values
+for letters
+
+finding H.C.F of
+linear algebraic
+expressions
+Factorising linear
+algebraic
+expressions
+
+Approved and
+Recommended
+Textbooks
+
+Equations
+
+solve linear
+equations where
+the unknown
+appears one side
+solve linear
+equations were the
+unknown appears
+
+Linear equations
+
+Solving linear
+equations where
+the unknown
+appears on one
+side
+
+Solving linear
+equations where
+
+Approved and
+Recommended
+Textbooks
+Work cards
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 25 ---
+on both sides of the
+equation
+
+formulate linear
+equations from
+given information
+
+Word problems
+
+the unknown
+appear on both
+sides
+
+Forming linear
+equations from
+given information
+
+Inequalities
+
+define the words at
+least, at most, less
+than, more than
+using inequality
+signs
+
+represent linear
+inequalities ona
+number line
+formulate linear
+inequalities
+
+solve linear
+inequalities
+
+Inequality signs
+
+Linear inequalities
+
+Defining the terms
+at least, at most,
+less than and
+greater than
+Representing linear
+inequalities on a
+number line
+Formulating linear
+inequalities
+Solving linear
+inequalities
+
+Charts with
+inequalities
+Approved and
+Recommended
+Textbooks
+
+Algebraic expressions
+in index form
+
+express product of
+letters in index form
+
+Index form
+Common factors
+Common multiples
+
+Expressing the
+product of letters in
+index form
+
+Approved and
+Recommended
+Textbooks
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+10
+
+
+
+--- Page 26 ---
+find common factor
+of algebraic
+expressions
+
+Highest common
+factor
+Lowest common
+
+Finding common
+factors of algebraic
+expressions
+
+find common multiples Finding common
+multiples of multiples of
+algebraic terms algebraic terms
+find highest Finding highest
+common factor and common factors of
+lowest common algebraic
+multiple of algebraic expressions
+expressions
+
+8.7. GEOMETRY
+
+Lines and Angles Identify type of lines | e Lines Identifying types of Geometrical
+define an angle e Angles lines Instruments
+draw angles defining an angle Approved and
+measure angles drawing angles Recommended
+Identify types of measuring angles Textbooks
+angles
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+11
+
+
+
+--- Page 27 ---
+calculate angles on
+a straight line and
+at a point
+
+identify vertically
+opposite angles
+
+identify angles
+formed on parallel
+lines cut by
+transversal lines
+calculate angles on
+parallel lines cut by
+transversal lines
+
+Acute , right angle,
+obtuse, straight line
+and reflex angles
+Angles ona
+straight line or ata
+point
+
+Vertically opposite
+angles
+
+Alternate angles
+Corresponding
+angles
+Allied/co-interior
+angles
+
+Identifying types of
+angles
+
+Calculating angles
+on a straight line
+and ata point
+Identifying vertically
+opposite angles
+Naming angles on
+parallel lines cut by
+transversal lines
+
+Calculating angles
+on parallel lines cut
+by transversal lines
+
+and regions in a
+circle
+
+naming parts of a
+circle
+
+Polygons define a polygon Polygons Naming polygons Approved and
+state the names of with up to ten sides recommended
+n-sided polygons textbooks
+(up to n=10) Polygonal shapes
+
+ICT tools
+
+Circles name parts, lines Parts of a circle Drawing and Approved and
+
+recommended
+textbooks
+ICT tools
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+12
+
+
+
+--- Page 28 ---
+Mathematical
+instruments
+
+Construction
+
+construct lines and
+angles
+
+Lines
+Angles
+
+Constructing lines
+and angles
+
+Geometrical
+instruments
+ICT tools
+Approved and
+recommended
+textbooks
+
+Symmetry
+
+identify lines of
+
+plane shapes with
+
+Stating number
+
+Approved and
+
+symmetry for line symmetry lines of symmetry recommended
+regular polygons e lsosceles triangles Drawing lines of textbooks
+e Equilateral triangle symmetry Shapes
+e Regular polygons Letters
+e Parallelograms Regular polygons
+e Letters with lines of
+symmetry
+e Circle
+Mathematics Syllabus B Form 1 — 4 2024 13
+
+
+
+--- Page 29 ---
+8.8. STATISTICS
+
+Data collection and
+classification
+
+collect statistical
+data
+
+classify statistical
+data
+
+tabulate statistical
+data
+
+e Statistical data
+e Frequency table
+
+Collecting statistical
+data
+
+Classifying
+statistical data
+Tabulating
+statistical data
+Case study
+Administering a
+questionnaire
+
+Newspapers
+Archival information
+Population samples
+Resource person
+ICT tools
+
+Questionnaire
+
+Data representation
+
+tabulate statistical
+data
+
+represent data on
+bar chart, pie chart
+interpret a
+pictogram
+
+e Bar chart
+
+e Pie chart
+
+e Pictogram
+
+e Frequency table
+
+Tabulating
+statistical data
+Representing
+statistical data on
+bar chart and pie
+chart
+
+Interpreting
+pictogram
+
+Taking educational
+tour
+
+Approved and
+recommended
+textbooks
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+14
+
+
+
+--- Page 30 ---
+8.9. TRANSFORMATIONS
+
+Translation
+
+define
+transformation
+define translation
+translate plane
+figures
+
+Translation
+
+e Defining
+transformation
+
+e Translating plane
+figures
+
+Approved and
+recommended
+textbooks
+Geo-board
+Flannel board
+Charts
+
+ICT tools
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+15
+
+
+
+--- Page 31 ---
+FORM TWO (2)
+
+Mathematics Syllabus B Form 1 — 4 2024 16
+
+
+--- Page 32 ---
+8.0 COMPETENCY MATRIX
+
+8.1 REAL NUMBERS
+
+Number Concepts and
+operations
+
+find factors and
+multiples of
+numbers
+
+find H.C.F. and
+L.C.M.
+
+find squares and
+
+Factors and
+multiples
+
+Highest Common
+Factor (H.C.F.) and
+Lowest Common
+Multiple (L.C.M.)
+
+Listing factors and
+multiples of
+numbers
+
+Finding H.C.F and
+L.C.M.
+
+Finding squares
+and square roots
+Finding cubes and
+
+Approved and
+Recommended
+Textbooks
+
+Charts with relevant
+concepts
+
+ICT tools
+
+Estimate to a given
+degree of accuracy
+
+N.B. Digits 0;1;2;3;4;
+are rounded down
+
+square roots ; cube roots
+e find cubes and Squares and
+cube roots square roots
+Cubes and cube
+roots
+Approximation and e Round off numbers Significant figures |e Rounding off Approved and
+Estimation to given significant numbers to Recommended
+figures required significant Textbooks
+figures ICT tools
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+17
+
+
+
+--- Page 33 ---
+use the idea of
+ratio to solve
+problems
+
+use direct and
+inverse proportion
+to solve problems
+
+Direct proportion
+Inverse proportion
+
+e Solving problems
+using ratios or
+proportion
+
+Estimation and digits 5;6;7;8;9
+are rounded up
+Ratios and Proportions | e simplify ratios Ratio e Simplifying ratios Approved and
+
+Recommended
+Textbooks
+
+Standard Form
+
+express numbers in
+standard form
+
+Scientific notation
+
+e Expressing small
+
+and large numbers
+
+in the form: Ax10"
+
+where 1SA<10 and
+
+n is an integer
+
+Approved and
+recommended
+textbooks
+ICT tools
+
+Number bases
+
+convert any number
+
+Bases:
+
+e Expanding number
+
+Approved and
+
+to base ten 2;3;4;5;6;7;8;9;10 bases Recommended
+e Converting number Textbooks
+e convert a number in bases ICT tools
+base ten to any Changing number |e Identifying numbers
+base bases in their respective
+bases
+Scales e identify types of Representative e Identifying types of Plans
+scales Fraction scales Maps
+Ratio scale Geometrical
+e find scales from e Measuring lengths instruments
+given information using given scales Approved and
+e measure lengths e Making scale Recommended
+using a given scale drawings using Textbooks
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+18
+
+
+
+--- Page 34 ---
+draw lines or
+diagrams to a given
+scale
+
+calculate distances
+using a given scale
+
+Scale drawings
+
+appropriate/given
+scale
+
+Calculating
+distances
+
+8.2. SETS
+
+Types of Sets
+
+find union and
+intersection of sets
+
+Universal set
+Union of a set
+Intersection of a set
+
+Finding union and
+intersection of sets
+
+Charts with various
+sets
+
+Mathematical sets
+ICT tools
+
+Venn diagrams
+
+represent sets on
+Venn diagrams
+solve life problems
+using Venn diagram
+with no more than 2
+subsets
+
+convert word
+problems into set
+notations
+
+_ Venn diagrams with
+
+no more than 2
+subsets
+
+Using information
+on Venn diagram to
+solve problems
+Converting word
+problems to set
+notation
+Representing
+information on a
+Venn diagram
+
+Approved and
+recommended
+textbooks
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+19
+
+
+
+--- Page 35 ---
+8.3. FINANCIAL MATHEMATICS
+
+Bills
+
+Interpret bills
+
+Use information
+from a bill
+
+Extract data from
+household bills for
+calculations
+
+Household bills
+Corporate bills
+
+Interpreting
+household bills and
+corporate bills
+Extracting data
+from household bills
+for calculations
+
+Approved and
+recommended
+textbooks
+
+Sample of
+household bills
+Resources persons
+Print media
+
+Consumer arithmetic
+
+calculate profit and
+loss
+
+calculate discount
+find simple interest
+solve problems on
+hire purchase
+prepare an
+enterprise budget
+for a small business
+
+Buying and selling
+Simple interest
+Hire purchase
+
+~ Enterprise budget
+
+Calculating profit
+loss and discount
+Finding simple
+interest
+
+Solving problems
+on hire purchase
+Preparing an
+enterprise budget
+for a small business
+
+documents in trade
+information from
+media
+
+Approved and
+recommended
+textbooks
+Business financial
+documents
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+20
+
+
+
+--- Page 36 ---
+8.4. MEASURES AND MENSURATION
+
+Mensuration
+
+calculate perimeter
+of plane shapes
+calculate area of
+plane shapes
+calculate volumes
+of shapes
+
+Perimeter of plane
+shapes
+Area of plane
+
+shapes
+Volume of solid
+shapes. -
+
+_ Calculating
+
+perimeter and area
+of plane shapes
+Calculating volume
+of solid shapes
+
+Approved and
+recommended
+textbooks
+Plane shapes
+Cuboids
+
+ICT tools
+Cylinders
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+21
+
+
+
+--- Page 37 ---
+8.5. GRAPHS
+
+Functional graphs
+
+draw the Cartesian
+plane, using a given
+scale
+
+plot points on the
+Cartesian plane
+construct a table of
+values for a given
+linear function
+
+draw a straight line
+graphs
+
+Cartesian plane
+Scale
+
+Table of values
+
+Straight line graphs
+
+Drawing the
+Cartesian plane,
+using a given scale
+Plotting points on
+the Cartesian plane
+
+Constructing table
+of values
+
+Drawing straight
+line graphs on the
+Cartesian plane
+
+Graph books
+Approved and
+recommended
+textbooks
+Mathematical
+instruments
+ICT tools (Fluid
+Math Software)
+
+Travel graphs
+
+interpret distance
+time graphs
+
+draw distance time
+graphs
+
+use distance-time
+graphs to answer
+questions
+
+Distance time
+graphs
+
+Interpreting
+distance time
+graphs
+
+Solving problems
+on distance time
+graphs
+
+Graph books
+Distance time
+graphs
+Approved and
+recommended
+textbooks
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+22
+
+
+
+--- Page 38 ---
+Drawing distance
+time graphs
+
+Using distance-time
+graphs to answer
+
+8.6. VARIATION
+
+questions | —
+
+Direct Variation
+
+express direct
+variation in
+algebraic terms
+solve problems in
+direct variation
+
+read and interpret a
+ready reckoner
+
+Direct variation in
+algebraic terms
+
+Expressing a
+statement in terms
+of an unknown
+constant
+
+Finding the
+unknown constant
+Calculating one of
+the variation using
+the constant
+Finding
+relationships
+between variables
+Reading and
+interpreting ready
+reckoner
+
+Approved and
+recommended
+textbooks
+Extract from
+newspapers
+Ready reckoner
+ICT tools (GPS)
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+23
+
+
+
+--- Page 39 ---
+Variation Graphs
+
+draw direct
+variation graphs
+interpret the
+information on
+given graphs
+
+Variation graphs
+
+Drawing graphs
+Interpreting
+information on
+graphs
+
+Copy and complete
+tables
+
+Approved and
+recommended
+textbooks
+
+Graph papers
+
+8.7. ALGEBRA
+Algebraic substitute values for Algebraic Substituting values |e Approved and
+Manipulation letters expressions with for letters recommended
+two or more Factorising linear textbooks
+factorise linear _ variables and quadratic
+
+algebraic
+expressions
+
+factorise quadratic
+algebraic
+expressions
+simplify algebraic
+fractions
+
+Linear expressions
+
+Quadratic
+expressions
+Algebraic fractions
+
+algebraic
+expressions
+Simplifying
+algebraic fractions
+Finding H.C.F. and
+L.C.M. of algebraic
+expressions
+Expanding algebraic
+expressions with
+
+_ find Highest brackets
+Common Factor and
+Mathematics Syllabus B Form 1 — 4 2024 24
+
+
+
+--- Page 40 ---
+equations were the
+unknown appears on
+both sides of the
+equation
+
+construct linear
+equations from given
+information
+
+solve equations with
+brackets
+
+solve equations with
+algebraic fractions
+solve simultaneous
+linear equations
+solve. quadratic
+equation where the
+coefficient of x? is
+one
+
+Equations with
+brackets
+Equations with
+fractions
+Simultaneous
+equations
+
+equations where the
+unknown appear on
+both sides
+Constructing linear
+equations from given
+information
+Expanding and
+solving equations
+with brackets
+Simplifying and
+solving algebraic
+fractions
+
+Solving
+simultaneous linear
+equations
+
+Solving quadratic
+equations where the
+
+Lowest Common H.C.F and L.C.M
+Multiple of algebraic
+expressions
+expand algebraic
+expressions with Algebraic
+brackets expressions with
+brackets
+Equations solve linear Linear equations Solve linear e Approved and
+
+recommended
+textbooks
+Work cards
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+25
+
+
+
+--- Page 41 ---
+indices
+
+calculate squares
+and square roots of
+algebraic
+expressions
+calculate cube and
+cube roots of
+algebraic
+expressions
+
+Squares and
+square roots
+
+Cube and cube
+roots.
+
+indices to algebraic
+expressions
+
+NB:
+
+xt x xb = xath
+xt + xb = xa-b
+x°=1
+
+e Calculating squares
+and square roots of
+algebraic
+expressions
+
+e Quadratic coefficient of x? is
+equations one
+Inequalities represent linear e linear inequalities e Representing linear |e Charts
+inequalities on a inequalities ona e Approved and
+number line number line recommended
+formulate linear e Constructing linear textbooks
+inequalities inequalities e ICT tools
+solve linear e Solving linear
+inequalities inequalities
+represent e Drawing vertical and
+inequalities on a horizontal lines with
+Cartesian plane respect to the
+inequality signs
+e Shading the
+unwanted region
+Indices apply the laws of e Laws of indices e Applying the laws of |e Approved and
+
+recommended
+textbooks
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+26
+
+
+
+--- Page 42 ---
+Calculating cube and
+
+cube roots of
+algebraic
+expressions |
+
+8.8. GEOMETRY
+
+Bearings e name cardinal Cardinal points Naming cardinal Magnetic compass
+points =< points Approved and
+e give directions Finding compass recommended
+using cardinal bearings textbooks
+points ” ; Calculating three- ICT tools
+e find compass Compass bearings figure bearings
+bearings of points ;
+e calculate three-. iret figure
+figure bearings of g
+points
+Polygons e state the names of Polygons Naming polygons Approved and
+
+x
+
+n-sided polygons
+(up to n=10)
+
+give properties of
+triangles and
+quadrilaterals
+
+with up to ten sides
+Stating properties
+of triangles and
+quadrilaterals
+
+recommended
+textbooks
+Polygons
+ICT tools
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+27
+
+
+
+--- Page 43 ---
+Similarity and identify similar and Similar and Identifying similar Approved and
+congruency congruent figures congruent triangles and congruent recommended
+solve problems on figures textbooks
+similar and ICT tools
+congruent figures Similar and
+congruent figures
+Construction construct lines and Lines Constructing lines Geometrical
+angles Angles and angles instruments
+bisect lines and Bisecting lines and ICT tools
+angles angles Approved and
+recommended
+textbooks
+Symmetry identify lines of Isosceles triangles Stating number Approved and
+symmetry for Equilateral triangle lines of symmetry recommended
+regular polygons Regular polygons Drawing lines of textbooks
+Parallelograms symmetry Shapes
+Letters with lines of Letters
+symmetry Regular polygons
+Circle
+Mathematics Syllabus B Form 1 — 4 2024 28
+
+
+
+--- Page 44 ---
+8. 9. STATISTICS
+
+Data representation
+
+group statistical
+data
+
+represent data on
+bar chart, pie chart
+
+Bar chart
+Pie chart
+
+Grouping statistical
+data
+
+Representing
+statistical data on
+bar chart and pie
+chart
+
+Taking a
+educational tours
+
+Approved and
+recommended
+textbooks
+ICT tools
+
+Measures of central
+tendency
+
+define measures of
+central tendency
+state the mode
+calculate the
+median
+
+calculate the mean
+
+Measures of central
+tendency
+
+Demonstrating how
+to get the mode and
+median
+
+Stating the mode
+Calculating the
+mean and median
+
+Mark schedules
+Sample population
+Approved and
+recommended
+textbooks
+
+Measures of
+dispersion
+
+define the concept
+of range in statistics
+calculate range
+
+Range
+
+Defining range
+Demonstrating how
+to find range
+Calculating range
+
+Approved and
+recommended
+textbooks
+ICT tools
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+29
+
+
+
+--- Page 45 ---
+8.10. MATRICES
+
+Dimension and order
+
+define a matrix
+state the
+order/dimension of
+a given matrix
+name different
+types of matrices
+
+Column (2x1)
+matrix
+
+Row matrix (1x2)
+Square matrix (2x2)
+
+Recording
+
+information in
+matrix form
+Stating the
+order/dimension
+Locate elements in
+a given matrix
+Listing types of
+matrices
+
+Approved and
+recommended
+textbooks
+Cashbox with
+compartments
+
+Operations Adding Matrices column matrices e Identifying matrices Approved and
+Subtracting (2x1) of the same order recommended
+matrices Row matrices (1x2) | e Adding or textbooks
+
+Square matrices subtracting
+(2x2) corresponding
+elements
+Mathematics Syllabus B Form 1 — 4 2024 30
+
+
+
+--- Page 46 ---
+8.11 VECTORS
+
+Definition of a vector e define vector Magnitudes Listing vectors in Approved and
+e use vector notation Direction column form recommended
+properly Examples of Representing textbooks
+vectors a vectors using vector
+~ notation
+Types of vectors e identify various » Translation Representing a Graph paper
+
+types of vectors
+use the concepts of
+various types of
+vectors
+
+ea
+
+Negative vector
+Equal vector
+Parallel vector
+
+translation by a
+column vector
+Drawing translation
+vector on a
+Cartesian plane
+Identifying various
+types of vector from
+the Cartesian plane
+
+Approved and
+recommended
+textbooks
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+31
+
+
+
+--- Page 47 ---
+Operations e addorsubtracttwo |e Addition e Adding or e Approved and
+or more vectors e Subtraction of subtracting vectors recommended
+vectors . textbooks
+8.12 TRANSFORMATIONS
+Translation e define e Translation e Identifying e Approved and
+transformation e Reflection transformations recommended
+e define translation : e Translating points textbooks
+
+translate plane
+figures and points
+
+¢
+
+using translation
+vector (T)
+
+N.B: Object
+coordinates+
+Translation vector (T)
+= Image coordinates
+
+e Translating plane
+figures
+
+Graph papers
+Charts
+ICT tools
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+32
+
+
+
+--- Page 48 ---
+Reflection
+
+define reflection
+reflect a plane
+figure in a given
+mirror line
+
+e Reflection
+
+Reflecting a point or
+object in a mirror
+line .
+
+Graph papers
+Approved and
+recommended
+textbooks
+ICT tools
+
+8.12 PROBABILITY
+
+Definition of probability
+
+define probability
+define probability
+terms
+
+e Probability
+e Probability Terms
+
+Stating examples of
+each probability
+term
+
+Approved and
+recommended
+textbooks
+Counters
+Playing cards
+Dice
+
+Coins
+
+Darts
+
+ICT tools
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+33
+
+
+
+--- Page 49 ---
+probability
+
+Experimental e describe
+
+experimental
+probability
+
+Experimental
+probability
+
+Calculating
+probability of single
+events
+
+Carry out
+probability
+experiments with
+relevant resources
+
+Approved and
+recommended
+textbooks
+Counters
+Playing cards
+ICT tools
+
+Dice
+
+Coins
+
+Darts
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+34
+
+
+
+--- Page 50 ---
+FORM THREE
+
+Mathematics Syllabus B Form 1 — 4 2024 35
+
+
+--- Page 51 ---
+8.0 COMPETENCY MATRIX
+
+TOPIC 1: REAL NUMBERS
+
+SUB TOPIC LEARNING OBJECTIVES | CONTENT SUGGESTED NOTES SUGGESTED
+(knowledge, skills, AND ACTIVITIES RESOURCES
+Learners should be able to: | values and
+attitudes)
+
+Number Concepts
+and operations
+
+e perform arithmetic
+calculations using order of
+operations
+
+e identify rational and irrational
+
+e Order of operations:
+
+e Natural numbers
+
+e Common/decimal
+fractions
+
+Applying the rules of
+precedence in real numbers
+Rule of precedence; bracket
+first, multiplication and
+
+e Number line
+e Objects in the
+environment
+
+numbers e Percentages division
+e distinguish between rational e Integers Addition and subtraction
+and irrational numbers e Surds Differentiating between
+e perform calculations involving | e Directed numbers rational and irrational
+irrational numbers e Rational and irrational numbers
+e identify the sequence of numbers Simplifying problems
+number patterns e Patterns: involving irrational numbers
+e Numbers Exploring and discovering
+° Shapes number patterns
+Approximation e approximate to the given e Estimations Rounding off numbers to e Newspaper
+and Estimation degree of accuracy e Significant figures given degree of accuracy cuttings
+e state the numbers of e Basic limits of Stating the numbers of e Maps
+significant figures in given accuracy significant figures ina given |e Local
+
+numbers
+e round off numbers to given
+significant figures
+e identify the limits of accuracy
+e make estimates of quantities
+
+Decimal places
+e Approximations
+
+number
+
+Finding the lower limit and
+upper limit and use them to
+simplify problems
+
+environment
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+36
+
+
+
+--- Page 52 ---
+SUB TOPIC LEARNING OBJECTIVES CONTENT SUGGESTED NOTES SUGGESTED
+(knowledge, skills, AND ACTIVITIES RESOURCES
+Learners should be able to: | values and
+attitudes)
+e distinguish between e Discussing the differences
+approximation and estimation between approximation and
+estimation
+Ratios, rates and |e simplify ratios e Ratio e Reducing ratios to simplest e Newspaper
+Proportions perform calculations using e Rates form cuttings
+ratios e Proportion e Sharing quantities using ratio |e Objects
+e solve problems involving rate |e Direct e Calculating using rates
+e apply direct and inverse e Inverse e Solving problems involving
+proportion to solve problems direct and inverse proportion
+focussing on life situations
+Ordinary and e perform operations in e Operations in e Adding and subtracting e Newspaper
+
+standard form
+
+standard form
+
+standard form
+
+numbers in standard form
+e Dividing and multiplying in
+standard form
+
+cuttings
+e Magazines
+
+Number bases e perform operations in bases e Operations innumber | e Adding and subtracting in e Objects
+bases number bases e Calendar
+e Bases 2,3,4,5,6,7,8,9 |e Solving equations involving |e Clock
+&10 number bases
+Scales and e use given scales to calculate |e Scales e Calculating distances and e Maps
+simple map distances and areas e Scale factor areas
+problems e Area factor e Finding area factor given the
+
+scale factor
+
+e Finding scale factor given
+the area factor
+
+e Applying scales in solving
+problems in life situations
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+37
+
+
+
+--- Page 53 ---
+TOPIC 2: SETS
+
+Set Builder
+Notation
+
+define a set using a set
+builder notation
+
+Symbols in sets
+
+Listing elements of sets
+
+- Using symbols of sets to
+
+describe sets
+
+Objects in the
+local environment
+
+Venn diagrams
+
+draw Venn diagrams to show
+relationships in different
+subsets
+
+use Venn diagrams to solve
+problems in sets
+
+Venn diagrams
+
+Demonstrating
+relationships of different
+subsets
+
+Discussing Venn diagrams
+with three subsets
+
+Solving problems involving
+Venn diagrams
+
+Mathematical sets
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 54 ---
+TOPIC 3: FINANCIAL MATHEMATICS
+
+Consumer e interpret bank statements e Bank statements e Discussing the contents of the |e Newspaper
+arithmetic e calculate compound interest | « Compound interest bank statements cuttings showing
+e calculate commission e Commission e Extracting data from bank statements
+e solve problems on hire e Hire purchase statements to use it for e Bank statements
+purchase calculations e Invoice
+e Discussing compound statements
+interest, commission and hire |e Hire purchase
+purchase statements
+e Computing compound
+interest, commission and hire
+purchase
+TOPIC 4: MEASURES AND MENSURATION
+Mensuration e calculate perimeter of e Perimeter of e Discussing perimeter and e ICT Tools
+
+combined shapes
+calculate area of combined
+shapes
+
+combined shapes
+Area of combined
+shapes
+
+area of combined shapes
+
+e Discussing volume of cone
+
+and pyramid
+
+Relevant text
+Models of solid
+shapes
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+39
+
+
+
+--- Page 55 ---
+e calculate volume of cone and
+pyramid
+e calculate density of objects
+
+Volume of cones and
+pyramids
+Density
+
+Carrying out an experiment
+to show the relationship
+
+between mass and volume
+Solving problems involving
+
+_mass, volume and density
+
+TOPIC 5: GRAPHS
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 56 ---
+Functional e use the functional notation e Functional notation e Discussing use of e ICT Tools
+Graphs f(x) in: e Linear graphs functional notation using e Relevant text
+e evaluating functions e Quadratic graphs familiar functions e.g.
+e solving linear and quadratic perimeter of square/circle,
+equations area of square/circle
+e draw graphs of linear and e Drawing linear and
+quadratic functions using: quadratic graphs using
+e table of values e Tables of values
+e axes of intercepts e Axes intercepts
+e sketch: e Sketching straight line and
+e straight line quadratic graphs using
+e quadratic graphs e Tables of values
+using axes intercepts e Axes intercepts
+e e Finding unknown values
+e use graphs to read off using:
+unknowns e Linear
+e Quadratic graphs
+Travel Graphs e relate distance, speed and Speed e Discussing relationship e Ticker timer
+time Acceleration involving distance, speed e ICT tools
+
+draw distance-time graphs
+draw speed-time graphs
+
+solve problems involving travel
+
+graphs
+
+Distance-time graphs
+Speed-time graphs
+
+and time in everyday life
+Drawing distance and
+speed time graphs
+
+Solving problems involving
+travel graphs
+
+Relevant text
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 57 ---
+TOPIC 6: VARIATION
+
+Variation e express inverse variation in
+algebraic term
+
+e distinguish between direct
+
+Direct variation
+Inverse variation
+
+Discussing relationships
+showing direct or inverse
+variation
+
+e ICT tools
+e Relevant text
+
+and inverse variation e Discussing examples of
+e sketch graphs to illustrate e Direct variation
+direct and inverse variation e Inverse variation
+e solve problems involving e Sketching graphs of
+variation inverse functions
+e Solving problems involving
+variation
+TOPIC 7: ALGEBRA
+Algebraic e find HCF and LCM of e LCM and HCF of e Finding LCM and HCF of e ICT Tools
+Manipulation algebraic expressions algebraic expressions algebraic expressions e Relevant text
+e simplify algebraic fractions e Algebraic expressions |e Simplifying algebraic
+e factorise quadratic fractions
+expressions of the form ax? + e Factorise quadratic
+bx + c where |a| > 1 expressions
+Mathematics Syllabus B Form 1 — 4 2024 42
+
+
+
+--- Page 58 ---
+Equations e solve linear simultaneous e Simultaneous e Solving linear equations by e e-learning
+equations using: equations e substitution software on
+e elimination e Quadratic equations e elimination equations
+e substitution e Change of subject e drawing graphs of e internet
+e graphical method e Substitution of values |e linear
+e solve quadratic equations e quadratic equations using
+using: graphs
+e factorisation e solving linear and quadratic
+e graphical methods equations using graphs
+e solve simultaneously linear e solving quadratic equations
+and quadratic equations using
+e change the subject of a non e factorisation
+linear formula e graphical method
+e solving problems from life
+situations using equations
+e Discussing change of subject
+and its applications
+Inequalities e solve simultaneous linear e Simultaneous e Solving simultaneous linear |e ICT Tools
+inequalities in one variable by inequalities inequalities in one variable e Relevant text
+calculation e Graphs of inequalities |e Representing solution set on
+e represent solution set on line a line graph
+graph e Representing linear
+e solve simultaneously linear inequalities in two variables
+inequalities graphically on the Cartesian plane by
+shading the unwanted
+regions
+Mathematics Syllabus B Form 1 — 4 2024 43
+
+
+
+--- Page 59 ---
+Representing the solution set
+of simultaneous linear
+inequalities in a Cartesian
+plane
+
+Indices and
+Logarithms
+
+simplify algebraic expressions
+involving indices
+
+define logarithm
+
+evaluate logarithms
+
+state the laws of logarithms
+simplify expressions using
+laws of logarithms
+
+solve equations involving
+indices
+
+logarithm
+
+Indices
+Logarithms
+
+Simplifying algebraic
+expressions involving indices
+Discussing logarithms
+Evaluating logarithms
+exploring and discovering
+laws of logarithms
+Simplifying expressions
+using laws of logarithms
+Solving equations involving
+Indices
+
+Logarithms
+
+ICT Tools
+Relevant text
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+44
+
+
+
+--- Page 60 ---
+TOPIC 8: GEOMETRY
+
+Points, lines and |e construct angles of Angle of elevation Constructing angles of e Local
+angles e elevation and depression elevation and depression environment
+e depression Solving problems on angle of
+e use scale drawings to solve elevation and depression using
+problems on angles of scale drawing
+elevation and depression
+Bearing e illustrate bearing Three figure bearing Constructing a diagram to show |e Models
+diagrammatically Compass bearing bearing e ICT Tools
+e use three figure bearing Solving problems involving e Compass
+measured clockwise from three figure bearing and e Maps
+north and compass bearing to compass bearing
+solve problems Locating the position of an
+object using three figure
+bearing and compass bearing
+Polygons e give properties of polygons Polygon Stating properties of n-sided e Models
+e solve n-sided polygon Interior angles polygons e ICT Tools
+e use the properties of: Exterior angles Solving problems involving n-
+e radius sided polygons
+e diameter
+e chord
+
+to solve problems
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+45
+
+
+
+--- Page 61 ---
+Similarity and find the scale factor from two Areas of similar e Discussing scale factor, area e Models of
+Congruency given similar shapes figures factor and volume factor solids
+calculate the area of similar Volume and mass of | e Computing areas of similar e Cuttings of
+figures similar solids shapes plane shapes
+calculate the volume and e Solving problems on volumes
+mass of similar solids and masses of similar solids
+Constructions construct triangles Triangles e Constructing triangles and e ICT Tools
+construct quadrilaterals Quadrilaterals quadrilaterals
+solve life problems using e Solving problems using
+construction of triangles and construction of triangles and
+quadrilaterals quadrilaterals
+Symmetry State the order of Rotational symmetry |e Discussing rotational/point e Model shapes
+
+rotational/point symmetry
+Solve problems involving
+rotational symmetry
+
+in two dimensions
+
+symmetry
+
+Constructing symmetrical plane
+shapes
+
+Solving problems involving
+rotational symmetry in life
+
+ICT Tools
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+46
+
+
+
+--- Page 62 ---
+TOPIC 9: STATISTICS
+
+Data Collection e collect statistical data e Data: e Gathering of statistical data e Scale
+and Classification |e group raw data into classes e Collection e Conducting experiments to e Tape measure
+
+e state the class widths forthe |e Classification collect data e Local
+(grouped data) grouped data e Class - width e Classifying the collected data environment
+
+e Finding the call width of
+grouped data
+
+Data e construct frequency tables e Frequency table e Drawing up frequency tables e Flyers
+Representation e draw: e Bar chart e Constructing graphs e Newspapers
+
+e bar chart e Pie chart e Interpreting the graphs cuttings
+(grouped data) e pie chart e Histogram e ICT Tools
+
+e histogram e Frequency polygon
+
+e frequency polygon
+
+e analyse information on the
+
+graphs
+
+Measures of compute the mean e Mean, median and e Calculating the mean e Flyers
+Central Tendency | e find the mode and median mode averages e Newspapers
+
+e use the assumed mean e Assumed mean e Computing the mean using the cuttings
+(grouped data) method to calculate the mean assumed mean method e ICT Tools
+
+Finding the mode and the
+median of measure of central
+tendency
+
+Explain the significance of
+measures of central tendency
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+47
+
+
+
+--- Page 63 ---
+TOPIC 10: TRIGONOMETRY
+
+Pythagoras derive the Pythagoras e Pythagoras theorem e Using the method of e Local
+Theorem theorem counting squares to derive environment
+solve right angled triangle the Pythagoras theorem e ICT Tools
+apply the Pythagoras theorem e. Finding the missing side in |e Relevant text
+right angled triangles using
+Pythagoras theorem
+e Solving problems in
+everyday life using the
+Pythagoras theorem
+Trigonometrical find sine, cosine, tangent of e Trigonometrical ratios |e Calculating sine, cosine e Local
+Ratios acute and obtuse angles of acute and obtuse and tangent of acute and environment
+solve problems involving right angles obtuse angles e ICT tools
+angled triangles in two e Sine e Solving problems involving |e Relevant text
+dimensions e Cosine right angled triangles in two
+e Tangent dimensions
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+48
+
+
+
+--- Page 64 ---
+TOPIC 11: VECTORS
+
+Types of Vectors |e describe types of vectors e Translational vectors |e Discussing various types of |e Geo board
+e represent types of vectors on |e Equal vectors vectors including vector e ICT tools
+Cartesian plane e Negative vectors notation e Graphs
+e identify various types of e Parallel vectors e Drawing different types of |e Relevant texts
+vectors from the Cartesian e Position vectors vectors on a Cartesian e Local
+plane plane environment
+e Identifying different types
+of vectors on a Cartesian
+plane
+Operations e add vectors e Vectors: e Manipulating vectors by: e Geo board
+e subtract vectors e Addition e Adding e ICT Tools
+e multiply a vector by a scalar e Subtraction e Subtracting
+e calculate the magnitude ofa |e Scalar multiplication e Multiplying by a scalar
+vector e - Magnitude e Computing the magnitude
+e solve problems involving e Combined vector of a vector
+vector operations operations e Solving problems involving
+vectors
+Mathematics Syllabus B Form 1 — 4 2024 49
+
+
+
+--- Page 65 ---
+TOPIC 12: MATRICES
+
+Dimension/ Order
+
+Operations
+
+add matrices
+
+subtract matrices
+
+multiply a matrix by a scalar
+multiply matrices
+
+Addition and
+subtraction of
+matrices
+
+Scalar multiplication
+of matrices
+Multiplication of
+matrices
+
+Summing up matrices
+Subtracting matrices
+Using scalar quantities to
+multiply matrices
+Identifying where matrix
+operations are possible
+Multiplying matrices
+Using matrices to solve
+problems
+
+ICT Tools
+Local
+environment
+Relevant text
+
+Determinants
+
+find the determinant of a
+
+2 X 2 matrix
+
+distinguish between singular
+and non-singular matrices
+
+Determinant
+Singular matrices
+Non-singular matrices
+
+Calculating the determinant of
+2 X 2matrices
+
+Differentiating between
+singular and non-singular
+matrices
+
+Using the standard notation
+|Alor Det A
+
+ICT Tools
+Relevant text
+
+Inverse Matrix
+
+find the inverse of a 2 X 2
+matrix
+
+solve simultaneous
+equations using the matrix
+method
+
+Inverse
+Simultaneous linear
+equations in 2
+variables
+
+Calculating the inverse of a
+2 X 2 non-singular matrix
+Using the standard notation
+Av
+
+ICT Tools
+Relevant text
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+50
+
+
+
+--- Page 66 ---
+Solving simultaneous
+equations using the inverse of
+a 2 X 2 non singular matrix
+
+TOPIC 13: PROBABILITY
+
+Experimental and describe: Experimental probability |e Discussing theoretical and e Print media
+theoretical - experimental probability Theoretical probability experimental probability e Spinning wheel
+probability - theoretical probability e Citing situations where e Coins
+deduce probabilities from results experimental or theoretical e Dice
+of experiments probabilities are used e ICT Tools
+identify situations where e Carrying out experiments e Relevant text
+experimental or theoretical such as tossing a coin and
+probabilities are used throwing a die
+e Computing probabilities of
+events
+Single events calculate probabilities of single Single events e Carrying out experiments of e Coins
+events Probability single events e Dice
+use probability rules to compute - space e Computing probabilities of e Balls
+probabilities of single events - rules single events e Playing cards
+e ICT Tools
+e Relevant text
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+51
+
+
+
+--- Page 67 ---
+TOPIC 14: TRANSFORMATION
+
+SUB TOPIC LEARNING OBJECTIVES CONTENT SUGGESTED NOTES AND | SUGGESTED
+(knowledge, skills, | ACTIVITIES RESOURCES
+Learners should be able to: | values and
+attitudes)
+
+Translation e translate plane figures on e Translation vectors |e Drawing of plane shapes on |e Geo-board
+Cartesian Plane using the Cartesian Plane e Cuttings of plane
+translation vectors e Moving plane figures/shapes shapes/figures
+
+using translation vectors
+
+Reflection e reflect plane figures inaline |e Reflection e Drawing images of plane e Geo-board
+of reflection e Axis of reflection figures under reflection e Magazines
+
+e find the axis of reflection of e x—axis e Finding coordinates of e Mirrors
+given objects and images e y-axis images of plane figures under | e Local
+° y=a reflection environment
+e x=b e Determining the axis of e ICT Tools
+reflection
+
+Rotation e describe rotation e Rotation e Explaining rotation e Geo board
+
+e rotate points on a Cartesian e Perpendicular e Drawing images and objects |e Magazines
+plane by drawing bisectors of lines on the Cartesian plane e Local
+
+e rotate plane figures on a e Direction: e Describing a rotation environment
+Cartesian plane e Clockwise completely given the objects |e ICT Tools
+
+e find the centre of rotation by
+drawing
+
+e determine the angle of
+rotation by measuring
+
+e Anticlockwise
+
+and images on the Cartesian
+plane
+
+e Describing a rotation
+completely given the object
+and images
+
+*Notes: complete description of
+
+rotation consist of
+
+- centre of rotation
+
+- angle of rotation
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+52
+
+
+
+--- Page 68 ---
+Direction (clockwise and
+anticlockwise)
+
+Enlargement
+
+describe enlargement
+enlarge plane figures about
+the origin using a rational
+scale by drawing
+
+find the scale factor
+
+Enlargement
+Scale factor
+
+e Discussing enlargement
+
+e Drawing images of plane
+figures
+
+e Determining the scale factor
+(enlargement factor)
+
+Geo-board
+Magazines
+Local
+environment
+ICT Tools
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+53
+
+
+
+--- Page 69 ---
+FORM FOUR (4)
+
+8.0 COMPETENCY MATRIX
+
+TOPIC 1: REAL NUMBERS
+
+Approximation
+and Estimation
+
+solve problems involving
+limits of accuracy
+
+Limits of accuracy
+
+Computing the minimum
+and maximum areas and
+perimeters of plane shapes
+
+e ICT Tools
+e Relevant text
+
+TOPIC 3: FINANCIAL MATHEMATICS
+
+Consumer identify currencies used in Foreign exchange Discussing foreign e Newspaper
+arithmetic different countries Sales and income tax exchange and types of cuttings
+explain foreign exchange rates (Pay as you taxes e ICT Tools
+convert from one currency to Earn) PAYE Calculating problems e Till slips
+another Value Added Tax involving foreign exchange |e Invoices
+explain sales tax and income (VAT) and types of taxes e Receipts
+tax Customs and excise Participating in educational |e Resource person
+duty tours e Pay slips
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+54
+
+
+
+--- Page 70 ---
+explain value added tax
+(VAT)
+
+explain customs and excise
+duty
+
+calculate Value Added Tax
+(VAT)
+
+TOPIC 4: MEASURES AND MENSURATION
+
+Mensuration
+
+identify similar shapes
+calculate area and volume of
+similar shapes
+
+calculate surface area
+calculate volume of prisms
+and frustums
+
+Area and volume of
+similar shapes
+Surface area
+Volume of prisms
+Volume of frustums
+
+Discussing similar shapes
+Computing area and
+volumes of similar shapes
+Calculating surface area
+Computing volumes of
+prisms and frustums
+
+Models of shapes
+Print media
+Relevant text
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+55
+
+
+
+--- Page 71 ---
+TOPIC 5: FUNCTIONAL GRAPHS
+
+Functional draw cubic graphs e Cubic functions e Discussing cubic and e ICT Tools
+Graphs draw inverse graphs e Inverse functions inverse functions e Relevant text
+solve problems involving e Cubic graphs e Drawing cubic graphs e Geo board
+cubic or inverse functions e Inverse graphs e. Drawing graphs of inverse
+functions of the form ——
+bx+c
+where a,b and c are
+integers
+e Solving problems involving
+cubic or inverse functions
+Travel Graphs explain the relationship of e Displacement time e Discussing displacement e ICT Tools
+displacement, velocity, graphs velocity acceleration and e Relevant text
+acceleration and time e Velocity-time graphs time e Geo board
+draw displacement time e Displacement e Drawing: e Local
+graphs e velocity e Displacement-time graphs environment
+draw velocity-time graphs e acceleration e Velocity-time graphs e Ticker timer
+e
+
+solve problems involving
+displacement-time and
+velocity-time graphs
+
+Solving problems involving
+displacement-time and
+velocity-time graphs
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 72 ---
+TOPIC 6: VARIATION
+
+Variation
+
+determine a connecting
+formula for
+
+joint variation
+
+partial variation
+
+calculate unknown variable(s)
+using the formula(e)
+construct graphs to show
+relationship between
+variables
+
+solve problems involving
+variation
+
+Joint variation
+Partial variation
+
+Discussing joint and partial
+- variations
+Computing unknown
+variables using the
+appropriate formula
+Sketching variation graphs
+Solving problems from life
+situations involving
+variation
+
+ICT Tools
+Relevant text
+Geo board
+Local
+environment
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+57
+
+
+
+--- Page 73 ---
+TOPIC 7: ALGEBRA
+
+Algebraic simplify algebraic fractions Algebraic fractions Simplifying algebraic fractions e ICT Tools
+Manipulation Factorisation using e Relevant text
+LCM of denominators e Local
+factorisation environment
+Equations solve quadratic equations by Completing the Solving quadratic equations by e ICT Tools
+completing the square square completing the square e Relevant text
+derive the quadratic formula Quadratic formula Deriving the quadratic formula by | e Local
+solve problems by applying completing the square environment
+the quadratic formula Solving problems from life
+situations using the quadratic
+formula
+Inequalities express a given life situation Linear programming Discussing formulation of e ICT Tools
+in algebraic form inequalities from given life e Relevant text
+represent inequalities on the situations e Local
+
+Cartesian plane
+solve life problems using
+inequalities
+
+Representing inequalities on a
+Cartesian plane
+
+Solving life problems using
+inequalities
+
+environment
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+58
+
+
+
+--- Page 74 ---
+TOPIC 8: GEOMETRY
+
+Polygons
+
+calculate angles using circle
+theorems
+
+Circle theorems
+
+Finding angles using
+properties of a circle
+Tangent
+
+Cyclic quadrilaterals
+Applying the properties of a
+circle to solve related
+problems
+
+Finding angles using circle
+theorems associated with:
+angle subtended at the
+centre and on the
+circumference
+
+angle in a semi-circle
+angle in the same segment
+angle in the alternate
+segment
+
+cyclic quadrilateral
+
+tangent and radius
+
+Relevant text
+ICT Tools
+
+Constructions
+
+define locus
+
+solve problems using loci
+and/or
+
+- Bearing
+
+Loci
+Perpendicular line
+
+Discussing locus
+Exploring ways of
+constructing given loci
+including those involving
+
+Relevant text
+ICT Tools
+Local
+environment
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+59
+
+
+
+--- Page 75 ---
+- Scale
+
+Angles of elevation and
+depression
+
+Area
+
+construct locus of points in a
+plane which are
+
+equidistant from a fixed point
+a fixed straight line
+
+two fixed points
+
+two intersecting lines
+
+Circle
+
+Parallel lines
+Bisecting angles
+
+Bisecting straight lines
+_ Solving life problems using
+~ loci and/or
+
+Bearing
+Scale
+
+Angles of elevation and
+
+depression
+Area
+
+Dropping a perpendicular
+
+from a point to a given line
+
+Mathematical set
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+60
+
+
+--- Page 76 ---
+TOPIC 9: STATISTICS
+
+Data
+Representation
+
+(grouped data)
+
+construct frequency tables
+draw histograms, frequency
+polygon, and cumulative
+frequency curve
+
+Frequency table
+Histogram
+
+Frequency polygon
+Cumulate frequency
+table
+
+Cumulative frequency
+curve
+
+Constructing frequency
+tables
+
+Drawing frequency
+polygons and histograms
+Drawing the cumulative
+frequency curves
+
+Newspaper
+cuttings
+
+ICT tools
+Relevant text
+
+Measures of e find the median from e median e Determining the median ICT Tools
+Central Tendency cumulative frequency curve from the cumulative Relevant texts
+frequency curve (ogive)
+Measures of e find the quartiles from e Range e Estimating the quartiles ICT Tools
+Dispersion cumulative frequency curve e Quartiles from cumulative frequency Magazines
+(ogive) e Interquartile range curve Newspapers
+e
+
+calculate the:
+- interquartile range
+- semi inter-quartile range
+
+Semi inter-quartile
+range
+
+Computing the inter-
+quartile range and semi
+inter-quartile range
+Discussing the importance
+of interquartile and semi
+inter-quartile range
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 77 ---
+TOPIC 10: TRIGONOMETRY
+
+Trigonometrical
+Ratios
+
+solve triangles using cosine
+and sine rule
+
+use the cosine rule and sine
+rule to solve 3 dimensional
+problems
+
+cosine rule
+sine rule
+
+Converting degrees to
+minutes and minutes to
+degrees
+
+Using the cosine rule and
+sine rule to solve triangles
+Solving 3 dimensional
+problems using the sine
+and cosine rule
+
+ICT Tools
+Relevant text
+Local
+environment
+
+TOPIC 11: VECTORS
+
+Operation on
+plane shapes
+
+express edges and diagonals
+of plane shapes as linear
+combination of vectors
+
+find numerical values of
+scalars in equal vectors
+determine ratio of parallel
+edges/diagonals of plane
+shapes
+
+Properties on plane
+shapes
+
+Parallel vectors
+Equal vectors
+Simultaneous
+equations
+
+Ratio
+
+Sketching of plane shapes
+Representing edges and
+diagonals of plane shapes
+as linear combination of
+vectors
+
+Calculating numerical
+values of scalars using
+equal vectors
+
+Computing ratio of parallel
+edges/diagonals of plane
+shapes
+
+Geo board
+Cuttings of plane
+shapes
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 78 ---
+TOPIC 12: PROBABILITY
+
+Combined Events
+
+define with examples
+combined events
+
+construct outcome tables and
+tree diagram
+
+use probability rules in the
+computation of probabilities
+
+Combined events
+Outcome tables
+Tree diagrams
+Probability rules
+
+Discussing combined
+events
+
+Citing examples of
+combined events
+Constructing outcome
+tables and tree diagrams
+Computing probabilities
+using probabilities rules
+
+Dice
+
+Coins
+Playing cards
+Newspaper
+cuttings
+
+Balls
+
+ICT tools
+Relevant text
+
+TOPIC 13: TRANSFORMATION
+
+Translation
+
+translate vector from an object
+and its image on a Cartesian
+plane
+
+calculate coordinates of
+images
+
+illustrate images ona
+Cartesian plane
+
+e Vector operations
+
+Using the determined
+translation vector to find
+images of other points
+Drawing images
+
+Geo-board
+Cuttings of plane
+shapes
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 79 ---
+SUB TOPIC LEARNING OBJECTIVES CONTENT SUGGESTED NOTES SUGGESTED
+(knowledge, skills, AND ACTIVITIES RESOURCES
+Learners should be able to: | values and
+attitudes)
+Reflection e reflect plane figures in any line |e Reflection in the line e Drawing images of objects |e Geo-boards
+of the form y = mx +c y=mxt+c e Determining the axes of e Local
+e determine matrices for the e Matrices of reflection reflection environment
+reflection in x and y — axes e Matrix multiplication e Calculating coordinates of |e ICT Tools
+y=x images e Relevant text
+yu-x
+Rotation e rotate plane shapes using e Matrices of rotation e Calculating coordinates of |e Geo board
+matrices e Matrix operation images using matrices e Compasses and
+e find matrices of rotations about e Drawing images of plane protractors
+the origin through angles shapes e ICT tools
+which are multiples of 90° e Determining the matrices e Relevant texts
+e describe the rotation of rotations e Local
+
+completely given:
+- amatrix
+- object and image
+
+e Explaining fully the rotation
+given the matrix and or
+image
+
+environment
+
+Enlargement
+
+e enlarge plane figures using
+matrices about the origin
+
+e enlarge plane figures about
+any point using a rational
+scale by drawing
+
+e describe fully an enlargement
+for a:
+- stated matrix
+- object and image
+
+e Enlargement matrices
+
+Calculating coordinates of
+
+images using matrices
+
+e Drawing images of plane
+figures on the Cartesian
+plane
+
+e Explaining fully the
+
+enlargement for a given:
+
+- Matrix
+
+- Object and image
+
+Geo boards
+
+ICT tools
+Cuttings of plane
+figures
+
+Relevant text
+Local
+environment
+
+Stretch
+
+e describe a stretch
+e calculate coordinates of the
+image given the matrices
+
+e Stretch
+- one way
+- two way
+
+e Discussing a stretch
+Computing coordinates of
+images given the matrices
+
+Elastic materials
+Geo boards
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+64
+
+
+
+--- Page 80 ---
+draw images of plane figures
+given matrices
+
+describe fully a stretch givena
+- matrix
+
+- image
+
+Invariant line and
+point
+
+Plotting images of plane
+figures given matrices
+Identifying invariant
+line/point
+
+Explaining a stretch fully
+given a matrix or image by
+stating:
+
+- Stretch factors
+
+- Invariant line
+
+Cuttings of plane
+figures
+
+ICT Tools
+Relevant text
+Local
+environment
+
+Shear
+
+describe a shear
+
+compute coordinates of the
+images given a matrix
+
+draw images of plane figures
+given the matrix
+
+describe completely the shear
+
+Shear
+Scale factor
+Invariant line
+
+Discussing a shear
+Calculating coordinates of
+image given the matrix
+Plotting images of plane
+figures given matrices
+Explaining fully a shear
+
+givena given a matrix or an image
+- matrix by stating an invariant line
+- image and shear factor
+
+Geo boards
+Relevant text
+ICT tools
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 81 ---
+9.0 ASSESSMENT
+
+The Mathematics syllabus B learning area at Lower Secondary school module (Form 1-
+4) shall be assessed through School Based Continuous Assessment (SBCA) and
+Summative Assessment (SA). These assessments shall be guided by the principles of
+inclusivity, practicability, authenticity, transparency, flexibility, validity and reliability. The
+principles are crucial for creating a supportive and effective learning environment that
+fosters growth and development in learners at secondary level. In addition to SBCA and
+SA those aspects that cannot be assessed through the continuous and summative
+modes will be assessed through learner profiling. The aspect to be profiled will include
+soft skills among others. Arrangements, accommodations and modifications must be
+visible to enable candidates with special needs to access assessments. This section
+covers the assessment objectives, the assessment model, the scheme of assessment,
+
+and the specifications for continuous assessment.
+
+9.1 Assessment Objectives
+
+By the end of the Mathematics syllabus B learning area for Forms 1- 4, learners will be
+assessed on their ability to:
+
+9.1.1 recognise and use mathematical symbols, terms and definitions
+9.1.2 apply mathematical symbols, terms and definitions
+
+9.1.3 carry out calculations accurately
+
+9.1.4 estimate to a suitable degree of accuracy
+
+9.1.5 approximate to a suitable degree of accuracy
+
+9.1.6 measure to a suitable degree of accuracy
+
+9.1.7 draw tables, graphs, charts and diagrams accurately
+
+9.1.8 read tables, graphs, charts and diagrams accurately
+
+9.1.9 interpret tables, graphs, charts and diagrams accurately
+
+9.1.10 carry out geometrical constructions and manipulations accurately
+9.1.11 convert mathematical information from one form to another
+
+9.1.12 deduce and draw inferences through manipulation of statistical data
+9.1.13 solve routine and non-routine problems using appropriate formulae,
+
+algorithms and procedures
+
+Mathematics Syllabus B Form 1 — 4 2024 1
+
+
+--- Page 82 ---
+9.2 Assessment Model
+
+Assessment of learners at Lower secondary school level for Mathematics syllabus
+B will be both Continuous and Summative as illustrated in Figure 1. Continuous
+Assessment will include recorded activities from the School Based Project and other
+activities done by the learners for assessment while summative will include terminal
+examinations, end of week, month, term, year or check points assessments.
+
+a
+Assessment Of Learner
+Performance in
+= =©Mathematics Syllabus
+
+School Based Continuous
+Assessment
+
+20%
+
+Summative Assessment
+80%
+
+Profiling Project
+Exit | Continuous
+Assessment Mark Summative
+Profile < (20%) Assessment Mark |
+Certificate
+
+(80%)
+
+Final Mark (Continuous + Summative) =
+100%)
+
+Fig. 1 Assessment Model
+
+In addition, learners shall be profiled and learner profile records established. Learner
+profile certificates shall be issued for checkpoints assessment in schools as per the
+dictates of the Teacher’s Guide to Learning and Assessment. The aspects to be
+profiled shall include learner's prior knowledge, values and skills, and subsequently
+the new competences acquired at any given point.
+
+9.3 Scheme of Assessment
+
+Learners should be assessed using both School Based Continuous Assessment and
+
+Summative Assessment.
+
+Mathematics Syllabus B Form 1 — 4 2024 2
+
+
+--- Page 83 ---
+School Based Continuous Assessment | 20%
+Summative Assessment | 80%
+Total | 100%
+
+Table ? shows the assessment criteria for the school based project.
+9.3.1 Description of School Based Continuous Assessment
+
+Learners should do one school-based project per form which contributes to 20% of the
+end of year final mark. However, two school based projects shall be considered for form
+4 public examinations that is project done during their forms 3 and 4 sessions. Each will
+
+contribute 10%.
+
+9.3.1.1: School — Based Project: Continuous Assessment Scheme
+
+The table given below shows the Learning and Assessment Scheme for the school
+based project
+
+Project Execution Project Stage Description Timelines Marks
+Stages
+
+1 Problem Identification January 5
+
+2 Investigation of related February 10
+ideas to the
+problem/innovation
+
+3 Generation of possible March 10
+solutions
+
+4 Selecting the most suitable | April-May 5
+solution
+
+5 Refinement of selected June 5
+solution
+
+6 Presentation of the final July 10
+solution
+
+7 Evaluation of the solution August-September 5
+and Recommendations
+TOTAL 50
+
+The learning and assessment scheme shows the stages that shall be executed by pupils
+and the timeline at which each stage shall be carried out. Possible marks, totalling 50, are
+highlighted to indicate how much can be allocated.
+
+Mathematics Syllabus B Form 1 — 4 2024 3
+
+
+--- Page 84 ---
+9.3.2 Description of the ZIMSEC Summative Assessment
+
+Summative assessment consists of two papers of equal weighting
+
+Paper Paper type Marks Duration Weighting
+1 Structured — — short | 100 2+ hours 40%
+2
+
+answer items
+2 Structured -— — short | 100 2+ hours 40%
+
+answer items and long 2
+
+questions
+TOTAL 80%
+Paper 1
+
+Duration: 2 . hours
+
+The paper consists of about 30 short structured compulsory question set on all syllabus
+
+topics and marked out of 100. The use of calculators in this paper is not allowed.
+
+Paper 2
+
+Duration: 2 . hours
+
+This paper consists of two sections A and B which will be set to cover all topics of the
+syllabus.
+
+Section A: This section has five (5) compulsory questions, marked out of 52.
+
+Section B: This section has seven (7) long questions. Candidates should answer four
+questions of their choice. Each question carries twelve (12) marks. The section is
+
+marked out of 48.
+
+9.4 Specification Grid
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+
+--- Page 85 ---
+Knowledge and | 50% 50%
+
+comprehension
+
+Application and Analysis 40% 40%
+Problem solving 10% 10%
+TOTAL 100% 100%
+
+Mathematics Syllabus B Form 1 — 4 2024
+
+
+

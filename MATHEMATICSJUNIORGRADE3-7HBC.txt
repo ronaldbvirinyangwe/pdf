@@ -1,0 +1,4612 @@
+--- Page 1 ---
+Ministry of Primary and Secondary Education
+
+SYLLABUS
+
+2024 -2030
+
+GRADE 3-7
+
+
+
+--- Page 2 ---
+TABLE OF CONTENTS
+
+Acknowledgement ................... 00 i it i ti ll ln nnn nn ee
+
+1.0 Preamble ........... ccc ccccccccccccnceeeeeceeeeee eee eee cece eae e eee ceeeeeeeeeeeeeeeeeeaaaaaaaaaaceeeeeeeeeeeeeaaeaaaaaaaaeeeeeeeeeeeeeeeesaaaaaaeeeeeess
+1.1 IMFOCUCTION ...... 2... eeeeeeeecceeeeeeceeeeeeeeaeeeeeceeceeeeeeeeeeeeeeaaaaeaaaaaaeeeeeeeeeeeeseeeeaaaaaaaaceeeeeeeeeeeseeeesaaaaageesaeeeeeees
+1.2 Ratiomale «2... oe. cccccceeeccececeeceeeeeeeeeeeaeeeeeeeeeeeeeeeeeeaeeeaaaaeeaeeeeeeeeeeeeeeeeesaaaeeasceeeeeeeeeeeeeeeesaaaeegseeeeeeeeeeeesenees
+1.3 Summary of content ..............ecceececeee cece eee eeee ee eee ee ee ee ete aaaeee eerste eaaaaaeeeeeeeecceaaaaaeeeeeeesecececuieeeeeeeeeeess
+1.4 ASSUMPTIONS 000... eee e cece cece ceeenteeeeeeeeeeeeeeeeeeeeeeeaaaeeaaeeeeeeeeeeeeeeeeeaaaaaeaeeeeeeeeeseeeeeesaaaeaasaeeeeeeeeseeeessaaaaanaas
+1.5 Cross cutting themes ..............ccccccceeeeeeeeeeeeee eee etree eee cece a ee ee eter ee teccaaaaeeeeeeeggceeeaaaaeeeeeeeseececceeeeeeeeeeeeetaes
+2.0 Presentation of the syllabus ..................cccc ccc ccceee cece ee eee ence eee e eee eee e reece aeee eee ee eset ecceaaeeeeeeeeeeeegeeccneeeeeeeeeeeteeeeenaas
+3.0 AUIS 200 c cece cece cece eee e eee e reece rere eee e EAA Ann EEEE EEE EE Eee deed eee G AGG adden eee tees eee aaeaaaaaaaaeeeeeeseseeeeesesaaaaaaanseeeees
+4.0 Syllabus objectives ............... ccc cece eee eee eee ne eee eee eae aaaeeee eee eeeeeeeaaeeeees
+5.0 Methodology and time allocation .............. ccc. cece cece cece cece eeceeeeeeeee eee eaeeeaaaaaaaaaaaaaaaaaaeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeegs
+5.1 Methodology «0.0.0.2... eee eect eee eee aa aaa aaa aaa aaa e eee ee eee eee eee eee nnn
+5.2 Time AllOCAtiION «2.2... eee eee cccccceccccccceaaeeeeeeeeeeeeeeeeeeeeacseseescscacssassesesesecasacacacassesesecacesassesesesacecacacaeseeenecanasaseeeeeeseeas
+ORO) 7118S (0) 0) (ee
+7.0 Scope and Sequence ...................ccsssssssssssssnssscneeeeeeeeeeeeseessscsusueceusesssussessuesesssessssseasecscacasasecavacacanesecanecseessusnseeessesetees
+8.0 Competency Matrix ................cccccccccc cece ee eceeee eee etree et teec aaa ease tere ete ea aaaaeeeeeeeegcceaaaaaeeeeeeeeeseececaaeeeeeeeeesseeeaaees
+9.0 ASSOSSIMENE .......... ccc ccccceeee cece e cece cece eect eee a eee eeeeedeeeeeeee sees eaaaeaaaaaaaceeeeeeeeeeeeeeeeeaaaaaaaeeeeeeeeeeeeeeessaaaaaaeeseceeeeesess
+9.1  ASSESSMENt ODJECHIVES 200. cE OO DE oo oo iiiiiiiiineneneees
+9.2 Scheme Of ASSESSMEN ...............ccssessssessssseseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeEEEEEE EEE Ett tdtttttntntnneneeeees
+9.3 Assessment Criteria  ...............c ccc ccssssesseeseseeeeesesneeeaeeeaeeeeaaeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeenengagegegegeenenss
+9.4 Assessment Model .........cccccccccccccsseeeeeeeeeeeeeeeeeeeeeeseaeeeeccceeeeeeeeeeeeeeaaeaaaeaaceeeeeeeeeeeeeeeesaaaaaneeeeeeeeeeseeseeees
+
+
+--- Page 3 ---
+ACKNOWLEDGEMENTS
+
+The Ministry of Primary and Secondary Education wishes to acknowledge the following for their valued contribution in the
+production of the syllabus:
+
+The Junior Mathematics Syllabus Panel
+
+Primary School Teachers
+
+Representatives from Universities and Teachers’ Colleges
+
+The Zimbabwe School Examinations Council (ZIMSEC)
+
+United Nations Children’s Fund (UNICEF)
+
+United Nations Educational Scientific and Cultural Organisation (UNESCO)
+
+
+--- Page 4 ---
+1.0
+
+1.1
+
+1.2
+
+PREAMBLE
+
+Introduction
+
+The Heritage-Based Junior Mathematics syllabus builds from the Infant Mathematics module. The document covers one of
+the six learning areas in the Junior School Module. This syllabus intends to foster mathematical knowledge through
+practical activities such as ordering, measuring, identifying, classifying, routine manipulation, application and problem
+solving. This learning phase seeks to give learners an appreciation of Mathematics as a learning area in their education
+and to equip them with Heritage-based life skills. The syllabus is also designed to enable a smooth transition from
+Junior to Secondary school learning. The learners will be assessed through both School Based Continuous
+
+Assessment (SBCA) and Summative Assessment (SA).
+
+Rationale
+This syllabus is designed to enable the learners to understand and apply mathematical concepts in both modern and
+
+Indigenous Knowledge Systems (IKS) as they are central to most facets of everyday life and enterprise skills. The learning
+area cuts across many fields of endeavor and this will help the learners to be versatile in the production of goods and
+services. The syllabus promotes critical thinking and problem solving skills, which are key to innovativeness,
+
+entrepreneurship and industrialisation.
+
+
+--- Page 5 ---
+1.3
+
+1.4
+
+1.5
+
+Summary of content
+
+The Heritage-Based Mathematics syllabus is designed to cover five years of Junior Education,
+forming a firm foundation for the lower Secondary school Module (Forms 1 - 4). The learners will be
+exposed to mathematical language through ordering, measuring, identifying, classifying, routine
+manipulation, application and problem solving. The syllabus will enable learners to manipulate
+objects and interact with both the local and global environments for sustainable development. Topics
+
+to be covered are: Number, Operations, Measures and Relationships.
+
+Assumptions
+
+It is assumed that the learners:
+
+> have numeracy and literacy skills;
+
+> appreciate relationships and collaboration
+> participate in team work
+
+> think critically and logically
+
+> have prior knowledge of IKS
+
+>
+
+have prior knowledge of Information and Communication Technology (ICT)
+
+Cross-cutting themes
+
+Mathematics learning will encompass and have a universal thrust on the following cross-cutting themes:
+
+
+--- Page 6 ---
+2.0
+
+1.5.1 Financial literacy
+
+1.5.2 Collaboration
+
+1.5.3 Health and well being
+
+1.5.4 Climate Change
+
+1.5.5 ICT
+
+1.5.6 Business Enterprise
+
+1.5.7 Heritage studies
+
+1.5.8 Children’s Constitutional Rights
+1.5.9 Gender stereotyping
+
+1.5.10 Environmental issues
+1.5.11 Disaster Risk Management
+1.5.12 Children’s Responsibilities
+
+1.5.13 Inclusivity
+
+PRESENTATION OF THE SYLLABUS
+
+The Junior Heritage-Based Mathematics syllabus is a single document. It constitutes: Preamble, Aims, Objectives,
+Topics, Scope and Sequence, Competency Matrix and Assessment. The scope and sequence shows the progression
+of topics from grades 3 - 7. The Competency Matrix shows the breadth and depth of content to be covered. Inclusive in
+
+this syllabus, is a suggested list of resources which can be used during the teaching and learning.
+
+
+--- Page 7 ---
+3.0 AIMS
+The Junior Mathematics syllabus aims to:
+
+3.1. develop a positive attitude towards Mathematics
+
+3.2. foster problem solving skills into learners
+
+3.3. communicate mathematical information to develop critical thinking and logical reasoning
+
+3.4 develop mathematical concepts and skills for use in entrepreneurship and other facets of life
+
+3.5 develop psycho-social skills such as self-control and free expression of emotions which
+contribute to the development of the learner
+
+3.6 develop an awareness of national heritage in the learning of Mathematics
+
+3.7 promote an awareness of IKS in the teaching and learning of Mathematics
+
+4.0 SYLLABUS OBJECTIVES
+
+Pupils should be able to:
+
+4.1 recall mathematical terms
+
+4.2 recognise mathematical terms
+
+4.3 use mathematical terms, symbols and language
+
+4.4 estimate quantities and measures to a degree of accuracy
+
+4.5 calculate to the given degree of accuracy
+
+4.6 solve mathematical problems
+
+
+--- Page 8 ---
+4.7 demonstrate problem solving abilities in Mathematics
+4.8 apply mathematical concepts, skills and techniques in context
+
+4.9 explore mathematical ideas and come up with conclusions
+
+4.10 interpret ready reckoners, tables, pie charts and graphs
+4.11 analyse tables, charts, graphs and use them in conducting simple investigations
+4.12 incorporate Indigenous Knowledge System (IKS) in the teaching and learning of Mathematics
+
+5.0 METHODOLOGY AND TIME ALLOCATION
+
+5.1 Methodology
+
+The syllabus is based on learner-centred approaches in the teaching and learning of Junior learners. The emphasis is on adopting
+methods that will enable pupils to acquire competencies in the physical, social, emotional and cognitive domains using tangible and
+intangible heritage. It promotes self-confidence, ethics, Unhu/Ubuntu/Vumunhu and children’s rights and responsibilities among
+others. The recommended methodologies are designed to promote and lay a firm foundation for problem solving and critical thinking
+in life. The learners should be allowed to develop their own solutions while the teacher facilitates. The pace of learning will be
+determined by the individual learner's content mastery. The use of Information and Communication Technology (ICT) is
+
+recommended as a problem solving tool.
+The following are some suggested teaching and learning methods:
+
+5.1.1 Discovery
+
+
+--- Page 9 ---
+5.1.2. Experimentation
+5.1.3 Group work
+
+5.1.4 Projects
+
+5.1.5 Songs and dances
+5.1.6 Poems and rhymes
+
+5.1.7 Question and answer
+5.1.8 Excursions
+
+5.1.9 Discussion
+
+5.1.10 Research
+5.1.11 Dramatisation
+5.1.12 Demonstration
+5.1.13 Exploration
+5.1.14 Games
+
+5.1.15 Role play
+
+5.1.16 Simulation
+
+5.2 Time allocation
+
+It is recommended that Mathematics be allocated at least 3 hours per week for Grades 3 to 7.
+NB: 6 periods of 30 minutes
+
+
+--- Page 10 ---
+6.0 SYLLABUS TOPICS
+
+The following are syllabus topics for Junior school module in Mathematics:
+6.1 Number
+
+6.2 Operations
+
+6.3 Measures
+
+6.4 Relationships
+
+10
+
+
+--- Page 11 ---
+7.0 SCOPE AND SEQUENCE
+7.1 TOPIC 1: NUMBER
+
+GRADE 3 GRADE 4 Grade 5 Grade 6 Grade 7
+
+Numerals e Numerals e Numerals e Numerals
+
+e Numerals (0 to 1000) |e
+
+(0 to 10 000)
+
+(0 to 100 000)
+
+(0 to 1 000 000)
+
+(0 to 10 000 000)
+
+Numbers in Words
+( zero to one thousand)
+
+Numbers in Words
+( zero to ten thousand)
+
+Numbers in words
+(zero to one hundred
+
+Numbers in words
+(zero to one million)
+
+Numbers in words
+(zero to ten million)
+
+thousand)
+
+Number notation Number notation e Number notation e Number notation e Number notation
+
+(0 -1 000) (0 -10 000) (0 -100 000) (0-1 000 000) (0- 10 000 000)
+Place value of digits (0 Place value of digits (0 | e Place value of digits (0 | e Place value of digits (0 | e Place value of digits (0
+to 1000) to 10 000) to 100 000) to 1 000 000) to 10 000 000)
+Ordinal numbers from Ordinal numbers from |e Ordinal numbers from Ordinal numbers from Ordinal numbers from
+first to thirtieth first to hundredth first to hundredth first to hundredth first to hundredth
+Number sequence Number sequence e Number sequence e Number sequence e Number sequence
+
+(0 to 1 000) (0 to 10 000) (0 -100 000) (0 -1 000 000) (0 -10 000 000)
+Approximation Approximation e Approximation/ e Approximation/ e Approximation/
+
+(nearest 10 and 100)
+
+(nearest 10, 100, and
+1 000 )
+
+Estimation (nearest 10,
+100, 1000, and 10 000)
+
+Estimation (nearest 10,
+100, 1000, 10 000 and
+100 000)
+
+Estimation (nearest 10,
+100, 1000, 10 000, 100
+000 and 1 000 000)
+
+Comparison of
+
+Comparison of
+
+Comparison of
+
+Comparison of
+
+Comparison of
+
+numbers (0 — 1 000) numbers (0 — 10 000) numbers numbers numbers
+
+(0 — 100 000) (0 — 1 000 000) (0 — 10 000 000)
+Estimation Estimation
+(0 to 1 000) (0 to 10 000)
+
+e Prime numbers
+(0 -50)
+
+e Prime numbers
+(0 - 100)
+
+Numeration system
+(Arabic: 1-10 and
+Roman numerals: I to
+X)
+
+Numeration system
+(Arabic: 1-20 and
+Roman Numerals: I to
+XX or vice versa)
+
+Numeration system
+(Arabic: 1-20 and
+Roman Numerals: I to
+XX or vice versa)
+
+Numeration system
+(Arabic: 1-50 and
+Roman Numerals: I to
+L or vice versa)
+
+Numeration system
+(Arabic: 1-50 and
+Roman Numerals: I to
+L or vice versa)
+
+Proper fractions
+(denominators 2, 4, 5
+and 10)
+
+Proper fractions
+(denominators 2,4,5,
+10 and 20
+
+Proper fractions
+(denominators 2 to 10
+and 20)
+
+Proper fractions
+(where denominators
+are 2 to 10 and
+multiples of 5 up to
+
+Proper fractions
+(where denominators
+are 2 to 10
+
+and multiples of 5 up
+
+11
+
+
+
+--- Page 12 ---
+50)
+
+to 1 00)
+
+Mixed numbers (where
+denominators are 2, 4,
+5, 10)
+
+Mixed numbers (where
+denominators are 2 to
+10)
+
+Mixed numbers (where
+denominators are 2 to
+10 )
+
+Mixed numbers (where
+denominators are 2 to
+10)
+
+Decimals (up to |
+decimal place)
+
+Decimals (up to 2
+decimal places)
+
+Decimals (up to 3
+decimal places)
+
+Decimals (up to 3
+decimal places)
+
+Rounding off decimals
+to the nearest
+unit/whole number
+
+Rounding off decimals
+to the nearest
+unit/whole number and
+1 decimal place
+
+Rounding off decimals
+to 2 decimal places
+
+Rounding off decimals
+to 2 decimal places
+
+Percentages Percentages Percentages Percentages
+7.2 TOPIC 2: OPERATIONS
+GRADE 3 GRADE 4 GRADE 5 GRADE 6 GRADE 7
+
+Addition of whole
+numbers whose
+sum is less than or
+
+e Addition of whole
+numbers whose
+sum is less than or
+
+e Addition of whole
+numbers whose
+sum is less than or
+
+e Addition of whole
+numbers whose
+sum is less than or
+
+e Addition of whole
+numbers whose
+sum is less than or
+
+equal to 1 000 equal to equal to equal to equal to
+10 000 100 000 1 000 000 10 000 000
+e Subtraction of e Subtraction of e Subtraction of e Subtraction of e Subtraction of
+whole numbers whole numbers whole numbers whole numbers whole numbers
+(0 to 1 000) (0 to 10 000) (0 to 100 000) (0 to 1 000 000) (0 to 10 000 000)
+e Multiplication of e Multiplication of e Multiplication of e Multiplication of e Multiplication of
+
+whole numbers
+(whose product is
+0 to 500, where the
+multiplier is a one-
+digit number)
+
+whole numbers
+(whose product is
+less than
+
+1 000)
+
+whole numbers
+(whose product is
+less than
+
+5 000)
+
+whole numbers
+(whose product is
+less than 10 000)
+
+whole numbers
+(whose product is
+less or equal to 100
+000)
+
+Division of whole
+numbers | to 100
+
+e Division of whole
+numbers by one
+
+e Division of whole
+numbers by two
+
+e Division of whole
+numbers whose
+
+e Division of whole
+numbers whose
+
+by a one digit digit number | to 1 digit numbers dividend is less or dividend is less or
+number 000 multiples of 10 up equal to 10 000 equal to 100 000
+to100 and
+multiples of 100 up
+to 1000
+e Multiplication of e Multiplication of e Multiplication of e Multiplication of e Multiplication of
+
+whole numbers by
+fractions with
+
+proper fractions
+with denominators
+
+proper fractions
+with denominators
+
+proper fractions
+with denominators
+
+two proper
+fractions with
+
+12
+
+
+
+--- Page 13 ---
+denominators 2, 4, 2,4, 5 and 10 from 2 to 10 from 2 to 10 denominators from
+5 and 10 2 to 10
+e Multiplication of
+two mixed
+numbers with
+denominators 2 to
+10
+HCF of two numbers HCF of two numbers e HCE of two numbers HCF of two numbers
+(where the HCF is less (where the HCF is less (where the HCF is less (where the HCF is less
+than 10) than 10) than 20) than 20)
+LCM of two numbers LCM oftwo numbers |e LCM of two numbers LCM of two numbers
+(where the LCM is less (where the LCM is less (where the LCM is less (where the LCM is less
+than 50) than 50) than 100) than 100)
+
+Addition of proper
+fractions with the
+same denominators
+of 2, 4,5 and 10
+
+e Addition of up to 3
+proper fractions
+(where
+denominators are
+the same: 2,4,5, 10
+and 20)
+
+e Addition of (up to
+3) proper fractions
+with same
+denominators from
+2 to 10 and 20
+
+e Addition of (up to
+2) proper fractions
+with different
+denominators from
+2 to 10 and 20
+
+e Addition of proper
+fractions with same
+or different
+denominators of 2
+to 10 and
+multiples of 5 up to
+50
+
+e Addition of proper
+fractions with
+denominators of 2
+to 10 and multiples
+of 5 up to 100
+
+e Addition of mixed
+numbers with
+denominators of 2
+to 10
+
+Subtraction of
+proper fractions
+(two fractions with
+the same
+denominators 2, 4,
+5 and 10)
+
+e Subtraction of
+proper fractions
+(where
+denominators are
+the same: 2,4,5, 10
+and 20)
+
+e Subtraction of
+proper fractions
+(with same or
+different
+denominators from
+2 to 10 and 20)
+
+e Subtraction of
+proper fractions
+with same or
+different
+denominators of 2
+to 10 and multiples
+of 5 up to 50
+
+e Subtraction of
+proper fractions
+with denominators
+of 2 to 10 and
+multiples of 5 up to
+100
+
+e Subtraction of
+mixed numbers
+with denominators
+of 2 to 10
+
+e Addition of
+decimals (up to 1
+decimal place)
+
+e Addition of
+decimals (up to 2
+decimal places)
+
+e Addition of
+decimals (up to 3
+decimal places)
+
+e Addition of
+decimals (up to 3
+decimal places)
+
+e Subtraction of
+decimals (up to 1
+decimal place)
+
+e Subtraction of
+decimals (up to 2
+decimal places)
+
+e Subtraction of
+decimals (up to 3
+decimal places)
+
+e Subtraction of
+decimals ( up to 3
+decimal places)
+
+13
+
+e Multiplication of
+
+e Multiplication of
+
+
+
+--- Page 14 ---
+decimal numbers
+by | digit whole
+numbers
+
+decimals (up to 2
+decimal places)
+
+decimals (up to 3
+decimal places)
+
+Division of °
+
+decimal numbers
+
+Division of
+decimal numbers
+
+Division of
+decimal numbers
+
+by 1 or 2 digit by decimals up to 2 by decimals up to 3
+whole numbers decimal places decimal places
+e Combined Combined
+operations (up to 2 operations(up to 3
+operations) operations)
+7.3 TOPIC 3 MEASURES
+GRADE 3 GRADE 4 GRADE 5 GRADE 6 GRADE 7
+e Money (up to $10,00) e Money (up to $50,00) e Money (up to e Money (up to e Money (up to
+- Conversions - Conversions $100,00) $200,00) $500,00)
+- Change - Change - Conversions - Conversions - Conversions
+- Change - Financial - Financial
+transactions transactions
+e Time e Time e Time e Time e Time
+- hourly, half hourly - Time units - Time units - Time units - Operations on
+and quarter hourly - Approximation of - Approximation of - 12 hours and 24 time 24 hour
+- Days of the week and time. time. hour notation and 12 hour
+months of the year - Application of time - Application of time (digital clock) notation (digital
+- Seasons of the year (am, pm, weekly, (am, pm, weekly, clock)
+- Conversions of time fortnightly and fortnightly and
+monthly) monthly)
+
+(hours to days, days
+to hours, days to
+months)
+
+Conversions of time
+(minutes to hours,
+days to weeks, days to
+fortnights, weeks to
+months)
+
+Conversions of time
+(minutes to hours,
+days to weeks, days to
+fortnights, weeks to
+months, months to
+years, decades)
+
+Mass: standard
+measures (100g,
+
+Mass: units and
+conversion of mass up
+
+Mass: units and
+conversion of mass up
+
+e Mass: units and
+conversion of
+
+Mass: units and
+conversion of
+
+200g, 500g, 1kg) to 10kg. to 100kg mass up to mass up to
+1 000kg (tonne) 1 000kg (tonne)
+e Length (up to 10m) e Length (0 to 30cm e Length: (standard and e Length: e Length:
+and 1m to 100m) non-standard units (0 (standard and standard units
+to 30cm and 1m to non-standard up toa
+100m) units up to | kilometre
+
+14
+
+
+
+--- Page 15 ---
+Shapes:
+- Plane
+-Solid
+
+Perimeter (square,
+rectangle, triangle)
+
+Shapes: plane and
+solid
+
+Perimeter (up to 4
+sides)
+
+Shapes: plane and
+solid
+
+Polygons up to 5
+sides
+
+Perimeter (up to 5
+sides)
+
+000m)
+Shapes:
+symmetry
+Geometrical
+parts of a circle
+Polygons up to
+10 sides
+
+Perimeter (up to
+10 sides)
+
+Shapes: 2 and 3
+dimensional
+Arc and chord
+of a circle
+Polygons up to
+10 sides
+
+Perimeter of
+plane shapes (up
+to 10 sides)
+
+Rate: Relating two
+measures
+
+Rate: Relating two
+quantities
+
+Rate: linking
+two quantities,
+use of the
+
+D
+formula s = 7
+
+Rate: Distance,
+speed and time
+
+Area: non-standard
+measures and
+standard measures
+in cm?
+
+Area: rectangle,
+square and right
+angled triangle
+
+Area: standard and
+non -standard units
+(rectangle, square and
+triangle)
+
+Area: rectangle,
+square, triangle
+and composite
+shapes
+
+Area: rectangle,
+square, triangle,
+combined and
+irregular shapes
+(units of area up
+to a hectare)
+
+Volume and
+capacity: half litre
+(500ml) and 1 litre
+(1000ml).
+
+Volume and capacity:
+
+Conversion of units
+
+Volume and capacity:
+cube and cuboid
+
+Volume and
+capacity:
+regular and
+irregular shapes
+
+Volume and
+capacity: up toa
+cubic metre
+
+Direction, angles
+and lines (4 cardinal
+points)
+
+Direction, angles and
+lines (4 cardinal
+points)
+
+Revolution
+
+Direction (8 cardinal
+points), angles and
+lines
+
+Revolution
+
+Direction,
+angles and lines
+Cardinal points
+Revolution
+
+Direction,
+angles and lines:
+including acute,
+obtuse, right,
+straight, reflex
+angles and
+complete
+revolution
+
+7.4 TOPIC 4: RELATIONSHIPS
+
+15
+
+
+
+--- Page 16 ---
+GRADE 3 GRADE 4 GRADE 5 GRADE 6 GRADE 7
+e Data handling e Data handling e Data handling e Data handling e Data he
+
+- Tables - Tables - Tables - Tables -
+
+- Bar graphs - Bar graphs - Bar graphs - Bar graphs -
+
+- Tally system - Column graphs - Column graphs - Column graphs -
+
+- Pie charts - Ready reckoners - Ready reckoners -
+
+- Pie charts - Pie charts -
+
+- Pictographs - Pictographs -
+
+8.0 COMPETENCY MATRIX
+
+16
+
+
+--- Page 17 ---
+8.1 GRADE 3
+
+8.1.1 TOPIC 1: NUMBER (0 to 1 000)
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES SUGGESTED
+Pupils should be able to: (Skills, attitudes, and AND ACTIVITIES RESOURCES
+knowledge)
+Whole numbers e read/sign number in numerals e Numerals. e Expressing numbers in e Number lines
+
+Numerals e write number in numerals numerals. e Number strips
+e Writing numerals in words
+Words e read/sign numbers in words e Number in words. e Reading/signing in words. |e Number strips.
+e write given numbers in words e Writing in words.
+Place value of digits e identify the place value of each digit |e Place value e Providing /use of place Charts
+in two or three digit numbers value charts activities Abacus
+
+e compare the place value of digits in
+different places within a number or on
+different numbers
+
+e Determining place value
+of a digit in a number
+
+Strips with numbers
+
+Number notation
+
+e expand numbers.
+
+Number notation.
+
+e Expressing numbers in
+expanded notation and
+vice-versa for example:
+546 = 500+40+6:
+200+30+7 = 237
+
+Abacuses
+Place value charts
+
+Ordinal numbers from
+first to thirtieth
+
+e write ordinal numbers up to 30
+
+e use ordinal numbers in ranking and
+positioning
+
+e write ordinal numbers in words and
+numerals
+
+e Ordinal numbers from
+first to thirtieth
+
+e Writing ordinal numbers
+up to 30
+
+e Arranging and telling
+positions of objects and
+pictures according to
+some order
+
+e Writing ordinal numbers
+denoting positions
+
+Sets of objects
+Number line charts
+Vocabulary chart
+Flash cards
+
+Comparison of
+numbers
+
+e arrange sets of numbers in ascending
+and descending order
+
+e compare any two numbers using: >,
+<=
+
+2
+
+e Quantifying
+0-1 000
+e Comparisons >, <, =
+
+e Ordering numbers from
+Lowest to highest or vice
+versa
+
+e Comparing any two
+numbers using >, <,=
+
+e Number line charts
+e Class inventories
+e Registers
+
+Number sequence
+
+e establish patterns of various number
+sequences
+
+e complete the number sequences given
+
+e create their own number sequences
+
+e Patterns in number
+sequence
+
+e Describing the patterns of
+various number
+sequences, showing
+whether they are
+increasing or decreasing.
+
+e Filling in missing
+
+Flash cards
+Number line
+Blocks
+Bingo cards
+
+17
+
+Counters for place value
+
+
+
+--- Page 18 ---
+Approximation
+
+round off numbers to the
+
+e Nearest 10 and 100
+
+numbers to complete
+sequences
+Creating sequences
+
+Approximating numbers
+
+Place value cards
+
+e
+nearest 10 and 100 to the nearest 10 and 100 |e Abacus
+e Number line
+Numeration system e convert Roman numerals to e Arabic and Roman Reading and writing e Charts with Arabic and
+Arabic and vice versa in the range numerals (I to X) numbers in Arabic and Roman numerals
+Ito X Roman numerals e Flash cards
+Converting Roman e Charts with indigenous
+numerals to Arabic numerals
+
+numerals and vice versa
+in the range I to X
+Reading numbers in
+indigenous language from
+1 to 10
+
+Proper fractions
+
+write fractions in numerals
+
+name fractions shaded in diagrams
+compare fractions with the same
+denominators.
+
+e Proper fractions
+with denominators
+2 to 10 and 20
+
+Reading and writing
+fractions in numerals.
+Interpreting diagrammatic
+representations of
+fractions.
+
+Compare fractions with
+the same denominators.
+
+Fraction charts
+Diagrams representing
+fractions
+
+Set pictures
+
+18
+
+
+
+--- Page 19 ---
+8.1.2 TOPIC 2: OPERATIONS
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES AND | SUGGESTED
+Pupils should be able to: (Skills, attitudes, and ACTIVITIES RESOURCES
+knowledge)
+Addition of whole e add whole numbers without carrying | e Addition of whole ¢ Summing up two whole | e Abacuses
+numbers add numbers which require carrying numbers whose sum is numbers which do not | e Work cards
+once less than or equal to 1 involve carrying for e Number lines
+e demonstrate the commutative law in 000 example e Counters
+addition 462 + 27 = 489
+¢ Summing up two
+numbers which require
+carrying once, for
+example 27 + 14 =41
+¢ Working out problems
+involving the
+commutative law
+* Commutative
+24+ 13=
+13+24
+NB: teachers should not
+teach the term
+commutative law
+Using indigenous games in
+addition of whole numbers
+N.B Addition terms such
+as Total, Sum of and
+Altogether must be used.
+Subtraction of subtract numbers e Subtraction of Reinforcing basic e Abacuses
+
+whole numbers
+
+subtract numbers with one equal
+addition
+
+whole numbers (0
+— 1000)
+
+subtraction facts through
+mental work
+Subtracting numbers
+Decreasing numbers with
+one equal addition
+455 346
+
+- 129 - 172
+Using indigenous games
+for subtraction
+
+e Work cards
+e Flash cards
+
+Addition of proper
+fractions
+
+e add two proper fractions with the same
+denominators
+
+e Addition of two
+proper fractions with
+the same denominators
+
+Adding proper fractions
+with the same
+denominators
+
+e Fraction strips
+e Diagrams
+e Charts
+
+19
+
+
+
+--- Page 20 ---
+2,4, 5 and 10 e Counters
+Subtraction of subtract proper fractions with the same |e Subtraction of two e Subtracting proper e Fraction strips
+proper fractions denominators proper fractions with fractions with the same e Diagrams
+the same denominators denominators ® Charts
+2, 4,5 and 10 e Work cards
+e Counters
+Multiplication of demonstrate that multiplication is e Multiplication of e Using the e Work cards
+whole numbers repeated addition. numbers whose multiplication sign in e Flash cards
+multiply whole numbers by one digit product is repeated addition such |e Smart phones
+multiplier without carrying. 0 to 500 where the as 3 + 3 +3=3(3) e Calculators
+identify factors of numbers within the multiplier is a one- 3x3=9 e Counters
+range of 0 to100. digit number. e Multiplying whole
+e Factors. numbers by one digit
+multiplier without
+carrying such as
+221
+X 2
+e Finding factors of
+numbers within the
+range of
+0-100.
+e Constructing
+multiplication tables up
+to 10.
+Division of whole share equally without a remainder e Division of whole e Demonstrating division by | ¢ Number line
+numbers divide by one digit divisors using numbers by a one- sharing equally without a e Counters
+repeated subtraction digit divisor (1 to 100) remainder e Work cards
+e Using a number line to e Flash cards
+
+demonstrate division as
+repeated subtraction
+
+Multiplication of
+whole numbers by
+fractions
+
+multiply a whole number by a proper
+fraction
+
+Multiplication of whole
+numbers by proper
+fractions with
+denominators 2, 4, 5
+and 10
+
+e Illustrating multiplication of
+whole numbers by proper
+fractions
+
+Fraction charts
+
+Regular diagrams such as
+rectangles and squares
+Counters.
+
+20
+
+
+
+--- Page 21 ---
+8.1.3. TOPIC 3: MEASURES
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES AND SUGGESTED
+Pupils should be able to: (Skills, attitudes, and ACTIVITIES RESOURCES
+knowledge)
+Money e identify currency up to $10.00 e Currency up to $10.00 | e Identifying coins and notes in use in e Real coins and notes
+
+e describe features on coins and
+notes
+
+e calculate composition of amounts
+in terms of smaller notes and
+coins
+
+e Money denominations
+
+Zimbabwe
+
+e Identifying currency which was used
+in the past
+
+e Reading inscriptions on coins and
+notes
+
+e Describing the heritage features on
+Zimbabwean coins and notes
+
+e Reading ready reckoners and tables on
+money
+
+e Breaking down amounts into smaller
+denominations such as $10.00
+={$5.00; $2.00; $2.00;$1.00}
+
+e Paper money
+e Ready reckoners
+
+Conversions of
+money
+
+e convert cents to dollars and vice-
+versa
+
+e Conversions of money
+
+e Expressing cents in dollars and vice-
+versa
+
+e Conversion tables
+
+Change e calculate change in buying and e Buying and selling e Buying and selling exercises using the |e Shop items
+selling shop corner in the classroom to e Adverts of prices in
+enhance financial literacy and newspapers
+enterprise e Calculators
+e Barter trade exercise to enhance
+financial literacy and enterprise
+e Visiting shops to understand the value
+embedded on the shop items.
+NB: At this level consider only whole
+number prices for change purposes.
+Time e tell time up to the hour, half hour | ¢ Time telling: hourly, e Telling time using the cock-crow, e Clock faces
+
+and quarter hour
+
+half hourly and quarter
+hourly
+
+position of the sun, phases of the moon
+e Showing time on clock faces
+e Reading time on clock faces by the
+hour, half hour and quarter hour
+
+e Scissors and manila
+
+e identify days of the week,
+seasons and months of the year
+
+e Days of the week,
+months of the year and
+seasons
+
+21
+
+e Stating days of the week, months of the
+year and seasons in relation to the
+national events such as Independence,
+Heroes and sacred days
+
+e Changing hours to days, days to weeks,
+weeks to months, months to years and
+
+e Calendars
+
+
+
+--- Page 22 ---
+vice-versa
+
+e identify seasons of the year
+e write seasons of the year
+
+e Seasons of the year
+
+Listing months of the year
+Classifying months into seasons
+Using the shedding of trees, the
+sound of a water coo to signify
+seasons
+
+e Listing activities for various seasons
+
+Pictures
+Calendar
+Charts
+
+e convert hours to days e Conversions of time e Converting various time periods e Calendars
+e convert days to hours e Naming months of the year e Clocks
+e convert days to weeks e Clock faces
+e convert weeks to days
+Mass e find mass of objects using e Standard measure e Estimating mass of objects using more |e Scales
+weights (100g, 200g, 500g, or less than a kilogram e Weights
+e compare mass of objects using lkg) e Weighing objects using Ikilogram and |e Various objects
+weights half kilogram weights
+Length e measure length of objects e Length up to 10 metres | e Estimating length of objects e Metre rules
+accurately e Measuring accurately the length of e Standard 30 centimetre
+e measure the length of lines objects in metres rules
+accurately e Measuring the length of given linesin |e Various objects
+centimetres
+Shapes classify shapes e Plane shapes e Identifying shapes as plane and solid e Models of plane shapes
+name polygons with sides up to | ¢ Solid shapes e Naming and drawing the following e Solid shapes
+four plane shapes: triangle, rectangle, e ICT tools
+square and circle e Pictures of shapes
+e Naming solid shapes e 3D geographical shapes
+e Visiting heritage sites and identifying e Tactile diagram kits
+different shapes
+Perimeter e calculate the perimeter of e Perimeter (square, e Finding perimeter of shapes by e Metre sticks
+square, rectangle and triangle rectangle, triangle) measuring e Metre rulers
+e Strings
+e Tape measures
+e 30 cmrulers
+e Click wheels
+e 3D geographical shapes
+e Tactile diagram kits
+Area e estimate the area of a square and | e Non-standard measures | e Estimating area of square, rectangle by |e Metre rulers
+rectangle using non-standard e Standard measures in counting squares. e Metre stick
+units cm e Finding area of a square and rectangle |e Charts with shapes
+e calculate area of a square, e Area of a rectangle and using formulae. e Tape measures
+rectangle square e Solving life problems involving area. e ICT tools
+
+22
+
+
+
+--- Page 23 ---
+Volume and
+
+find the volume of liquids using
+
+Volume and capacity
+
+Estimating the volume using half and 1
+
+Containers of various
+
+capacity half litre and 1 litre containers half litre and 1 litre litre containers capacity
+containers Clean water
+Direction, angles name the four main cardinal e Four cardinal points Identifying the four cardinal points Compasses
+
+and lines
+
+points
+
+e Lines and angles
+
+Using cardinal points to identify the
+
+e Diagrams showing
+
+identify the position of an object | e Revolution position of objects directions
+identify horizontal and vertical Sketching horizontal and vertical lines Compass points
+lines Showing quarter and half revolution e Charts with angles
+illustrate quarter and half Discussing things and places located in | ¢ Computers
+revolution the four cardinal points in relation to
+the local environment
+8.1.4 TOPIC 4: RELATIONSHIPS
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES AND SUGGESTED
+Pupils should be able to: (Skills, attitudes, and ACTIVITIES RESOURCES
+knowledge)
+Data handling collect data from their environment e Data collection e Gathering data e Timetables
+
+e represent information using tally
+
+system
+
+e Tally system
+
+e Conducting simple
+investigations and gathering
+data within the classroom and
+the environment such as ages,
+trees, shoe sizes, months of
+births
+
+e Showing data using tally
+system
+
+e Recording data collected
+
+e interpret information from tables
+
+e Tables
+
+e Interpreting information from
+tables
+e Solving problems using tables
+
+e interpret information from bar graphs
+
+e Bar graphs
+
+e Reading information from bar
+graphs
+e Answering questions using bar
+graphs
+
+e Newspaper cuttings
+of tables
+
+e Calendars
+
+e Charts with graphs
+
+23
+
+
+
+--- Page 24 ---
+8.2 GRADE 4
+8.2.1 TOPIC 1: NUMBER (0 to 10 000)
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES SUGGESTED RESOURCES
+Pupils should be able to: (Skills, attitudes, and AND ACTIVITIES
+knowledge)
+Whole Numbers e read numbers in words and Arabic e Numerals e Reading any number in | e Number lines
+numerals e Words words and Arabic e Number cards
+
+© write numbers in words and Arabic
+numerals
+
+e tell positions of objects in a row
+
+e draw abacuses to show numbers
+
+write whole numbers in expanded
+
+notation.
+
+e Ordinal numbers
+e Place value digits
+
+numerals
+e Using stories that
+involve the element of
+counting animals
+e Writing any number
+words and Arabic
+numerals
+Identifying positions of
+objects in a row
+e Representing numbers
+on abacuses
+e Reading and writing
+numbers in expanded
+notation
+
+e Abacus
+e Number squares
+
+® compare any 2 numbers using the
+comparison signs (>, <, =)
+e arrange numbers in order of size
+
+e round off to the nearest ten, hundred and
+
+thousand
+
+e Comparison signs (>, <,
+
+e Ordering
+e Approximation
+
+e Comparing any two
+numbers, objects and
+quantities using (<, >,
+=)
+
+e Ordering numbers in
+descending and
+ascending order
+
+e Approximating
+quantities by rounding
+off numbers to the
+nearest ten, hundred,
+thousand.
+
+e Objects in the environment
+such as maize cobs, maize
+plants, trees
+
+e School enrolment records
+
+e Counters
+
+e Technological devices
+
+24
+
+
+
+--- Page 25 ---
+Arabic and Roman
+Numerals
+
+® write numbers in Arabic and Roman
+Numerals
+
+® convert numbers from Arabic to Roman
+numerals and vice-versa
+
+e Numeration systems
+e Roman numeral (I to L)
+
+Expressing Arabic
+numbers as Roman
+numerals and vice-
+versa
+
+e Abacuses
+e Clock faces with Roman and
+Arabic numerals
+
+Proper fractions
+
+write fractions in numerals
+e Interpret diagrams representing
+fractions
+shade fractions on diagram
+reduce fractions to lowest terms
+use fractions and number strips to find
+equivalent fractions
+compare fractions
+e arrange fractions in ascending and
+descending order
+
+e Fractions with
+denominators 2; 4; 5;
+10 and 20
+
+e Diagrammatic
+representation
+
+e Equivalent fractions
+
+e Comparisons
+
+e Arrangements
+
+Identifying, reading and
+writing fractions in
+numerals
+
+Illustrating using
+diagrammatic
+representation of
+fractions
+
+Simplifying fractions
+to lowest terms
+Matching and sorting
+fractions by size using
+number strips
+
+Using common
+denominator
+Arranging fractions in
+ascending and
+descending order
+
+e Regular shapes that can be
+divided
+
+© Number chart,
+
+e Fraction charts
+
+Fraction strips
+
+Mixed Numbers
+
+identify parts of a mixed number
+write mixed numbers from diagrams
+compare mixed numbers
+
+arrange mixed numbers in ascending
+and descending order.
+
+e Mixed numbers (where
+denominators are 2, 4,
+5, 10)
+
+Describing parts of a
+mixed number
+Identifying, reading and
+writing diagrammatic
+representations of
+mixed numbers.
+Comparing mixed
+numbers using
+diagrams
+
+Placing mixed numbers
+in ascending and
+descending order.
+
+e Number line
+e Charts and diagrams of various
+figures.
+
+Decimal Numbers
+
+e write decimals up to one decimal place.
+
+e relate fractions with denominators 10
+and 100 to decimals.
+
+e compare decimals.
+
+e write decimals in expanded form.
+
+e arrange decimals in ascending and
+descending order.
+
+e round off decimals to the nearest unit or
+
+e Decimals up to one
+decimal places.
+
+25
+
+Identifying, reading
+and writing decimals
+up to one decimal
+places.
+
+Changing decimals to
+proper fractions with
+denominators 10 and
+100.
+
+Comparing any two
+
+e Abacuses
+e Number lines
+e Fraction charts
+
+
+
+--- Page 26 ---
+tenth (one decimal place).
+
+decimal places using >;
+SG.
+
+Representing decimal
+numbers in expanded
+notation such as
+
+7,4 =7 + 0,4.
+Arranging decimals in
+order of size with the
+same whole number.
+Approximating
+decimals to the nearest
+unit and tenth.
+
+Percentages
+
+read fractions with a denominator of
+100
+write fractions with a denominator of
+100
+express halves, quarters, fifths, and
+tenths as percentages.
+use 100 square grids to express fractions
+as percentages.
+
+e Percentages of
+fractions.
+
+Identifying and writing
+fractions with
+denominator 100.
+Drawing diagrams
+representing
+percentages.
+
+Using diagrams to
+represent percentages.
+Changing halves,
+quarters, fifths and
+tenths to percentages.
+Using fraction charts
+and 100 square grids to
+show fractions then
+express as percentages.
+Discussing the use of
+percentages in real life.
+NB: Link fractions
+with a denominator
+of 100 to percentage.
+
+Fraction charts
+
+100 square grids
+Discounts advertisements
+Technological tools
+
+26
+
+
+
+--- Page 27 ---
+27
+
+
+--- Page 28 ---
+8.2.2. TOPIC 2: OPERATIONS
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES AND | SUGGESTED
+Pupils should be able to: (Skills, attitudes, and knowledge) ACTIVITIES RESOURCES
+Addition of whole | ¢ add whole numbers within |e Addition of whole numbers whose | e Demonstrating basic e Abacuses
+numbers the range carrying up to 2 sum is less than or equal to 10 000 addition facts e Counters
+times e Finding the sum of 2 or 3 e Flash cards
+whole numbers including e Notes and coins
+carrying up to 2 times e Abacus diagrams
+e Application of addition in e Clock faces
+real life situations e Calculators
+e Smart phones
+Subtraction of e subtract whole numbers e Subtraction of two whole numbers |e Demonstrating basic e Abacuses
+whole numbers within the range 0 to 10 000 subtraction facts e Counters
+e Subtracting whole numbers | e Flash cards
+e Application of subtraction |e Notes and coins
+in real life situations e Abacus diagrams
+e Clock faces
+e Calculators
+e Smart phones
+Multiplication of |e demonstrate multiplication | ¢ Multiplication of whole numbers e Illustrating multiplication e Rulers
+whole numbers facts by single digits whose product is less than 1 000 facts such as the product of |e Clocks
+e multiply where carrying is 2,3 and 4 e Scales
+involved. © Filling in blanks in e Counters
+e calculate factors of multiplication
+
+numbers between | and
+100
+
+Multiplying whole numbers
+by one digit number
+including carrying up to 2
+times
+
+Finding factors of numbers
+between 1 and 100
+Application of
+multiplication in real life
+situations
+
+28
+
+
+
+--- Page 29 ---
+N.B Use of mathematical
+terms such as product of,
+multiplier and
+multiplicand should be
+used
+
+Division of whole
+numbers by one
+digit number
+
+divide whole numbers by
+one digit number
+
+e Division of whole numbers (1 to 1
+000) by | digit number
+
+Practicing basic division
+facts
+
+Carrying out division
+without remainder
+
+Carrying out division with 1
+digit remainders
+Application of division in
+real life situations
+
+N.B. Terms such as
+divisor, quotient and
+dividend should be
+introduced
+
+Number lines
+Rulers
+Counters
+
+Notes and coins
+
+Multiplication of
+proper fractions
+
+calculate fractions of whole
+numbers
+multiply proper fractions
+
+e Multiplication of proper fractions
+(with denominators 2, 4, 5 and 10)
+
+Finding fractions of whole
+numbers
+
+e Multiplying fractions
+
+Number lines
+ICT tools
+Fraction charts
+
+HCF and LCM e find the HCF of two e Finding HCF ofa pair ofnumbers | e Defining the terms HCF and |e Matching cards
+numbers (where the HCF | e Finding LCM ofa pair of numbers LCM e Games
+is less than 10) e Demonstrating how to find |e Worksheets
+HCF and LCM in the e Loop cards
+e calculate LCM of two ranges. e Online resources
+numbers (where the LCM
+is less than 50)
+Addition of proper |e add up to three proper e Addition of proper fractions not e Identifying parts of a e Number lines
+fractions fractions with the same more than 3 terms involved fraction e ICT tools
+denominator e Addition of proper fractions with e Adding proper fractions e Fraction charts
+the same denominators of 2, 4, 5,10 where denominators are the
+and 20 same and not more than
+three terms are involved
+Subtraction of e subtract proper fractions e Subtraction of proper fractions not |e Subtracting proper fractions |e Number lines
+proper fractions with the same more than three terms involved where denominators are the |e ICT tools
+denominators where denominators are the same: same and not more than e Real objects
+2,4,5,10 and 20 three terms are involved e Fraction charts
+Addition of e add decimals e Addition of decimals up to 1 e Revising place values e Abacuses
+decimals decimal place e Adding decimal numbers e Number lines
+
+29
+
+
+
+--- Page 30 ---
+e Applying addition of e Work cards
+decimals to real life e Counters
+situations
+
+subtraction of e subtract decimals e Subtraction of decimals up to 1 e Subtracting decimal e Abacuses
+decimals decimal place numbers e Number lines
+
+e Applying subtraction of e Work cards
+decimals to real life e Counters
+situations
+
+8.2.3. TOPIC 3: MEASURES
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES AND SUGGESTED
+Pupils should be able to: (Skills, attitudes, and ACTIVITIES RESOURCES
+knowledge)
+Money e express money in dollars and cents and | e Money up to $50 e Changing dollars to cents and | e Real coins and notes
+vice versa e Conversions vice versa e Paper money
+e break down money into smaller e Change e Breaking down large amounts | e Card representation of
+denominations into smaller denominations money
+e calculate change within the range e Calculating change within the
+e describe heritage features on range through role play to
+Zimbabwean coins and notes enhance financial literacy
+e perform operations involving money e Describing heritage features on
+Zimbabwean coins and notes
+e Carrying out addition,
+subtraction, multiplication and
+division involving money
+e Applying the concept of
+money in real life situations
+Time e identify units of time e Units of time e Giving units of time e Clock faces
+e use am, pm, weekly and fortnight to tell | ¢ Approximation of time | e Using am, pm, weekly and e Watches
+time e Application of time fortnightly. e Sun dials
+e tell time to the nearest five minutes e Time conversions e Reading time on clock faces to |e Calendars
+
+convert time from one unit to another
+(minutes to hours, days to weeks, days
+to fortnights, weeks to months)
+
+the nearest five minutes
+Changing units of time from
+one unit to another
+
+30
+
+
+
+--- Page 31 ---
+Applying the concept of time in
+real life situations
+
+e Mass e find the mass of different objects Units of mass up to 10 Weighing objects in grams and |e Scales
+(Units and e convert kilograms to grams kilograms kilograms e Balances
+conversions of | e perform operations involving mass Conversions of mass e Converting kilograms to grams |e Containers
+mass up to 10 Carrying out operations e Weights
+kilograms) involving mass
+Applying the concept of mass
+in real life situations
+Length e approximate length using spans and Length using non- Measuring length using spans. |e Rulers
+paces standard units (spans and paces e Metre rules
+e measure length to the nearest and paces) Finding lengths of lines and e Measuring tapes
+centimetres and metres Length using standard objects using standard units of |e Click wheels
+e convert units of length within the range units centimetres in the measurement i.e. centimetres e Calibrated Strings
+e perform operations involving length range 0-30 and metres and metres e ICT tools
+in the range 1-100 Converting units of length to e Indigenous Knowledge
+Conversion of units of their equivalence Systems
+length: Discussing how indigenous
+-Millimetres to cultures map their territories
+centimetres and the significance of land
+-Centimetres to metres boundaries
+Executing operations involving
+length
+Applying the concept of length
+in real life situations
+Shapes e name different plane shapes Properties of plane Naming and drawing e Models of shapes
+e name different solid shapes shapes squares, representations of plane shapes: | e Scissors
+e identify various shapes in patterns rectangles, right angled squares, rectangles, right e Paper
+e state properties of plane and solid triangles, circles angled triangles, circles e Paint
+shapes Properties of solid Naming and drawing e Crayons
+e draw solid shapes shapes representations of solid shapes: | Brushes
+construct solid shapes Construction of solid cylinders, cubes, rectangular e Road signs
+shapes prisms, and spheres © Reeds
+Drawing and colouring of e Sticks
+shapes ; e Pins and nails
+Making models of solid shapes | , ICT tools
+Perimeter e find perimeter of various shapes Perimeter: Measuring and calculating e Rulers
+-Triangle perimeter of various shapes e Metre rules
+-Square e Measuring tapes
+-Rectangle e Click wheels
+Rate e relate two measures Rate of two measures Linking two measures correctly | ¢ Clock faces
+
+31
+
+
+
+--- Page 32 ---
+to express rate such as
+kilometres per hour
+
+Applying rate to measures such
+as mass, time and volume
+Applying the concept of rate in
+real life situations
+
+e Distance tables
+
+Area
+
+find area of a square
+
+calculate area of a rectangle
+compute area of a right - angled
+triangle
+
+e Area of rectangle,
+square and right angled
+triangle
+
+Marking square grids in
+squares and rectangles
+Counting and tableting the
+number of squares along the
+length and width to establish
+that length x width = area of
+rectangle
+
+Using formula to calculate area
+of rectangle and square
+Discovering area of right
+angled triangle by folding
+rectangles and squares
+
+e Square and rectangular
+shapes
+e Geo boards
+
+Volume and
+capacity
+
+convert millilitres to litres and vice
+versa
+
+measure volume of liquids using half
+litre and quarter litre containers
+
+find capacity and volume of liquids in
+millilitres and litres
+
+e Conversion of units of
+volume
+
+e Measurement of
+volume
+
+e Capacity and volume of
+liquids
+
+Converting millilitres to litres
+and vice versa
+
+Measuring volume of liquids
+using half litre and quarter litre
+containers
+
+Finding capacity and volume of
+liquids in millilitres and litres
+Applying the concept of
+volume and capacity in real life
+situations
+
+Estimating volume and
+capacity of locally available
+containers
+
+NB: Poisonous liquids and
+contaminated containers
+should be avoided
+
+e Graduated containers:
+1 litre, half litre and
+quarter litre containers
+
+Direction, angles
+and lines
+
+illustrate diagrammatically the four
+cardinal points
+
+identify horizontal and vertical lines
+identify right angles
+
+illustrate a complete revolution, quarter
+and half of a revolution
+
+e Cardinal points
+
+e Horizontal and vertical
+lines
+
+e Right angles
+
+e Revolution
+
+32
+
+e Showing cardinal points
+
+Drawing a compass and
+labelling the four cardinal
+points
+
+Drawing horizontal and vertical
+lines
+
+Drawing diagrams with right
+
+e Compasses
+e Maps
+
+e Card strips
+e Diagrams on charts
+e Rulers
+
+
+
+--- Page 33 ---
+angles
+
+Showing quarter, half and
+complete revolution
+Identifying and naming right
+angles on the compass and
+drawing diagrams with right
+angles showing use of right
+angles in life situations
+
+Giving directions of places and
+heritage sites in relation to the
+
+school
+
+8.2.4 TOPIC: RELATIONSHIPS
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES SUGGESTED RESOURCES
+Pupils should be able to: (Skills, attitudes, and AND ACTIVITIES
+knowledge)
+e Datahandling |e collect data e Data collection e Congregating data e Timetables
+e interpret information from tables e Tables Interpreting e Newspaper cuttings of tables
+information from e Calendars
+tables e Charts with graphs
+e Solving problems
+using tables
+e interpret information from bar e Bar graphs e Reading information |e Timetables
+graphs from bar graphs e Newspaper cuttings of tables
+e Answering questions e Calendars
+using bar graphs e Charts with graphs
+e represent information from column | e Tally system e Showing data using e Timetables
+graphs e Column graphs column graphs e Newspaper cuttings of tables
+e interpret information from bar e Interpreting e Calendars
+graphs information from bar e Charts with graphs
+
+graphs
+e Conducting simple
+investigations and
+
+33
+
+
+
+--- Page 34 ---
+gathering data within
+the classroom and the
+environment such as
+ages, trees, shoe sizes,
+months of births
+
+identify a pie chart.
+
+identify the different sections
+(slices) of a pie chart.
+
+divide a circle into sections to
+represent data.
+
+e Pie Charts
+
+Identifying a pie chart.
+
+Identifying the
+
+different sections
+
+(slices) of a pie chart.
+Dividing a circle into
+sections to represent
+data.
+
+Interactive pie charts
+
+Chart paper
+
+Colored pencils/markers
+Paper plates (for creating 3D
+pie charts)
+
+Printed pie chart templates
+
+34
+
+
+
+--- Page 35 ---
+8.3 GRADE 5
+
+8.3.1 TOPIC 1: NUMBER (0 to 100 000)
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES SUGGESTED
+Pupils should be able to: (Skills, attitudes, and AND ACTIVITIES RESOURCES
+knowledge)
+Whole numbers e read/sign numbers in words and e Numerals in words e Reading/signing numbers |e Abacuses
+(0-1 00 000) numerals e Number notations in words and numerals e_ = flash cards
+e write numbers in words and e Place value e Writing numbers in e charts
+numerals e Ordinal numbers words or numerals e counters
+e express numbers in expanded e Number sequence e Expressing numbers in e number line strips
+notation/form expanded notation e technological devices
+e count in ascending and descending e Counting numbers in
+order descending and
+
+e arrange numbers in order of size
+
+e give values of digits in a number
+
+e write ordinal numbers up to
+hundredth
+
+e use ordinal numbers in ranking
+and positioning
+
+e write ordinal numbers in words
+and numerals
+
+e write number sequences
+
+ascending order
+
+e Arranging numbers in
+descending and
+ascending order
+
+e Picking out values of
+digits in any number
+such as 4 562: where
+digit 5 is five hundreds
+
+e Sequencing numbers in
+order of size
+
+e Designing number
+sequences
+
+NB: consolidating ideas
+
+using calculators and
+
+smart phones
+
+e round off numbers to a degree of
+accuracy
+apply approximation in life situations
+compare numbers
+
+e Approximation/estimation
+(nearest 10, 100, 1 000,
+and 10 000)
+
+e Comparison
+
+e estimating numbers to the
+nearest 10, 100,
+1 000, and 10 000
+e Comparing numbers
+using >, < and =.
+
+e Counters
+e number line strips
+e flash cards
+
+read/sign Roman numerals
+write Roman numerals
+
+e convert Roman numerals to Arabic
+numerals within the range
+
+e Numeration system
+(Arabic: 1-20 and Roman
+Numerals: I to XX or vice
+versa)
+
+e Stating Roman numerals,
+Ito XX
+
+e Reading/Signing Roman
+numerals, I to XX
+
+e Demonstrating how
+
+e Number cards
+e conversation charts
+e watches
+
+35
+
+
+
+--- Page 36 ---
+Roman numeration is
+built from 1-20
+Expressing Arabic
+numerals to Roman
+numerals within the range
+1-20
+
+Proper Fractions
+(denominators 2
+to 10 and 20)
+
+identify proper fractions with
+denominators in the given range
+read/sign fractions with denominators
+in the given range
+
+write fractions with denominators in
+the given range
+
+compare fractions
+
+write fractions in their equivalent
+forms
+
+reduce fractions to their lowest terms
+arrange fractions in ascending or
+descending order
+
+Comparison
+Equivalence
+Lowest terms
+Sequencing
+
+Selecting fractions with
+denominators in the
+range
+
+Stating fractions with
+denominators in the
+range
+
+Writing fractions with
+denominators in the
+range
+
+Expressing fractions
+using <, > and = signs
+Simplifying fractions to
+their lowest terms
+Expressing fractions in
+their equivalent forms
+Arranging a set of
+fractions in ascending or
+descending order
+
+fraction chart
+work cards
+
+flash cards
+technological tools
+real objects
+
+Mixed Numbers e identify mixed numbers e mixed numbers Forming mixed numbers |e Fraction charts
+(with e read/sign mixed numbers e Conversion by putting together e Diagrams
+denominators 2 to | e write mixed numbers e Comparison wholes and fractions e Regular objects
+10) e convert mixed numbers to improper 3 and : written as 3 : e technological tools
+fractions and vice versa Using diagrammatic
+* compare mixed numbers representations of mixed
+e solve problems involving mixed numbers
+numbers Converting mixed
+numbers to improper
+fractions and vice-versa
+Comparing mixed
+numbers using signs <, >
+and = signs
+Applying mixed
+numbers in solving
+problems: sharing
+Decimals (up to e identify decimals e Numeration Stating in numerals up to | e Abacuses
+
+36
+
+
+
+--- Page 37 ---
+two decimal
+
+read/sign decimal
+
+e Place value
+
+two decimal places
+
+e diagrams of fractions
+
+places) write decimals e Comparison e Reading/signing in e decimal fraction charts,
+determine place value of adigitina |e Estimation numerals up to two
+decimal decimal places
+interpret diagrammatic representation e Writing in numerals up
+of decimals to two decimal places
+compare decimals e Giving values of digits in
+round off decimals to the nearest numbers up to 3 decimal
+unit/whole number and 1 decimal places with not more
+place than 5 digits
+Illustrating diagrammatic
+representation of
+decimals
+e Comparing decimals
+using the <, > and =
+signs
+e Estimating decimals to
+the nearest unit and tenth
+Percentages e express fractions as percentages e Conversion e Converting percentages |e 100 square grids
+
+and vice versa
+
+e change one quantity/amount as a
+
+percentage of another
+
+e compare percentages
+e show relationships between
+
+percentages and fractions
+
+e Comparison
+e Equivalence
+
+1
+?
+
+to fractions and vice
+versa
+Expressing one
+quantity/amount as
+percentages of another
+Comparing percentages
+using <, >or=signs
+Finding percentages
+
+equivalent to:
+
+11 1
+=, -, and —
+4a 5° 10
+
+e Charts
+e Calculators
+
+37
+
+
+
+--- Page 38 ---
+8.3.2. TOPIC 2: OPERATIONS
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES SUGGESTED RESOURCES
+Pupils should be able to: (Skills, attitudes, and AND ACTIVITIES
+knowledge)
+Addition of whole | e demonstrate an understanding of e Addition of whole e Summing up whole e Work cards
+numbers basic addition facts numbers whose sum is numbers which do not |e Abacuses
+e add numbers which require carrying less than or equal to require carrying e Number line strips
+twice 100 000 e Adding whole e Counters
+e demonstrate commutative law in e commutative law numbers which require
+addition carrying twice
+e Working out problems
+involving the
+commutative law
+(10+7=177+10=17)
+Subtraction of subtract numbers within the range e Subtraction of two e Reinforcing basic Abacuses
+whole numbers subtract numbers involving one or whole numbers within subtraction facts Work cards
+(0 — 100 000) two equal additions the range 0 — 100 000 through mental work |e Number line strips
+e Computing subtraction
+of numbers involving
+one or two equal
+additions
+e Using indigenous
+games in subtraction
+Multiplication of |e demonstrate an understanding of e Multiplication of whole | e Constructing e Work cards
+whole numbers basic multiplication numbers (whose product multiplication tables e Counters
+
+Division of whole
+
+e multiply numbers by two digit
+numbers
+
+e multiply numbers by multiples of 10
+up to 100
+
+e demonstrate division as repeated
+
+is less than 5 000)
+
+e Division of whole
+
+e Multiplying whole
+numbers by two digit
+multipliers without
+carrying
+
+e Multiplying numbers
+by two digit multipliers
+with carrying
+
+e Multiplying whole
+numbers by multiples
+of 10 up to 100
+
+e Demonstrating division
+
+e Multiplication dials
+
+e Tables
+
+38
+
+
+
+--- Page 39 ---
+numbers subtraction numbers within the range as repeated subtraction |e Counters
+carry out division by two digit divisor 1 — 10 000 by two digit e Dividing by two digit
+without remainders (where the two numbers number e.g.
+digit numbers are multiples of 10, 3 680 + 40 = 92
+that is 10,20,30... up to 90) e Carrying out division
+carry out division by two digit divisor by two digit divisor
+with remainders where both the with remainders where
+divisor and the dividend are multiples both the divisor and
+of 10 the dividend are
+multiples of 10
+2 650 + 20 = 132 r 10
+Multiplication of multiply proper fractions by whole Multiplication of proper | e¢ Multiplying proper e Number line strips
+
+proper fractions
+
+numbers
+multiply proper fractions by fractions
+
+fractions (with
+denominators from 2 to
+10
+
+fractions by whole
+
+numbers
+Multiplying fractions
+by fractions
+
+Fraction charts
+
+HCF and LCM find the HCF of two numbers (where Highest Common Factor | e Listing factors of given |e Work cards
+the HCF is less than 10) (HCF) of two numbers numbers e Counters
+Lowest Common e Deducing HCF of two
+calculate LCM of two numbers Multiple (LCM) of two numbers from listed
+(where the LCM is less than 50) numbers factors
+e Calculating LCM of
+two numbers
+Addition of proper add (up to 3) proper fractions with Addition of (up to 3) e Summing up of proper |e Equivalent fraction charts
+fractions same denominators from 2 to 10 and proper fractions with fractions with same e Blocks
+20 same denominators from denominators e Counters
+add (up to 2) proper fractions with 2 to 10 and 20 e Finding the total of e Rods
+different denominators from 2 to 10 Addition of (up to 2) fractions with different
+and 20 proper fractions with denominators
+different denominators
+from 2 to 10 and 20
+Subtraction of subtract proper fractions with the Subtraction of proper e Subtracting proper e Equivalent fraction charts
+proper fractions same denominators from 2 to 10 and fractions (with same and fractions with same e Blocks
+20 different denominators denominator e Counters
+subtract proper fractions with from 2 to 10 and 20) e Solving problems e Rods
+different denominators from 2 to 10 involving proper
+and 20 fractions with different
+denominators
+Addition of add decimals up to two decimal e Addition of decimals (up | e Identifying place value |e Abacuses
+decimals places to two decimal places) e Finding the sum of e Work cards
+
+decimals
+
+39
+
+
+
+--- Page 40 ---
+Subtraction of e subtract decimals with up to two e Subtraction of e Finding the difference |e Abacuses
+decimals decimal places decimals with up to of decimals e Work cards
+two decimal places.
+Multiplication of |e multiply decimal numbers up to two Multiplication of e identifying the place e Abacuses
+decimal numbers decimal places by one digit whole decimal numbers up to value of a digit in a e Work cards
+number two decimal places by decimal number e Flash cards
+one digit whole number | e Multiplying decimal
+numbers up to two
+decimal places by one
+digit whole number for
+example 1,25x3=3,75
+or 12,3x5=61,5
+Division of e divide decimals up to two decimal Division of decimal e Identifying the place e Abacuses
+decimal numbers places by one digit whole number numbers up to two value of a digit in a e Work cards
+decimal places by one decimal number e Flash cards
+digit whole number e Dividing decimals by
+one digit number for
+example 3,96+3=1,32
+or 2,5+5=0,5
+8.3.3. TOPIC 3: MEASURES
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES AND | SUGGESTED
+Pupils should be able to: (Skills, attitudes, and ACTIVITIES RESOURCES
+knowledge)
+Money e identify features on Zimbabwean e Notes andcoinsupto | e Identifying features on e Coins
+currency $100 Zimbabwean currency e Notes
+e demonstrate relationship between notes Change e Naming the denominations e Shop corner
+and coins e Conversions of the currencies in use e Pictures of the big
+e convert money from cents to dollars e Showing relationships of five animals
+and vice-versa currency denominations e Zimbabwean flag,
+e calculate change e Role playing buying and heritage sites
+selling e Balancing rocks
+e Converting cents to dollars Charts
+and vice-versa ICT tools
+e Computing change
+Time e tell time e Time units e Telling time e Wrist watches
+
+40
+
+
+
+--- Page 41 ---
+e estimate time from shadows and the e Approximation of e Estimating time intervals of e Clock faces
+position of the sun time. activities such as: e Calendars
+e estimate time intervals of different e Application of time i) A clap of hands e ICT tools
+actions and activities (am, pm, weekly, ii) A blink of an eye e Pictures
+e convert units of time fortnightly and ii) Ajump
+monthly) e Expressing time in am
+e Conversions of time and pm
+(minutes to hours, e Converting units of
+days to weeks, days to time such as:
+fortnights, months to i) 1 hour = 60minutes
+years, decades) ii) 2 weeks = fortnight
+e Seconds to minutes = 14 days
+iii) 1 ordinary year =
+3651 days
+iv) 1 leap year = 366
+days
+e Constructing model
+clock faces using
+locally available
+materials
+Mass e identify standard units of measuring | e Standard units of e Measuring masses of e Different objects
+mass measuring mass different quantities e Measuring scales
+e change grams to kilograms and e Conversion of massup | e Establishing that e ICT tools
+vice-versa to 100kg 1 000g = lkg
+e compare mass of objects e Comparison of mass e Comparing masses
+approximate mass up to 100kg using heavy and light
+e Comparing masses using <;
+=;>
+e Discussing the importance
+of mass in life situations
+Length e identify standard units of measuring e Length using standard | e Identifying units of e 30cm rules
+length and non-standard units measuring length e Immules
+e measure length using standard units centimetres in the range | e Measuring distances up to e Rope or string
+e estimate length using non-standard units 0-30 and metres in the 10m using standard units e Spans
+e convert units of length within the range range 1-100 e Estimating distances up to e Paces
+e perform operations involving length e Conversion of units of 1m using non-standard units |e Bricks
+length: ¢ Giving equivalent to units of |e Technological tools
+-Millimetres to lengths
+centimetres
+-Centimetres to metres
+Shapes e name plane and solid shapes e Plane and solid shapes | ¢ Naming plane shapes e Technological tools
+
+41
+
+
+
+--- Page 42 ---
+describe properties of plane and solid
+shapes
+name polygons of up to 5 sides
+
+e Polygons up to 5 sides
+squares, rectangles,
+triangles, kite,
+pentagon
+
+e Solid shapes cube,
+
+rectangular prism, cone,
+cylinder and sphere
+
+e Properties of solid
+
+shapes
+
+e Construction of solid
+
+shapes
+
+e Naming solid shapes
+e Describing properties of
+
+plane and solid shapes
+
+e Identifying polygons
+
+Drawing heritage artefacts
+such as huts, winnowing
+baskets and patterns to
+illustrate uses of plane and
+solid shapes in real life
+situations
+
+Educational tours to heritage
+sites
+
+Charcoal
+
+Plane and solid shapes
+Objects in the immediate
+environment (including
+the natural environment)
+Pictures
+
+Perimeter e calculate perimeter of plane shapes e Perimeter (up to 5 Finding perimeter of shapes |e Rectangular shapes
+sides) squares, by measuring e Square shapes
+rectangles, triangles, Calculating perimeter of e ICT tools
+kite, pentagon plane shapes
+
+Deducing the formulae for
+calculating perimeter of
+plane shapes to come up to:
+- Perimeter of rectangle
+= 2(Length + Width)
+- Perimeter of square = 4
+x Side
+Rate e relate two quantities as rate Rate of two measures Linking two measures e Bills
+correctly to express rate e Meter readings
+such as kilometres per hour |e Speedometers
+Applying rate to measures e Technological tools
+such as mass, time and
+volume
+Applying the concept of rate
+in real life situations
+Area e estimate the area of square, rectangle e Area: standard and non Estimating the area of plane e Metre rules
+and triangle using non-standard units -standard units shapes by counting squares e Metre sticks
+e calculate area of square, rectangle and (rectangle, square and Deducing the formulae for e Tape measure
+triangle using formulae triangle) calculating area of squares, e Technological tools
+rectangles and triangles to e Pictures of plane
+come up to:: shapes
+- Area of square = Side x e Objects in the
+Side environment
+
+- Area of rectangle =
+Length x Width
+- Area of Triangle =
+
+42
+
+
+
+--- Page 43 ---
+1Base x Height
+e Finding area of plane
+shapes using formulae
+e Solving life problems
+involving area
+Volume and e calculate volume of cube and cuboid e Volume and capacity: e Estimating the volume of e Cubes
+capacity cube and cuboid cube and cuboid e Cuboids
+e Deriving and using the e Sand
+formulae to calculate the e Water
+volume of cube and cuboid |e ICT tools
+e Computing the volume of
+cube and cuboid
+e Experimenting to prove that
+Icom? = Iml
+Direction, angles |e identify the eight cardinal points e Direction (8 cardinal e Identifying the cardinal Compasses
+and lines e locate positions using cardinal points points) points e Diagrams showing
+e identify horizontal and vertical lines e Angles and lines e Establishing that the sun directions
+e illustrate quarter, half, three quarter and | ¢ Revolution rises from the east and sets |e Charts with angles
+complete revolution using a circle in the west e Compass points
+e Locating positions of objects | e Computers
+using cardinal points e Smart phones
+e Sketching horizontal and e Projectors
+vertical lines e Smart boards
+e Illustrating quarter, half,
+three quarter and complete
+revolution using a circle
+e Identifying the relative
+positions of things and
+places located within the
+local environment using
+cardinal points
+8.3.4 TOPIC: RELATIONSHIPS
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES AND SUGGESTED
+Pupils should be able to: (Skills, attitudes, and ACTIVITIES RESOURCES
+knowledge)
+e Data handling e collect statistical data e Tables e Interpreting data from various e Print media
+e read and interpret data from: e Bar graphs sources e Timetable
+- Tables e Column graphs e Collecting data from the community e Charts
+- Bar graphs e Ready reckoners in groups, for example demographic e Graphs
+
+43
+
+
+
+--- Page 44 ---
+Column graphs
+Ready reckoners
+Pie charts
+Pictographs
+
+Pie charts
+Pictographs
+
+data, access to health facilities
+Recording information collected
+using tables
+
+Solving life problems using
+information from statistical diagrams
+Educational tours to heritage sites to
+view rock paintings
+
+Electronic
+devices
+Rock paintings
+
+44
+
+
+
+--- Page 45 ---
+8.4 GRADE 6
+8.4.1 TOPIC: NUMBER (0-1 000 000)
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES SUGGESTED RESOURCES
+Pupils should be able to: (Skills, attitudes, and AND ACTIVITIES
+knowledge)
+Whole numbers e read/sign numbers in words and e Numerals in words e Saying/signing numbers |e Abacuses
+(0—1 000 000) numerals e Number notation in words and numerals e Number lines
+e write numbers in words and e Place value e Writing numbers in e 50 square grids
+numerals e Ordinal numbers words or numerals e Work cards
+e express numbers in expanded e Number sequence e Expressing numeralsin |e Calculators
+notation/form e Prime numbers expanded notation e ICT tools
+e count in ascending and descending e Counting numbers in
+order descending and
+e arrange numbers in order of ascending order
+magnitude e Arranging sets of
+
+e give values of digits in a number
+
+e write ordinal numbers up to
+hundredth
+
+e use ordinal numbers in ranking
+and positioning
+
+e write ordinal numbers in words
+and numerals
+
+e write number sequences
+
+e identify prime numbers
+
+numbers in order of
+magnitude
+
+e Identifying values of
+digits in any number
+such as 4 562: where
+digit 5 is five hundred
+
+e Sequencing numbers in
+order of size
+
+e Designing number
+sequences
+
+e Listing prime numbers
+between 0-50
+
+e Consolidating of ideas
+using calculators and
+smart phones
+
+e® approximate numbers
+compare numbers
+
+e Approximation/estimation
+(to the nearest 10, 100,
+1 000, 10 000 and
+100 000)
+
+e Comparison
+
+Estimating numbers to
+the nearest 10, 100,
+1 000, 10 000 and
+100 000
+
+e apply approximation
+
+Number line strips
+Number cards
+
+45
+
+
+
+--- Page 46 ---
+read/sign Roman numerals
+
+convert Roman numerals to Arabic
+numerals within the range and vice
+versa
+
+e Numeration system
+(Arabic: 1-50 and Roman
+Numerals: I to L or vice
+versa)
+
+e Conversion
+
+in life situations
+
+Comparing two
+
+numbers by using <, >
+
+and = signs
+Stating Roman
+numerals, I to L
+Reading/Signing Roman
+numerals, I to L
+Expressing Arabic
+numerals to Roman
+numerals within the
+range 1-50 and vice
+versa
+
+Number cards
+Conversation charts
+
+Clock faces with Roman and
+
+Arabic numerals.
+
+e Proper identify proper fractions with e Numeration Stating/signing e Fraction charts
+Fractions denominators in the given range e Comparison fractions innumerals je Number cards
+(denominators read/sign fractions with denominators | e Equivalence Writing fractions e Number line
+2 to 10 and in the given range numerals e ICT tools
+multiples of 5 write fractions with denominators in Recognising,
+up to 50) the given range interpreting and using
+
+compare fractions diagrammatic
+arrange fractions in order of size representation of
+write fractions in their equivalent proper fractions with
+forms denominators in the
+reduce fractions to their lowest terms range
+Presenting fractions in
+equivalent form
+2 1
+6 3
+Comparing two proper
+fractions using <, > and
+= signs
+Arranging proper
+fractions in order of
+size
+Mixed Numbers read/sign mixed numbers e Numeration Saying/signing mixed |e Mixed number charts
+(with write mixed numbers e Conversion numbers e Number lines
+
+denominators 2 to
+10)
+
+convert mixed numbers to improper
+fractions and vice versa
+
+compare mixed numbers
+
+solve problems involving mixed
+numbers
+
+e Comparison
+
+Writing mixed numbers
+Comparing two mixed
+numbers using <, > and
+= signs
+
+Changing mixed
+
+ICT tools
+
+46
+
+
+
+--- Page 47 ---
+numbers to improper
+fractions and vice versa
+
+Decimals (up to
+three decimal
+places)
+
+identify decimal numbers
+
+read/sign decimal numbers
+
+write decimals
+
+find the value of a digit in a decimal
+compare decimal numbers
+
+arrange decimal numbers in order of
+size
+
+round off decimal numbers to a
+degree of accuracy
+
+Numeration
+Place value
+Comparison
+Sequencing
+Estimation and
+approximation
+
+Stating any number
+expressed in decimal
+form up to three
+decimal places
+Reading/signing any
+number expressed in
+decimal form up to
+three decimal places
+Writing decimals in
+numerals up to three
+decimal places
+Writing decimal
+numbers in expanded
+notation to determine
+place value
+Comparing decimal
+numbers using <, > and
+= signs
+
+Grouping decimal
+numbers in order of
+magnitude
+
+Rounding off decimal
+numbers and measures
+to the nearest unit,
+tenth and hundredth
+
+Number strips
+
+Abacuses
+
+Fraction charts
+
+Equivalent fractions charts
+ICT tools
+
+Percentages
+
+e express fractions as percentages
+and vice versa
+e represent percentages on diagrams
+
+e Conversion
+e Illustration
+
+Converting percentages
+to fractions and vice
+versa
+
+Identifying percentages
+from diagrammatic
+representations and
+numerals
+
+Writing percentages
+from diagrammatic
+representations and
+numerals
+
+Applying percentages
+in life
+
+100 square grids
+
+Number lines graduated up
+to 100
+
+Metre rules
+
+Calculators
+
+47
+
+
+
+--- Page 48 ---
+8.4.2 TOPIC 2: OPERATIONS (0 — 1 000 000)
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES AND | SUGGESTED
+Pupils should be able to: (Skills, attitudes, and ACTIVITIES RESOURCES
+knowledge)
+Addition of whole add whole numbers whose sum is e Addition of whole Finding the sum of whole |e Work cards
+numbers less than or equal to 1 000 000 numbers whose sum is numbers mentally e Abacuses
+(0 — 1 000 000) apply associative and commutative less than or equal to Adding whole numbers e Number line strips
+laws to addition of whole numbers 1 000 000 which require carrying up |e Counters
+
+to three times
+
+Using the commutative
+and associative laws
+where applicable
+
+Subtraction of whole
+numbers
+(0 — 1 000 000)
+
+subtract whole numbers involving
+one to three equal additions
+
+e Subtraction of whole
+numbers
+
+Subtracting whole
+numbers within the range
+Computing subtraction of
+numbers involving one to
+three equal additions
+Using indigenous games
+in subtraction
+
+e Abacuses
+e Work cards
+e Number line strips
+
+fractions (with same
+
+denominators
+
+fractions with same or
+
+with same denominators
+
+e HCF of two find the HCF of two numbers e Highest Common Factor Listing factors of given e Work cards
+numbers (where (where the HCF is less than 10) (HCF) and Lowest numbers e Counters
+the HCF is less Common Multiple Deducing HCF of up to two
+than 10) calculate LCM of two numbers (LCM) numbers
+(where the LCM is less than 100) Calculating LCM of two
+e LCM of two numbers
+numbers (where
+the LCM is less
+than 100)
+Addition of proper add proper fractions with same e Addition of proper Summing up fractions e Equivalent fractions
+
+charts
+
+or different add proper fractions with different different denominators of 2 to 10 and multiples e Blocks
+denominators of 2 to denominators of 2 to 10 and multiples of 5 up to 50 e Counters
+10 and multiples of 5 of 5 up to 50 Finding the total of e Rods
+up to 50) fractions with different
+denominators of 2 to 10
+and multiples of 5 up to
+50
+Subtraction of proper subtract proper fractions with same |e Subtraction of fractions Subtracting proper e Equivalent fractions
+
+fractions (with same
+
+denominators of 2 to 10 and
+
+with same and different
+
+fractions within the range
+
+charts
+
+48
+
+
+
+--- Page 49 ---
+and different multiples of 5 up to 50 denominators of 2 to 10 e Blocks
+denominators of 2 to subtract proper fractions with and multiples of 5 up to e Counters
+10 and multiples of 5 different denominators of 2 to 10 50 e Rods
+up to 50) and multiples of 5 up to 50
+Addition of decimals add decimals up to three decimal e Addition of decimals Identifying place values e Abacuses
+(up to three decimal places (up to three decimal e Adding decimals up to 6 e Work cards
+places) places) digits and up to 2 decimal
+
+places
+Subtraction of subtract decimals up to three e Subtraction of decimals Subtracting decimals up to |e Abacuses
+decimals (up to three decimal places (up to three decimal 6 digits and up to 2 decimal |e Work cards
+decimal places) places) places e Number lines
+
+Solving life problems
+involving subtraction of
+decimals (measures)
+
+Multiplication of demonstrate an understanding of e Multiplication of whole Multiplying numbers up Work cards
+whole numbers basic multiplication facts numbers (whose product to 12 x 12 including Counters
+(whose product is multiply numbers by up to two digit is less than 10 000) product values of 0 Multiplication dials
+less than 10 000) numbers Multiplying whole
+illustrate multiplication using the numbers by two digit
+short and long method multipliers with or
+without carrying
+Devising ways of
+multiplying using the
+short and long method
+e Division of whole demonstrate division using long e Division of whole Devising ways of dividing Tables,
+numbers by two method numbers whose whole numbers where the Counters
+
+digit numbers
+
+carry out division by two digit
+divisor with or without remainders
+
+dividend is less or equal
+to 10 000
+
+dividend is less or equal to
+10 000
+
+Dividing by two digit
+number e.g.
+
+4 890 + 15 = 326
+Finding solutions to
+problems involving
+division by 2 digit
+numbers with remainders
+e.g.
+
+8 562 +20 =428 r2
+
+Multiplication of
+proper fractions with
+denominators from 2
+
+e multiply proper fractions by up
+to 4 digit whole numbers
+e conduct multiplication of proper
+
+e Multiplication of proper
+fractions (with
+denominators from 2 to
+
+Multiplying proper
+fractions by whole
+numbers
+
+Number line strips
+Fractions chart
+
+49
+
+
+
+--- Page 50 ---
+to 10 fraction by proper fraction 10 e Multiplying proper
+
+Multiplication of proper fractions by proper
+
+fractions with fractions
+
+denominators from 2 to
+
+10 by proper fractions
+Multiplication of multiply decimals by decimals Multiplication of decimal | e carrying multiplication of |e Abacuses
+decimal numbers numbers up to 2 decimal places numbers up to 2 decimal decimals by decimals up to |e Work cards
+
+places (where the
+multiplicand is a3 digit
+number of up to 2
+decimal places and the
+multiplier is a 2 digit
+number of up to 1
+decimal place)
+
+2 decimal places for
+example 1,23x2,2=2,706
+
+e Flash cards
+
+Division of decimal
+numbers (up to 2
+
+divide decimal numbers by numbers
+up to 2 decimal places
+
+Division of decimal
+numbers by decimals up
+
+e Dividing decimals by
+decimal numbers up to 2
+
+Abacuses
+
+e Work cards
+
+decimal places) to 2 decimal places decimal places e Flash cards
+e Dividing decimal numbers
+up to 2 decimal places
+using the long method
+Combined operations work out mathematical problems Combined operations (up | e Conducting addition and |e Work cards
+(up to 2 operations) involving 2 operations to 2 operations) subtraction in the same e Counters
+
+problem using the rule of
+
+precedence
+e Multiplying and dividing
+using the rule of
+precedence
+NB use law of precedence
+that is multiplication and
+division are carried out
+before addition and
+subtraction
+
+50
+
+
+
+--- Page 51 ---
+8.4.3 TOPIC 3: MEASURES
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES AND SUGGESTED
+Pupils should be able to: (Skills, attitudes, and ACTIVITIES RESOURCES
+knowledge)
+Money e Work out change e Notes and coins up to | e Visiting shops and noting prices Invoices
+e Prepare invoices correctly $200 e Preparing invoices Corner store/shops
+e Calculate profit or loss Conversions e Calculating change Money
+e Financial e Comparing the buying price and Charts on buying
+transactions the selling price to determine the and selling
+profit or loss Receipts
+e Finding the profit or loss using the Models of tills
+buying price and the selling price ICT tools
+e Role playing on buying and selling
+e Discussing the importance of profit
+and loss in real life situations
+Time * tell time Time units e Applying units of time in Charts on units of
+* convert time 12 hour and 24 hour relevant contexts: century, time
+* estimate time taken notation decade, leap year, month, Watches
+* calculate time taken e Standard week, day, hour, minute and Calendars
+* write time in 12 hour and 24 international (SI) second Clock faces
+hour notation notation e Relating time calculations to digital clock
+* express date in SI notation practical situations such as Sun-dials
+
+finding duration of time
+e Telling the number of days in
+each month
+e Using the following
+conversions:
+- 60minutes = 1 hour
+- 24 hours = 1 day
+- 7 days = 1 week
+- 3654 days = 1 ordinary
+year
+- 366days =
+1 leap year
+- 10 years = 1 decade
+- 100 years = 1 century
+Telling and writing time in SI
+
+51
+
+
+
+--- Page 52 ---
+notation
+¢ Writing date in SI notation for
+
+example yyyy/mm/dd
+2016/05/01
+Mass (up to e measure mass e Measurement of mass | e Measuring masses of different e Objects
+1 000kg ) e calculate gross, net and tare e Gross, net and tare quantities e Measuring scales
+mass mass e Calculating gross, net and tare mass |e ICT gadgets
+e convert grammes to e Conversion of mass e Establishing that e Balances
+kilogrammes and vice-versa up to | 000kg 1 000g = Ikg e Empty containers
+e compare mass of objects e Comparison of mass e Comparing masses using heavy
+e approximate mass up to | 000kg and light
+e Comparing masses using <; =; >
+Application of mass in life
+situations
+Length e estimate length using non-standard e Length: (standard e Identifying units of measuring e 30cm rules
+(standard and units and non-standard length e Imrules
+
+non-standard
+
+e measure length using standard units
+
+units up to 1 000m)
+
+Estimating distances up to 1m using
+
+e Calibrated ropes and
+
+units up to 1 e perform operations involving length non-standard units strings
+000m) e Measuring distances up to 10m e Spans
+using standard units e Paces
+e Solving problems involving length |e Bricks
+e Technological tools
+Shapes e determine lines of symmetry Shapes: symmetry e Illustrating lines of symmetry e Technological tools
+e draw lines of symmetry Geometrical parts of | ¢ Drawing lines of symmetry e Charts showing parts of a
+e state lines of symmetry a circle: e Drawing the circle showing its parts circle
+e state parts of a circle -centre e Describing parts of a circle e Plane shapes
+e name polygons up to 10 sides -diameter e Objects in the immediate
+-circumference environment (including
+-radius the natural environment)
+-chord e Pictures
+-arc
+
+-semi-circle
+e Polygons up to 10
+sides
+
+Letters of the alphabet
+
+Perimeter of
+plane shapes (up
+to 10 sides)
+
+e measure the distance around a shape
+e calculate perimeter of shapes
+
+e Perimeter of plane
+shapes (up to 10 sides)
+
+52
+
+Finding perimeter of shapes by: a)
+Measuring
+b) By adding the sides
+c) Using the formulae:
+- Perimeter of rectangle =
+2(Length + Width) and
+Perimeter of Square = 4 x Side
+
+Rectangular shapes
+Square shapes
+
+ICT tools
+
+Rulers
+
+Tape measures
+Click wheel
+
+Local environment
+
+
+
+--- Page 53 ---
+Measuring furniture
+Measuring boundaries in their
+local communities including
+
+volume
+
+Irregular objects
+
+the sports grounds
+e Solving problems involving
+perimeter
+Rate identify measurements of rate Rate: linking two e Identifying measurements of rate e Bills
+e calculate different types of rate quantities Linking two measures correctly to |e Meters
+Use of the formula express rate (km/hr, m/s) e Speedometers
+suchas S=2 Discussing rates in life situations e ICT tools
+r such as comparing speed of a e Braille material
+D=DxT person, car and aeroplane.
+
+Area e estimate the area of square, Area: rectangle, Estimating the area of plane shapes e Metre rules
+rectangle, triangle and composite square, triangle and by counting squares e Metre sticks
+shapes composite shapes Applying the formulae: e Tape measure
+
+e calculate area of square, rectangle, made up of either - Area of square = Side x Side e ICT tools
+composite shapes and triangle using rectangles, squares, - Area of rectangle = Length x e Pictures of plane
+formulae triangles Width shapes
+
+- Area of Triangle e Objects in the
+= ~ base x height environment
+_ basexheight
+2
+e Finding area of plane shapes
+using formulae
+e Solving life problems
+involving area
+e NB: Area is measured in
+square units
+
+Volume and e calculate volume of regular objects Volume and capacity: Stating and using the following e Cubes
+
+capacity e determine volume of irregular regular and irregular conversions: e Rectangular prisms
+objects by displacement shapes - 1000ml = Ilitre e Sand
+
+e Calculation of volume Selecting appropriate unit to e Water
+e Displacement measure volume e Containers
+Applying the appropriate unit of e ICT tools
+e
+e
+
+Applying and using the formula: L
+
+Measuring cylinders
+
+53
+
+
+
+--- Page 54 ---
+x W x H for rectangular prisms
+Finding volume of irregular objects
+by displacement
+
+Solving life problems involving
+volume and capacity
+
+NB: Volume is measured in cubic
+units (cm*/ m°)
+
+Direction, angles identify the eight cardinal points e Direction, angles and Identifying the cardinal points e Compasses
+and lines locate positions using cardinal lines e Locating positions of objects using |e Diagrams showing
+points e Cardinal points cardinal points directions
+identify horizontal, vertical and/ Sketching horizontal, vertical lines |e Charts with angles
+perpendicular lines and perpendicular lines e Compass points
+illustrate quarter, half, three quarter Illustrating quarter, half, three e ICT tools
+and complete revolution using a quarters and complete revolution e Bicycle rims
+circle using a circle e Tyres
+Identifying the relative positions of |e Protractors
+things and places located within the
+local environment using cardinal
+points
+8.4.4 TOPIC: RELATIONSHIPS
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES SUGGESTED RESOURCES
+Pupils should be able to: (Skills, attitudes, and AND ACTIVITIES
+knowledge)
+
+54
+
+
+
+--- Page 55 ---
+Data handling
+
+collect statistical data
+read and interpret statistical
+data on ready reckoners such
+as:
+
+- Tables
+
+- Bar graphs
+
+- Column graphs
+
+- Pie charts
+
+- Pictographs
+solve problems on measures
+using different graphs
+
+Ready reckoners
+
+e Tables
+
+e Bar graphs
+
+e Column graphs
+e Pie charts
+
+e Pictographs
+
+Collecting data from
+the community in
+groups, for example
+demographic data,
+access to health
+facilities
+
+Interpreting data from
+various sources
+Recording information
+collected using tables
+Answering questions
+using ready reckoners
+Solving life problems
+using information from
+statistical diagrams
+Researching on topical
+issues within their
+communities
+Educational tours to
+heritage sites to
+observe rock paintings
+
+Print media
+Timetables
+
+Charts
+
+Graphs
+
+Electronic devices
+Rock paintings
+Distance tables
+Graph papers
+Fare tables
+
+55
+
+
+
+--- Page 56 ---
+8.5 GRADE 7
+8.5.1 TOPIC: NUMBER (0—10 000 000)
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES SUGGESTED RESOURCES
+Pupils should be able to: (Skills, attitudes, and AND ACTIVITIES
+knowledge)
+Whole numbers e read/sign numbers in words and |e Numerals in words e Saying/signing numbers e Abacuses
+(0-10 000 000) numerals e Number notations in words and numerals in |e Number cards
+e write numbers in words and e Place value the range e Seeds/counters
+numerals e Ordinal numbers e Writing numbers in words |e Maize cobs
+e express numbers in expanded e Number sequence or numerals in the range [|e Trees in a school plantation
+notation/form e Prime numbers (0-100) | ® Finding the place value of | * Number line charts
+¢ count in ascending and a digit in a number e Vegetables in the school
+
+descending order
+
+e arrange numbers in order of
+magnitude
+give values of digits in a number
+write ordinal numbers up to
+hundredth
+
+e use ordinal numbers in ranking
+and positioning
+
+e write ordinal numbers in words
+and numerals
+write number sequences
+identify prime numbers in the
+range 0 to 100
+
+e find prime factors of numbers in
+the range 0 — 100
+
+e approximate numbers
+compare numbers
+
+e Approximation/estimation
+(nearest 10, 100, 1 000,
+10 000, 100 000 and 1
+000 000)
+
+e Identifying place value of
+
+digits of numbers
+represented on an abacus
+
+e Writing numbers in
+expanded index notation
+such as
+23 574=(2x 10°)+(3x
+10°) + (5x 10°) +(7x
+10')+ (4x 10°)
+
+e Group numbers in
+ascending or descending
+order
+
+e Comparing numbers
+using <, > and = signs
+
+e Listing prime numbers in
+
+the range 0 to 100
+e Finding prime factors of
+
+numbers in the range 0 to
+
+100
+e Expressing numbers to
+the nearest 10, 100, 1
+
+000, 10 000, 100 000 and
+
+1 000 000
+
+garden
+100- square grids
+ICT tools.
+
+Number line strips
+Number cards
+
+56
+
+
+
+--- Page 57 ---
+Comparison
+
+compare numbers using
+comparison signs
+
+apply approximation in
+life situations
+
+e convert Roman numerals to Arabic | ¢ Roman and Arabic e Matching Roman and e Clock faces with Roman
+numerals within the range and vice numerals (I to L and 1- Arabic numerals in the and Arabic numerals,
+versa 50) range I to L number line charts, number
+e Conversion e Working with Roman cards in Roman and Arabic
+numeral symbols to numerals, group work cards
+construct numbers up to and ICT tools.
+50
+e Changing from Roman to
+Arabic numerals and vice
+versa
+e Proper e identify proper fractions with e Numeration e Stating/signing fractions |e Fraction charts
+Fractions denominators in the given range e Comparison in numerals e Number line charts
+(denominators | e  read/sign fractions with e Conversion e Writing fractions in e Diagrams to represent
+2 to 10 and denominators in the given range e Lowest terms numerals proper fraction
+multiples of 5 e write fractions with denominators in e Using diagrams to e Equivalency and conversion
+up to 100) the given range represent proper fractions charts
+e compare fractions and arrange them with denominators inthe |e ICT tools
+in order of size range
+e interpret diagrams representing e Distinguishing proper
+proper fractions fractions using <, > and =
+e arrange proper fractions in order of signs
+size e Arranging proper
+e convert proper fractions to decimals fractions in order of size
+e simplify proper fractions to their e Expressing proper
+lowest terms fractions to decimals and
+vice- versa
+e Reducing proper fractions
+to their lowest terms
+Mixed Numbers e identify mixed numbers e Numeration e Reading /signing mixed |e Number line strip
+(denominators are | e read/sign mixed numbers e Conversion numbers e Fractions charts
+2 to 10) ® write mixed numbers e Mixed numbers Writing mixed numbers e Conversion charts
+e represent mixed numbers on e Improper fractions e Recognising diagrams e ICT tools
+diagrams and vice- versa representing mixed
+e numbers
+
+identify whole number and fraction
+parts of a mixed number
+
+write mixed numbers as improper
+fractions
+
+write mixed numbers as decimals
+
+Stating whole numbers
+and fractions in mixed
+numbers
+
+Converting mixed
+
+57
+
+
+
+--- Page 58 ---
+numbers to improper
+fractions and vice - versa
+Expressing mixed
+numbers as decimals and
+vice- versa
+
+Decimals (up to e identify decimal numbers e Numeration Stating any number e Number strips
+three decimal e read/sign decimal numbers e Place value expressed in decimal e Abacuses
+places) e write decimal numbers e Expanded notation form up to three decimal |e Equivalent fractions charts
+e find the place value of digits in e Estimation places e ICT tools
+decimals e Comparisons (<,>,=) Reading/signing any
+e write decimal numbers in expanded number expressed in
+notation decimal form up to three
+¢ compare decimal fractions decimal places
+round off decimal numbers to the Writing decimals in
+nearest unit, tenth and hundredth numerals up to three
+decimal places
+Giving the value of a
+digit in a decimal number
+with three decimal places
+Expressing decimal
+numbers in expanded
+notation
+Arranging decimal
+numbers in order of size
+Comparing decimal
+numbers using <, > and =
+signs
+Approximating decimal
+numbers to the nearest
+unit, tenth and hundredth
+Percentages e identify percentages e Numeration Saying/signing, e Fraction charts
+e read percentages e Conversion percentages e Conversion charts
+e write percentages Reading percentages e 100- square grids
+e express fractions as percentages Expressing fractions as e Calculators
+and vice versa percentages and vice e ICT tools
+
+versa
+Converting quantities to
+percentages
+
+Discussing the
+importance of
+percentages in life
+
+58
+
+
+
+--- Page 59 ---
+8.3.2 TOPIC 2: OPERATIONS
+
+SUB TOPIC
+
+OBJECTIVES
+Pupils should be able to:
+
+CONTENT
+
+(Skills, attitudes, and
+knowledge)
+
+SUGGESTED NOTES
+AND ACTIVITIES
+
+SUGGESTED RESOURCES
+
+e Addition of
+whole numbers
+(less than or
+equal to
+
+10 000 000)
+
+e add whole numbers less than or equal
+to 10 000 000
+
+e use associative and commutative law
+in adding whole numbers
+
+e Addition of whole
+numbers whose sum is
+less than or equal to 10
+000 000
+
+e Finding the sum of
+whole numbers
+mentally
+
+e Adding whole
+numbers which
+require carrying up to
+three times
+
+e Using the
+commutative
+3+4=4+3=7 and
+associative laws for
+example
+
+(3+4)+2= 3+(4+2)=9
+
+e Work cards
+e Abacuses
+e Number line strips
+
+e Counters
+
+Subtraction of
+whole numbers (0
+— 10 000 000)
+
+e subtract whole numbers within the
+range
+
+e Subtraction of whole
+numbers (0 — 10 000
+000)
+
+e Finding differences
+between whole
+numbers within the
+range
+
+e Solving life problems
+involving subtraction
+
+e Abacuses
+e Work cards
+e Number line strips
+
+e Place value charts
+
+Multiplication of
+whole numbers
+(whose product is
+less than 100 000)
+
+e illustrate multiplication using the
+long and short methods
+
+e multiply numbers by up to three digit
+numbers
+
+e Multiplication of whole
+numbers (whose product
+is less than 100 000)
+
+e Multiplying whole
+numbers in the range
+
+e Multiplying whole
+numbers by two or
+three digit multipliers
+
+e Work cards
+e Counters
+
+e Multiplication dials
+
+59
+
+
+
+--- Page 60 ---
+with or without
+
+carrying
+e Division of e Divide whole numbers by three digit Division of whole Dividing whole e Counters
+whole numbers numbers numbers whose dividend numbers where the
+e Calculators
+
+(whose
+dividend is less
+or equal to 100
+
+is less or equal to 100
+000
+
+dividend is not more
+than 100 000
+
+000 Dividing by two digit
+number
+Multiplication of |e multiply any two proper fractions Multiplication of proper Multiplying fractions | ¢ Number line strips
+proper fractions with denominators from 2 to 10 fractions with within the range ;
+and mixed , , denominators from 2 to e Fraction charts
+numbers e multiply any two mixed numbers 10 Computing
+with denominators from 2 to 10 multiplication of
+Multiplication of mixed mixed numbers
+numbers with
+denominators from 2 to
+10
+e Highest e listing factors and multiples of given Highest Common Factor Listing factors of e Work cards
+Common numbers (HCF) of two numbers given numbers
+Factor (HCF) . . * Counters
+of two e find the HCF of two numbers (where Lowest Common Identify multiples of
+the HCF is less than 20) Multiple (LCM) of two numbers
+numbers
+numbers .
+(where the e calculate LCM of two numbers Deducing HCF of up
+HCF is less (where the LCM is less than 100) to two numbers from
+than 20) listed factors
+e Lowest Calculating LCM of
+Common two numbers
+Multiple
+(LCM) of two
+numbers
+(where the
+LCM is less
+than 100)
+e Addition of e add proper fractions with same Addition of proper Adding proper e Equivalent fractions charts
+
+60
+
+
+
+--- Page 61 ---
+proper
+fractions
+
+e Addition of
+mixed numbers
+
+denominators
+
+add proper fractions with different
+denominators
+
+carry out addition of mixed numbers
+
+use the associative and commutative
+laws to add proper fractions
+
+fractions with same
+denominators of 2 to 10
+and multiples of 5 up to
+100
+
+e Addition of proper
+fractions with different
+denominators of 2 to 10
+and multiples of 5 up to
+100
+
+e Addition of mixed
+numbers
+
+fractions with same
+denominators
+
+Finding the total of
+proper fractions with
+different denominators
+of 2 to 10 and
+multiples of 5 up to
+100
+
+Adding mixed
+numbers
+
+Demonstrating
+associativity and
+commutativity in the
+addition of fractions
+and mixed numbers
+
+Blocks
+Counters
+
+Rods
+
+e Subtraction of subtract proper fractions with same e Subtraction of proper Subtracting proper e Equivalent fractions charts
+proper denominators fractions with same fractions with same Block
+fractions b fracti th denominators of 2 to 10 denominators ° OCKS
+
+© Subtraction of su tract proper actions wit and multiples of 5 up to © Counters
+
+. different denominators Subtracting fractions
+mixed numbers 100 a
+b ; fmixed with different e Rods
+ne out subtraction of mixe e Subtraction of fractions denominators of 2 to
+numbers with different 10 and multiples of 5
+denominators of 2 to 10 up to 100
+and multiples of 5 up to . .
+100 Subtracting mixed
+numbers
+e Subtraction of mixed
+numbers
+
+Addition of add decimals up to three decimal e Addition of decimals up Finding the sum of e Abacuses
+
+decimals up to places to three decimal places decimals k card
+
+three decimal ; ; ° Work cards
+places Adding decimals up to
+
+6 digits and up to 3
+
+decimal places
+Subtraction of subtract decimals up to three decimal | Subtraction of decimals up Subtracting decimals |e Abacuses
+
+61
+
+
+
+--- Page 62 ---
+decimals up to
+three decimal
+
+places
+
+to three decimal places
+
+up to 6 digits and up to
+3 decimal places
+
+Work cards
+
+Number lines
+
+places ar
+Solving life problems
+involving subtraction
+of decimals.
+Multiplication of multiply decimal numbers up to 3 Multiplication of decimal Multiplying decimals Abacuses
+decimal numbers decimal places numbers up to 3 decimal up to 3 decimal places
+places (where the Work cards
+multiplicand is a 3 digit Flash cards
+number of up to 2 decimal
+places and the multiplier is a
+2 digit number of up to 1
+decimal place)
+Division of divide decimal numbers by decimal _| Division of decimal Dividing decimals by Abacuses
+decimal numbers numbers up to 3 decimal places numbers by decimals up to 3 decimal numbers up to
+by decimals (up to decimal places 3 decimal places Work cards
+3 decimal places) Dividing decimal Flash cards
+numbers up to 3
+decimal places using
+the long method
+Combined solve up to 3 combined operations Combined operations (up to Carrying out up to 3 Work cards
+operations (up to 3 using the law of precedence 3 operations) combined operations
+operations) involving addition, Counters
+
+subtraction,
+multiplication and
+division
+
+Solving life problems
+
+involving combined
+operations
+
+NB use law of
+precedence that is
+multiplication and
+division are carried
+out before addition
+and subtraction
+
+62
+
+
+
+--- Page 63 ---
+8.5.3. TOPIC 3: MEASURES
+
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES AND | SUGGESTED
+Pupils should be able to: (Skills, attitudes, and ACTIVITIES RESOURCES
+knowledge)
+Money e work out change e Notes and coins up to e Visiting shops and noting * Invoices
+e prepare invoices correctly $500 prices ¢ Corner store/shops
+e calculate profit or loss Conversions e Preparing invoices * Money
+e calculate exchange rate Financial transactions e Calculating change ° Charts on buying and
+e solve financial transactions -Banking transactions | e Finding exchange rate selling
+e prepare simple personal and -Hire purchase e Comparing the buying price * Receipts
+household budgets -Buying and selling and the selling price to * Models of tills
+(profit, loss, interest, determine the profit or loss * ICT tools”
+discount) e Finding the profit or loss * Deposit slips _
+using the buying price and * Withdrawal slips
+the selling price * Hire purchase
+e Interpreting statements of statements
+accounts which contain * Statements of
+details of withdrawals, accounts
+deposits, interest and
+balance
+e Role playing on buying and
+selling
+e Discussing the importance
+of profit and loss in real life
+situations
+e Drawing up simple
+household and personal
+budgets.
+Time * calculate time taken e Operations on time 24 e Relating time * Watches
+
+* express and write time in 12 and 24
+hour notation
+
+* write dates in Standard
+International (SI) notation
+
+¢ add and subtract time units
+
+hour and 12 hour
+notation
+
+e Standard International
+notation
+
+calculations to practical
+situations such as
+finding duration of
+time
+
+e Calculating the number
+of days in given
+months in either
+ordinary year or leap
+year
+
+¢ Increasing and
+decreasing time units
+
+¢ Digital clock
+
+¢ Calendars
+
+¢ 12 and 24 hour Clock
+faces
+
+¢« Sun-dials
+
+63
+
+
+
+--- Page 64 ---
+¢ Writing dates in SI
+notation, such as:
+
+2024 — 09 - 22
+Mass (up to 1 e change grammes to kilogrammes e Conversion of massup |e Changing one unit of e Objects
+000kg ) and vice-versa to 1 000kg measurement to another e Measuring scales
+e measure mass of quantities to the e Rounding off of mass such as grammes, e ICT tools
+nearest 1 000kg e Gross, net and tare mass kilogrammes, tonnes and e Balances
+e solve problems involving gross, net vice-versa e Empty containers
+and tare mass e Determining the mass of
+quantities to the nearest 1
+000kg
+
+e Differentiating the terms
+net, tare and gross mass
+
+e Solving problems involving
+gross, net and tare mass
+
+e Discussing the importance
+of mass in real life situations
+
+Length e measure length using standard units e Measurement of e Measuring distances up to e 30cm rules
+(standard units up |e find length and distance in metres and length using 1km using standard units e Imrules
+to a kilometre) kilometres standard units up to | e Solving problems involving |e ICT tools
+a kilometre length in real life situations e Tape measure
+Shapes e identify 2 and 3 dimensional shapes e Shapes: 2 and 3 e Classifying and naming 2 e 2 and 3 dimensional
+2 and 3 e list properties of 2 and 3 dimensional dimensional and 3 dimensional shapes shapes
+dimensional shapes e Parts of a circle: e Naming the properties of 2. |e Physical structures of
+e construct models of 3 dimensional -centre and 3 dimensional shapes plane and solid shapes and
+shapes -diameter e Making models of solid models
+e state parts of a circle -radius shapes e ICT tools
+-chord e Identifying a combination of |e Charts showing parts of a
+~are shapes in physical structures circle
+-semi-circle e Drawing the circle showing |e Objects in the immediate
+its parts environment (including
+the natural environment)
+e Pictures
+Perimeter of plane |e measure the distance around a shape e Perimeter of plane e Finding perimeter of shapes |e Rectangular shapes
+shapes (up to 10 e calculate perimeter of shapes shapes (up to 10 sides) by: a) Measuring e Square shapes
+sides) d) By adding the sides e ICT tools
+e) Using the formulae: e Rulers
+- Perimeter ofrectangle |, Tape measures
+= 2(Length + Width) | 6 Click wheel
+and Perimeter of e Local environment
+
+Square = 4 x Side
+e Measuring furniture
+
+64
+
+
+
+--- Page 65 ---
+e Measuring boundaries
+in their local
+communities including
+the sports grounds
+
+e Solving problems
+involving perimeter
+
+Rate e relate distance, speed and time e Rate: e Recording time taken to e Speedometers
+- Distance e calculate distance, speed and time - Distance cover stipulated distances e ICT tools
+- Speed e calculate different types of rate - Speed e Using formulae to calculate |e Pendulums
+- Time e apply rate to solve problems - Time speed, distance and time e Watches
+e Solving problems involving |e Click wheels
+rate
+e Area: identify units of area e Area: e Choosing appropriate units e Metre rules
+units of area e calculate area of square, rectangle and - units of area up for measuring area e Metre sticks
+up to a hectare triangle using formulae to a hectare e Finding area of square, e Tape measure
+e Area of: e calculate area of composite shapes e Area of: rectangle, triangle and e ICT tools
+calculate area in square metres, ares - rectangle, composite shapes using e Pictures of plane
+- rectangle, and hectares - square, units of measure shapes
+-square, - triangle, e Calculating area in square e Objects in the
+-triangle, - combined and metres, ares and hectares environment
+-combined irregular shapes e Garden
+-irregular e Field
+shapes e Plots
+e Tiles
+Volume and e state units of capacity and volume e Volume and capacity: up | e Relating and using the e Cubes
+capacity e use units of capacity and volume to a cubic metre following conversions: e Rectangular prisms
+e measure capacity and volume e Units of volume - 1000ml = Ilitre e Sand
+e compute volume up to a cubic metre e Calculation of volume - | 00cm" = llitre e Water
+- lem’ = Iml e Containers
+1m’ = 1000litres © ICT tools
+
+e Deriving and using the
+formula: (Volume =
+Base Area x Height)
+
+e Solving life problems
+involving volume and
+capacity
+
+Direction, angles
+and lines:
+including acute,
+obtuse, right,
+
+e show direction of points from a
+reference point
+e identify types of angles
+
+e Direction, angles and
+lines: including acute,
+obtuse, right, straight,
+
+Giving direction of points
+from a reference point
+Drawing and naming
+
+Geometrical instruments
+
+Clock faces
+Diagrams showing
+
+65
+
+
+
+--- Page 66 ---
+straight, reflex e name types of angles reflex angles and different types of angles directions
+angles and e calculate missing angles complete revolution e Deducing that interior e Lines on Charts with
+complete convert fractions of revolutions to angles of rectangles add up angles
+revolution degrees0 to four right angles (360 e Compass points
+degrees) and those of a e ICT tools
+triangle add up to 180 e Bicycle rims
+degrees. e Tyres
+e Dividing a square and a
+rectangle diagonally to
+make right angled triangles
+e Converting fractions of
+revolution to degrees
+8.5.4 TOPIC: RELATIONSHIPS
+SUB TOPIC OBJECTIVES CONTENT SUGGESTED NOTES SUGGESTED
+Pupils should be able to: (Skills, attitudes, and AND ACTIVITIES RESOURCES
+knowledge)
+
+e Data handling collect statistical data e Tables e Interpreting data from e Print media
+read and interpret data from e Bar graphs various sources e Timetables
+ready reckoners such as: e Column graphs e Collecting data from the e Charts
+
+- Tables e Pie charts community in groups, for e Graphs
+- Bar graphs e Jagged line graphs example demographic e Electronic devices
+- Column graphs e Pictographs data, data on access to e Rock paintings
+- Pie charts health facilities e Distance tables
+- Pictographs e Recording information e Graph papers
+- Jagged line graphs collected using tables e Fare tables
+e use statistical graphs in life e Solving life problems
+situations using information from
+
+statistical diagrams
+Researching on topical
+issues within their
+communities
+Educational tours to
+heritage sites to observe
+rock paintings
+
+NB: Conducting simple
+
+66
+
+
+
+--- Page 67 ---
+investigations involving
+statistical data from life
+situations such as
+population, examination
+results, health issues and
+historical events.
+
+67
+
+
+
+--- Page 68 ---
+9.0 ASSESSMENT SCHEME FOR THE HERITAGE-BASED JUNIOR MATHEMATICS SYLLABUS (GRADES 3 — 7)
+
+The assessment of the Heritage-Based Curriculum shall be done through both School Based Continuous Assessment (SBCA) and Summative
+Assessment (SA). These assessments shall be guided by the principles of practicability, authenticity, transparency, flexibility, validity, reliability and
+feedback. They are crucial for creating a supportive and effective learning environment that fosters growth and development in young learners. This
+
+section covers the assessment overview model, the assessment objectives, the scheme of assessment and the specifications for continuous assessment.
+
+9.1 Assessment Objectives
+Learners will be assessed on their ability to:
+
+9.1.1 recall mathematical terms
+9.1.2 recognise mathematical terms
+
+9.1.3 use mathematical terms, symbols and language
+
+9.1.4 estimate quantities and measures to a degree of accuracy
+9.1.5 calculate to the given degree of accuracy
+
+9.1.6 solve mathematical problems
+
+9.1.7 demonstrate problem solving abilities in mathematics
+
+9.1.8 apply mathematical concepts, skills and techniques in context
+
+9.1.9 explore mathematical ideas and come up with conclusions
+68
+
+
+--- Page 69 ---
+9.1.10 interpret ready reckoners, tables, pie charts and graphs
+
+9.1.11 analyse tables, charts, graphs and use them in conducting simple investigations
+
+9.2 Scheme of Assessment
+Grade 7 learners will be assessed using both Summative Assessment and School Based Continuous Assessment.
+
+NB: From grade 3 to 6, learners will do a school based project per grade per year which will contribute 20% to their end of year mark. Public
+examination candidates at Primary School level are expected to have completed 2 school based projects, one at grade 6 level and the other at grade 7
+
+level, which will contribute 20% to the final mark at grade 7.
+
+FORM OF ASSESSMENT WEIGHTING
+School Based Assessment 20%
+Summative Assessment 80%
+Total 100%
+
+9.3: School Based Project: Continuous Assessment Scheme
+
+Project Stage Completion Marks Project Mark
+Date (Year 1) by end of each stated Weight
+month below:
+Project One
+1 Problem Identification and its context February 5
+2 Possible methods of solving the problem March 10
+3 Selecting the most suitable method June 5
+4 Development of Ideas July 15
+5 Presentation of Results October 10
+6 Evaluation and Recommendations November 5
+TOTAL 50 10%
+Project Two (Year 2)
+1 Problem Identification and its context January 5
+2 Possible methods of solving the problem February 10
+3 Selecting the most suitable method March 5
+4 Development of Ideas June 15
+
+69
+
+
+--- Page 70 ---
+5 Presentation of Results July 10
+
+6 Evaluation and Recommendations July 5
+Total 50 10%
+Grand Total 100 20 %
+
+9.4 Summative Assessment (80%)
+
+Paper | Description Duration | Marks | Paper Weighting % | Weighting %
+1 40 Multiple Choice Questions _| 2 hours 40 50 80
+2 Structured Questions 2 hours 40 30
+
+Paper 1 (40 marks)
+
+There are 40 questions and Candidates are expected to answer all questions.
+
+Paper 2 (40 marks)
+Comprises sections A and B.
+Section A will consist approximately 10 structured questions. Candidates must answer all questions. The total for this section is 25 marks.
+
+Section B will consist of 6 structured questions worth 5 marks each. Candidates must choose and answer 3 questions. The total for this section is
+15 marks.
+
+9.5 Skills weighting
+
+Skill Weight %
+1 Knowledge and comprehension 40
+Application 30
+3 Analysis, evaluation and creativity 30
+
+70
+
+
+--- Page 71 ---
+9.6 Specification grid
+
+Paper 1
+
+Topic Skill 1 Skill 2 Skill 3 Total
+Number 5 3 3 11
+Operations 5 3 3 11
+Measures 4 3 3 10
+Relationships 4 2 2 8
+Total 18 11 11 40
+Paper 2
+
+Topic Skill 1 Skill 2 Skill 3 Total
+Section A
+
+Number 3 2 2 7
+Operations 3 2 2 7
+Measures 3 2 2 7
+Relationships 2 1 1 4
+Section B
+
+Number 0 4 0 4
+Operations 0 0 4 4
+Measures 4 0 0 4
+Relationships 3 0 0 3
+Total 18 11 15 40
+
+71
+
+
+
+--- Page 72 ---
+9.7 Assessment Instruments/Tools:
+
+The following are suggested tools
+
+Check list
+Observation schedules
+Tests
+
+Rating Scale
+Exercises
+
+Practical activities
+School based projects
+
+Profiling Portfolio
+
+72
+
+
+--- Page 73 ---
+9.8 Assessment Model
+The assessment will follow both Continuous and Summative assessment. Continuous Assessment will
+include recorded activities from the School Based Project and other activities done by the learners for
+assessment while summative will include terminal examinations, end of week, month, term, year or check
+points assessments.
+ASSESSMENT MODEL AT JUNIOR LEVEL
+a }
+
+ASSESSMENT OF LEARNER
+
+. PERFORMANCE IN
+See eee \
+CONTINUOUS SUMMATIVE
+ASSESSMENT ASSESSMENT
+20% = 80%
+NOU DP ——_{FuperT}— SEE 2
+PROJECT Multiple ~ Pape
+PROFILING 20% Choice STRUCTURED
+s |< | Questions PAPER
+EXIT |
+PROFILE CA MARK
+20%
+MH CERTIFICATE = (20%) SA MARK
+| (80%)
+FINAL MARK
+(CA MARK + SA
+
+MARK = 100%)
+
+73
+
+
